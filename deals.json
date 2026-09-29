@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790694058,
+ "updated": 1790698390,
  "deals": [
+  {
+   "id": "12731647",
+   "name": "경남제약 로얄플러스 멀티비타민, 900mg, 60정, 2개",
+   "price": 8500,
+   "originalPrice": 100000,
+   "discount": 91,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MGEwMTQ4/QU5xOGZUdVB6bng3bHVSR3A2VDFpMDVIMFhhbWg4SEhuajhFVnFVUFJLbFo.png",
+   "link": "https://toss.shopping/_m/XB4ToLlw",
+   "source": "toss",
+   "postedAt": 1790698390,
+   "endAt": "2026-09-30T23:59:59+09:00"
+  },
   {
    "id": "1000",
    "name": "할리스 시그니처 아메리카노, 550ml, 12개",
