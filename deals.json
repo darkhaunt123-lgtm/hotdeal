@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790702035,
+ "updated": 1790732636,
  "deals": [
+  {
+   "id": "138348141",
+   "name": "그릭데이 그릭요거트 시그니처, 100g, 5개",
+   "price": 14500,
+   "originalPrice": 23000,
+   "discount": 36,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-10/1e7b1884-27f6-4d35-b19c-b4a227721081.jpeg",
+   "link": "https://toss.shopping/_m/lUaI120q",
+   "source": "toss",
+   "postedAt": 1790732636,
+   "endAt": null
+  },
+  {
+   "id": "1239471885",
+   "name": "맛꾼 메추리알 장조림, 1kg, 2개",
+   "price": 8900,
+   "originalPrice": 20000,
+   "discount": 55,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-24/2eca8ca1-f347-4ec1-bbfa-56e8042f5e2d.jpeg",
+   "link": "https://toss.shopping/_m/JYLVjGSk",
+   "source": "toss",
+   "postedAt": 1790732633,
+   "endAt": null
+  },
+  {
+   "id": "200602521",
+   "name": "파이토메이드 고칼슘&비타민D 두유 검은콩, 190ml, 24개",
+   "price": 8600,
+   "originalPrice": 15800,
+   "discount": 45,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-17/769aa5a1-0ada-4790-9d5e-91593dd7c601.jpeg",
+   "link": "https://toss.shopping/_m/jtE1ZIF8",
+   "source": "toss",
+   "postedAt": 1790732632,
+   "endAt": null
+  },
   {
    "id": "211830215",
    "name": "초임계 알티지 오메가3 루테인지아잔틴, 1100mg, 30캡슐, 3개",
