@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790785205,
+ "updated": 1790785208,
  "deals": [
+  {
+   "id": "119672207",
+   "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
+   "price": 12700,
+   "originalPrice": 39800,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-05/28f63f1a-246e-4e36-82ad-12f0fbb50755.jpeg",
+   "link": "https://toss.shopping/_m/lkb7o58m",
+   "source": "toss",
+   "postedAt": 1790785208,
+   "endAt": "2026-10-01T23:59:59+09:00"
+  },
   {
    "id": "137378809",
    "name": "솔직한식탁 난각번호1번 자연방사 유정란, 60구, 1박스",
