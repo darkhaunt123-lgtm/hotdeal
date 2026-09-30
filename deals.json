@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790740435,
+ "updated": 1790740438,
  "deals": [
+  {
+   "id": "2650477071",
+   "name": "숯불 무뼈닭발, 150g, 6개",
+   "price": 23900,
+   "originalPrice": 59900,
+   "discount": 60,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-25/597496ed-9533-4445-aa94-6a31f0542adb.png",
+   "link": "https://toss.shopping/_m/llOIedEu",
+   "source": "toss",
+   "postedAt": 1790740438,
+   "endAt": "2026-09-30T23:59:59+09:00"
+  },
   {
    "id": "333040453",
    "name": "농가살리기 통팥호박찰시루떡, 1kg, 1박스",
