@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790776171,
+ "updated": 1790781569,
  "deals": [
+  {
+   "id": "8137313",
+   "name": "뉴센트리 MBP엔 콘드로이친 1200, 600mg, 60정, 6개",
+   "price": 34900,
+   "originalPrice": 210000,
+   "discount": 83,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-17/939e77b6-8712-48a0-a2cb-ebdcd2aacba3.jpeg",
+   "link": "https://toss.shopping/_m/3bx817Nk",
+   "source": "toss",
+   "postedAt": 1790781569,
+   "endAt": "2026-10-01T23:59:59+09:00"
+  },
+  {
+   "id": "2548008993",
+   "name": "몽카라 전기 모기채, PRM-001, 1개",
+   "price": 8900,
+   "originalPrice": 59000,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-28/61fcb5b5-c0d7-452b-86bc-ace45b38c300.jpeg",
+   "link": "https://toss.shopping/_m/F30d19V9",
+   "source": "toss",
+   "postedAt": 1790781566,
+   "endAt": "2026-10-01T23:59:59+09:00"
+  },
+  {
+   "id": "2165776149",
+   "name": "린넨엔어너더 아르덴 사박사박 렌징사 텐셀 모달x휴비스 듀라론 냉감 침대패드, 화이트, SS, 1개",
+   "price": 19000,
+   "originalPrice": 129000,
+   "discount": 85,
+   "grade": "무지성급",
+   "category": "가구/홈데코",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-02/f0491718-d69d-41d5-90b6-32900c3fd6f0.jpeg",
+   "link": "https://toss.shopping/_m/b9Ac8VPt",
+   "source": "toss",
+   "postedAt": 1790781563,
+   "endAt": "2026-10-01T23:59:59+09:00"
+  },
   {
    "id": "148001577",
    "name": "허만두 잎새만두, 알찬고기 1.4kg 1봉 + 알찬김치 1.4kg 1봉, 2봉",
