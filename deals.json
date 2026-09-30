@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790740438,
+ "updated": 1790741430,
  "deals": [
+  {
+   "id": "2307711989",
+   "name": "벨레스 바디 드라이기, BS-0110, 베이비블루, 1개",
+   "price": 34900,
+   "originalPrice": 99000,
+   "discount": 64,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-22/409f548c-4b3e-4f06-b8b1-6a893478db4b.jpeg",
+   "link": "https://toss.shopping/_m/BOQgJxai",
+   "source": "toss",
+   "postedAt": 1790741430,
+   "endAt": null
+  },
   {
    "id": "2650477071",
    "name": "숯불 무뼈닭발, 150g, 6개",
@@ -140,20 +154,6 @@
    "link": "https://toss.shopping/_m/f9uu6tpt",
    "source": "toss",
    "postedAt": 1790738613,
-   "endAt": "2026-09-30T23:59:59+09:00"
-  },
-  {
-   "id": "2307711989",
-   "name": "벨레스 바디 드라이기, BS-0110, 베이비블루, 1개",
-   "price": 34900,
-   "originalPrice": 99000,
-   "discount": 64,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-22/409f548c-4b3e-4f06-b8b1-6a893478db4b.jpeg",
-   "link": "https://toss.shopping/_m/BOQgJxai",
-   "source": "toss",
-   "postedAt": 1790738610,
    "endAt": "2026-09-30T23:59:59+09:00"
   },
   {
