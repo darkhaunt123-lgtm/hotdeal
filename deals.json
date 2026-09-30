@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790781569,
+ "updated": 1790781575,
  "deals": [
+  {
+   "id": "2660517707",
+   "name": "리얼닥터 알부민 활력 플러스, 15g, 14포, 10박스",
+   "price": 41900,
+   "originalPrice": 250000,
+   "discount": 83,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-28/ebff37e3-2867-44d7-9a44-c22244d22fb0.jpeg",
+   "link": "https://toss.shopping/_m/LKIFvu37",
+   "source": "toss",
+   "postedAt": 1790781575,
+   "endAt": "2026-10-01T23:59:59+09:00"
+  },
+  {
+   "id": "2658087741",
+   "name": "란센 초음파 렌즈세척기, BPL-04, 화이트, 1개",
+   "price": 9900,
+   "originalPrice": 59000,
+   "discount": 83,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-17/07401430-f927-404f-992f-ef2c92a0d715.jpeg",
+   "link": "https://toss.shopping/_m/zDIqIWkw",
+   "source": "toss",
+   "postedAt": 1790781572,
+   "endAt": "2026-10-01T23:59:59+09:00"
+  },
   {
    "id": "8137313",
    "name": "뉴센트리 MBP엔 콘드로이친 1200, 600mg, 60정, 6개",
