@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790815689,
+ "updated": 1790820872,
  "deals": [
+  {
+   "id": "2583406029",
+   "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
+   "price": 14900,
+   "originalPrice": 28900,
+   "discount": 48,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-07/0a780c14-36ce-4fdd-99af-d97b78ba2cf4.png",
+   "link": "https://toss.shopping/_m/dV1gvss7",
+   "source": "toss",
+   "postedAt": 1790820872,
+   "endAt": null
+  },
   {
    "id": "1046007247",
    "name": "한우 사골 도가니탕, 500g, 5팩",
