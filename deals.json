@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790827490,
+ "updated": 1790827533,
  "deals": [
+  {
+   "id": "2625255849",
+   "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+   "price": 4990,
+   "originalPrice": 30000,
+   "discount": 83,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-23/710346bd-e4bc-4303-86ad-bc00c2e54660.png",
+   "link": "https://toss.shopping/_m/1ImOKiqC",
+   "source": "toss",
+   "postedAt": 1790827533,
+   "endAt": null
+  },
   {
    "id": "2184701663",
    "name": "포천이동 양념LA갈비, 500g, 1팩",
