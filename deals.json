@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790790657,
+ "updated": 1790815622,
  "deals": [
+  {
+   "id": "2660607869",
+   "name": "라라스윗 파인트 아이스크림, 474ml, 초코 2개 + 복숭아 2개 + 요거트 2개, 6개",
+   "price": 26900,
+   "originalPrice": 71400,
+   "discount": 62,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-28/3df085e6-de11-48ee-b34b-801fb750aa8b.png",
+   "link": "https://toss.shopping/_m/NlDeQxD4",
+   "source": "toss",
+   "postedAt": 1790815622,
+   "endAt": null
+  },
   {
    "id": "2652212363",
    "name": "엔타도라 케라틴 단백질 빨간통 트리트먼트, 150ml, 1개",
@@ -28,20 +42,6 @@
    "link": "https://toss.shopping/_m/tuzlKKSa",
    "source": "toss",
    "postedAt": 1790790654,
-   "endAt": "2026-10-01T23:59:59+09:00"
-  },
-  {
-   "id": "2660607869",
-   "name": "라라스윗 파인트 아이스크림, 474ml, 초코 2개 + 복숭아 2개 + 요거트 2개, 6개",
-   "price": 26900,
-   "originalPrice": 71400,
-   "discount": 62,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-28/3df085e6-de11-48ee-b34b-801fb750aa8b.png",
-   "link": "https://toss.shopping/_m/NlDeQxD4",
-   "source": "toss",
-   "postedAt": 1790790650,
    "endAt": "2026-10-01T23:59:59+09:00"
   },
   {
