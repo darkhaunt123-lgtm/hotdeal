@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790827533,
+ "updated": 1790833916,
  "deals": [
+  {
+   "id": "241796467",
+   "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
+   "price": 4900,
+   "originalPrice": 14800,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
+   "link": "https://toss.shopping/_m/jnpFWHi7",
+   "source": "toss",
+   "postedAt": 1790833916,
+   "endAt": null
+  },
   {
    "id": "2625255849",
    "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
