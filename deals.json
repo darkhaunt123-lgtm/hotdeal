@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790827445,
+ "updated": 1790827490,
  "deals": [
+  {
+   "id": "2184701663",
+   "name": "포천이동 양념LA갈비, 500g, 1팩",
+   "price": 6990,
+   "originalPrice": 15900,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YWQ1YzA5/QU16RU01L0lZcC9STjBkV0M3QzZVekM0dzJJSjdIQXo3czRVNXN0b1h1M28.png",
+   "link": "https://toss.shopping/_m/r7GlxXB4",
+   "source": "toss",
+   "postedAt": 1790827490,
+   "endAt": null
+  },
   {
    "id": "36469633",
    "name": "스파클 생수 무라벨, 1L, 36개",
