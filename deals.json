@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790841559,
+ "updated": 1790848919,
  "deals": [
+  {
+   "id": "1046007247",
+   "name": "한우 사골 도가니탕, 500g, 5팩",
+   "price": 8990,
+   "originalPrice": 19000,
+   "discount": 52,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzk0NDM5/YjREN3FJTVc0VFdTRnFVemU4N1dZdWNNV3YwZU5BUHRhTk5yZ0FWS0lRND0.png",
+   "link": "https://toss.shopping/_m/Ff3WXSVf",
+   "source": "toss",
+   "postedAt": 1790848919,
+   "endAt": null
+  },
   {
    "id": "2640981637",
    "name": "한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
@@ -140,20 +154,6 @@
    "link": "https://toss.shopping/_m/dV1gvss7",
    "source": "toss",
    "postedAt": 1790820872,
-   "endAt": null
-  },
-  {
-   "id": "1046007247",
-   "name": "한우 사골 도가니탕, 500g, 5팩",
-   "price": 8990,
-   "originalPrice": 19000,
-   "discount": 52,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzk0NDM5/YjREN3FJTVc0VFdTRnFVemU4N1dZdWNNV3YwZU5BUHRhTk5yZ0FWS0lRND0.png",
-   "link": "https://toss.shopping/_m/Ff3WXSVf",
-   "source": "toss",
-   "postedAt": 1790815689,
    "endAt": null
   },
   {
@@ -1176,20 +1176,6 @@
    "link": "https://toss.im/_m/sample8",
    "source": "toss",
    "postedAt": 1790694058,
-   "endAt": null
-  },
-  {
-   "id": "1009",
-   "name": "무항생제 신선 대란 1.56kg, 30구, 1개",
-   "price": 8990,
-   "originalPrice": 11900,
-   "discount": 24,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": null,
-   "link": "https://toss.im/_m/sample9",
-   "source": "toss",
-   "postedAt": 1790586658,
    "endAt": null
   }
  ]
