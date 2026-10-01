@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790867957,
+ "updated": 1790867960,
  "deals": [
+  {
+   "id": "222933941",
+   "name": "다모아 두피 브러쉬 마사지기, 1개",
+   "price": 39900,
+   "originalPrice": 209000,
+   "discount": 80,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-05/757d97ec-7390-42cb-bd86-d3a61d30b4d0.jpeg",
+   "link": "https://toss.shopping/_m/N6uvWjJ9",
+   "source": "toss",
+   "postedAt": 1790867960,
+   "endAt": "2026-10-02T23:59:59+09:00"
+  },
   {
    "id": "140772193",
    "name": "대농유통 프리미엄 가성비 목살, 1kg, 1개",
