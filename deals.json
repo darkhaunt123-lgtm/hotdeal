@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790820872,
+ "updated": 1790823563,
  "deals": [
+  {
+   "id": "2480890741",
+   "name": "동원 덴마크 인포켓치즈 오리지널, 20g, 30개",
+   "price": 17900,
+   "originalPrice": 29900,
+   "discount": 40,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjIzYjkx/QU50YTI2V05XTkt0WlZackpTV01wTTF6TFRWWktHeHViZG1rMHJYazBxMWE.png",
+   "link": "https://toss.shopping/_m/H5kFKhC4",
+   "source": "toss",
+   "postedAt": 1790823563,
+   "endAt": null
+  },
   {
    "id": "2583406029",
    "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
