@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790827301,
+ "updated": 1790827345,
  "deals": [
+  {
+   "id": "2667320563",
+   "name": "종근당건강 락토핏 골드, 20포, 1박스",
+   "price": 2500,
+   "originalPrice": 6000,
+   "discount": 58,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-30/0076e6d6-f510-4fb8-bc35-e67179c25d04.jpeg",
+   "link": "https://toss.shopping/_m/rqEqmo6A",
+   "source": "toss",
+   "postedAt": 1790827345,
+   "endAt": null
+  },
   {
    "id": "2662678907",
    "name": "후디스 소화편한 우유 바나나, 190ml, 24개",
