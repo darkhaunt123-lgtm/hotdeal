@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790827345,
+ "updated": 1790827445,
  "deals": [
+  {
+   "id": "36469633",
+   "name": "스파클 생수 무라벨, 1L, 36개",
+   "price": 10990,
+   "originalPrice": 18000,
+   "discount": 38,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ODgyYWFi/UEhQZ2NRT1BNWS9zZk1aeEg0ZGpqdkE4K0hFZm9UdU84Tnk4Y1I3UjU2RT0.png",
+   "link": "https://toss.shopping/_m/ppCm6QH8",
+   "source": "toss",
+   "postedAt": 1790827445,
+   "endAt": null
+  },
   {
    "id": "2667320563",
    "name": "종근당건강 락토핏 골드, 20포, 1박스",
