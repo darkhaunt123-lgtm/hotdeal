@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790898104,
+ "updated": 1790900663,
  "deals": [
+  {
+   "id": "2034295555",
+   "name": "호정가 하루단백질바, 25g, 20개",
+   "price": 7990,
+   "originalPrice": 24000,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmFkNDg1/YTNNaXA1eW1lVUdtR2MrMnYwcjJEc205bTdGMlRrMWp1clVpUHdYQnExST0.png",
+   "link": "https://toss.shopping/_m/Lwf6ygvt",
+   "source": "toss",
+   "postedAt": 1790900663,
+   "endAt": null
+  },
   {
    "id": "2566320999",
    "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
