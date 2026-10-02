@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790926700,
+ "updated": 1790937782,
  "deals": [
+  {
+   "id": "2657822913",
+   "name": "햇 홍로사과, 5kg, 1개",
+   "price": 12800,
+   "originalPrice": 41900,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-23/c451713e-9f01-4b88-b8c5-5dd1ebcae52a.jpeg",
+   "link": "https://toss.shopping/_m/zI1Za2xd",
+   "source": "toss",
+   "postedAt": 1790937782,
+   "endAt": null
+  },
   {
    "id": "2184701663",
    "name": "포천이동 양념LA갈비, 500g, 1팩",
@@ -1582,20 +1596,6 @@
    "link": "https://toss.im/_m/sample0",
    "source": "toss",
    "postedAt": 1790683858,
-   "endAt": null
-  },
-  {
-   "id": "1001",
-   "name": "미미네 오리지널 국물떡볶이, 570g, 4봉",
-   "price": 9900,
-   "originalPrice": 15900,
-   "discount": 38,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": null,
-   "link": "https://toss.im/_m/sample1",
-   "source": "toss",
-   "postedAt": 1790676658,
    "endAt": null
   },
   {
