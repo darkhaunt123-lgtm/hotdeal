@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790958153,
+ "updated": 1790958156,
  "deals": [
+  {
+   "id": "1506694763",
+   "name": "저염 백명란 파지, 400g, 2개",
+   "price": 16200,
+   "originalPrice": 60000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NGMyMjVl/TkZna25mbVJNd05Oam13bUhHK1U3ek5tYVVTZU5MV1Jack5tODd5cGtWWT0.png",
+   "link": "https://toss.shopping/_m/RTKZWSxj",
+   "source": "toss",
+   "postedAt": 1790958156,
+   "endAt": "2026-10-03T23:59:59+09:00"
+  },
   {
    "id": "2643200589",
    "name": "자연진리 나주 신고배, 가정용, 4-7과, 3kg, 1박스",
