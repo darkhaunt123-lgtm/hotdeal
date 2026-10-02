@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790937782,
+ "updated": 1790954517,
  "deals": [
+  {
+   "id": "240280585",
+   "name": "라이프턴 퍼스트 엑스트라버진 올리브오일 식물성 캡슐, 30캡슐, 3박스",
+   "price": 12900,
+   "originalPrice": 90000,
+   "discount": 85,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDY5Mzgz/QVBRVmIycE5RSitYbTcvaGYvWEF2OEJsRmMvQ244cmlQNXUvSDhCa0Vlby8.png",
+   "link": "https://toss.shopping/_m/V9TGgWLu",
+   "source": "toss",
+   "postedAt": 1790954517,
+   "endAt": "2026-10-03T23:59:59+09:00"
+  },
+  {
+   "id": "2655709013",
+   "name": "일양 눈건강 루테인 지아잔틴 골드, 500mg, 30캡슐, 6개",
+   "price": 29400,
+   "originalPrice": 360000,
+   "discount": 91,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-16/23fae4ad-8c69-4d17-9b94-40ef44935413.jpeg",
+   "link": "https://toss.shopping/_m/dKMJJTg7",
+   "source": "toss",
+   "postedAt": 1790954514,
+   "endAt": "2026-10-03T23:59:59+09:00"
+  },
+  {
+   "id": "1141153727",
+   "name": "라이녹스 클린 마스터 펫 청소기, 12L, 주황, 1개",
+   "price": 24900,
+   "originalPrice": 299000,
+   "discount": 91,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-28/977b93e0-ec6f-4f5a-bb40-9450ef99e12b.jpeg",
+   "link": "https://toss.shopping/_m/bfySFpys",
+   "source": "toss",
+   "postedAt": 1790954511,
+   "endAt": "2026-10-03T23:59:59+09:00"
+  },
   {
    "id": "2657822913",
    "name": "햇 홍로사과, 5kg, 1개",
@@ -1583,62 +1625,6 @@
    "source": "toss",
    "postedAt": 1790698393,
    "endAt": "2026-09-30T23:59:59+09:00"
-  },
-  {
-   "id": "1000",
-   "name": "할리스 시그니처 아메리카노, 550ml, 12개",
-   "price": 7990,
-   "originalPrice": 19900,
-   "discount": 60,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": null,
-   "link": "https://toss.im/_m/sample0",
-   "source": "toss",
-   "postedAt": 1790683858,
-   "endAt": null
-  },
-  {
-   "id": "1002",
-   "name": "이선별 밀크카스테라, 1kg, 1박스",
-   "price": 6900,
-   "originalPrice": 12900,
-   "discount": 47,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": null,
-   "link": "https://toss.im/_m/sample2",
-   "source": "toss",
-   "postedAt": 1790692858,
-   "endAt": null
-  },
-  {
-   "id": "1005",
-   "name": "에센스웨어 PD PPS GaN C타입 25W 초고속 충전기 C to C 60W 1M 케이블 세트",
-   "price": 3430,
-   "originalPrice": 19900,
-   "discount": 83,
-   "grade": "무지성급",
-   "category": "디지털",
-   "thumbnail": null,
-   "link": "https://toss.im/_m/sample5",
-   "source": "toss",
-   "postedAt": 1790687458,
-   "endAt": null
-  },
-  {
-   "id": "1008",
-   "name": "가성비가브랜드다 이염방지 세탁시트 [200매]",
-   "price": 6800,
-   "originalPrice": 15000,
-   "discount": 55,
-   "grade": "초대박",
-   "category": "생활용품",
-   "thumbnail": null,
-   "link": "https://toss.im/_m/sample8",
-   "source": "toss",
-   "postedAt": 1790694058,
-   "endAt": null
   }
  ]
 }
