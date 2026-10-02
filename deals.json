@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790954517,
+ "updated": 1790954523,
  "deals": [
+  {
+   "id": "1130712335",
+   "name": "보라톡스 제로슈가 파비플로라 알파CD 보라워터, 500ml, 24개",
+   "price": 33700,
+   "originalPrice": 200000,
+   "discount": 83,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-03/31bd8534-8c21-4808-9c9a-ed08fc5efd4a.jpeg",
+   "link": "https://toss.shopping/_m/BB3Fye0v",
+   "source": "toss",
+   "postedAt": 1790954523,
+   "endAt": "2026-10-03T23:59:59+09:00"
+  },
+  {
+   "id": "1553617581",
+   "name": "종근당건강 헬씨칸, 750mg, 30캡슐, 6박스",
+   "price": 28395,
+   "originalPrice": 186000,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-16/ee4d2249-dc00-47a8-a802-ab5a691128ac.jpeg",
+   "link": "https://toss.shopping/_m/5gEbdrw8",
+   "source": "toss",
+   "postedAt": 1790954520,
+   "endAt": "2026-10-03T23:59:59+09:00"
+  },
   {
    "id": "240280585",
    "name": "라이프턴 퍼스트 엑스트라버진 올리브오일 식물성 캡슐, 30캡슐, 3박스",
