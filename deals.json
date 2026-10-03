@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790993293,
+ "updated": 1790993372,
  "deals": [
+  {
+   "id": "2601104607",
+   "name": "이롬 국내산 약콩 무가당 두유, 190ml, 16개",
+   "price": 4990,
+   "originalPrice": 16800,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-11/15ffc29f-7783-4998-8e0d-a05f9af74909.png",
+   "link": "https://toss.shopping/_m/frkDOx8b",
+   "source": "toss",
+   "postedAt": 1790993372,
+   "endAt": null
+  },
   {
    "id": "2637055651",
    "name": "예진원 국내산 ABC주스, 80ml, 35개",
