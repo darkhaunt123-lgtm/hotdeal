@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790994972,
+ "updated": 1790994975,
  "deals": [
+  {
+   "id": "44140017",
+   "name": "살림대표 블랙커버 손목 보호대, 블랙, 2개",
+   "price": 8900,
+   "originalPrice": 28700,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2024-11-27/70f18a3e-ceeb-4dd4-9c6a-cd92e63e2810.png",
+   "link": "https://toss.shopping/_m/jeE3WTqC",
+   "source": "toss",
+   "postedAt": 1790994975,
+   "endAt": "2026-10-03T23:59:59+09:00"
+  },
   {
    "id": "1499957211",
    "name": "산들에담다 바다한입 통영 멍게 비빔장, 150g, 2개",
