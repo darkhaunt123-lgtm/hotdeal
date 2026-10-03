@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1790993166,
+ "updated": 1790993293,
  "deals": [
+  {
+   "id": "2637055651",
+   "name": "예진원 국내산 ABC주스, 80ml, 35개",
+   "price": 5990,
+   "originalPrice": 19900,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-28/780143de-df4a-49b0-9700-2d92628fb408.jpeg",
+   "link": "https://toss.shopping/_m/tMc2iQKu",
+   "source": "toss",
+   "postedAt": 1790993293,
+   "endAt": null
+  },
   {
    "id": "2599642785",
    "name": "맥콜 제로슈거, 190ml, 30개",
@@ -350,20 +364,6 @@
    "link": "https://toss.shopping/_m/1ImOKiqC",
    "source": "toss",
    "postedAt": 1790898037,
-   "endAt": null
-  },
-  {
-   "id": "2637055651",
-   "name": "예진원 국내산 ABC주스, 80ml, 35개",
-   "price": 5990,
-   "originalPrice": 19900,
-   "discount": 69,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-28/780143de-df4a-49b0-9700-2d92628fb408.jpeg",
-   "link": "https://toss.shopping/_m/tMc2iQKu",
-   "source": "toss",
-   "postedAt": 1790898021,
    "endAt": null
   },
   {
