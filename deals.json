@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791021620,
+ "updated": 1791023664,
  "deals": [
+  {
+   "id": "1089469257",
+   "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
+   "price": 58810,
+   "originalPrice": 223000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZjYyMmQx/QUp0c3M1azJ5V1p1VG1ZMDJXY3ptMnlhU2VXTXRteWVaMlRaeVNRNVBER1Q.png",
+   "link": "https://toss.shopping/_m/ddJ4HVXb",
+   "source": "toss",
+   "postedAt": 1791023664,
+   "endAt": null
+  },
   {
    "id": "2463826413",
    "name": "고기중독 한입삼겹살, 500g, 4개",
