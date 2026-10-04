@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791108092,
+ "updated": 1791115343,
  "deals": [
+  {
+   "id": "2601874047",
+   "name": "청우 계란과자, 40g, 24개",
+   "price": 13900,
+   "originalPrice": 37800,
+   "discount": 63,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-11/30cdc86a-1b83-4453-b6d8-10e6202b16ce.jpeg",
+   "link": "https://toss.shopping/_m/zVRV30Gn",
+   "source": "toss",
+   "postedAt": 1791115343,
+   "endAt": null
+  },
   {
    "id": "12530671",
    "name": "동원 딤섬, 부추창펀, 390g, 6개",
@@ -126,20 +140,6 @@
    "link": "https://toss.shopping/_m/H582jxEo",
    "source": "toss",
    "postedAt": 1791089098,
-   "endAt": "2026-10-04T23:59:59+09:00"
-  },
-  {
-   "id": "2601874047",
-   "name": "청우 계란과자, 40g, 24개",
-   "price": 13900,
-   "originalPrice": 37800,
-   "discount": 63,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-11/30cdc86a-1b83-4453-b6d8-10e6202b16ce.jpeg",
-   "link": "https://toss.shopping/_m/zVRV30Gn",
-   "source": "toss",
-   "postedAt": 1791087294,
    "endAt": "2026-10-04T23:59:59+09:00"
   },
   {
@@ -1513,20 +1513,6 @@
    "source": "toss",
    "postedAt": 1790867948,
    "endAt": "2026-10-02T23:59:59+09:00"
-  },
-  {
-   "id": "1046007247",
-   "name": "한우 사골 도가니탕, 500g, 5팩",
-   "price": 8990,
-   "originalPrice": 19000,
-   "discount": 52,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzk0NDM5/YjREN3FJTVc0VFdTRnFVemU4N1dZdWNNV3YwZU5BUHRhTk5yZ0FWS0lRND0.png",
-   "link": "https://toss.shopping/_m/Ff3WXSVf",
-   "source": "toss",
-   "postedAt": 1790848919,
-   "endAt": null
   }
  ]
 }
