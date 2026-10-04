@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791081846,
+ "updated": 1791083662,
  "deals": [
+  {
+   "id": "2665055729",
+   "name": "베프랩 고체 탈취제, 민트향, 300g, 2개",
+   "price": 17900,
+   "originalPrice": 59800,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-28/ece61e85-be3b-4f86-886f-413b6afce753.jpeg",
+   "link": "https://toss.shopping/_m/HZ95g4N4",
+   "source": "toss",
+   "postedAt": 1791083662,
+   "endAt": "2026-10-04T23:59:59+09:00"
+  },
+  {
+   "id": "2666033871",
+   "name": "제주 노지 조생 감귤, 중대과, 10kg, 1박스",
+   "price": 14900,
+   "originalPrice": 50000,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-10-30/23d364ce-4b43-4f3f-9fee-5608815f8785.jpeg",
+   "link": "https://toss.shopping/_m/Vuz9PUI",
+   "source": "toss",
+   "postedAt": 1791083659,
+   "endAt": "2026-10-04T23:59:59+09:00"
+  },
+  {
+   "id": "301787883",
+   "name": "헬로바이오 알파CD 원데이핏 알파시글로덱스트린, 3g, 14포, 12개",
+   "price": 29900,
+   "originalPrice": 105900,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-11-05/00d4a0b2-f806-4ec8-affb-71f91babddf9.jpeg",
+   "link": "https://toss.shopping/_m/Dq7KN327",
+   "source": "toss",
+   "postedAt": 1791083656,
+   "endAt": "2026-10-04T23:59:59+09:00"
+  },
+  {
+   "id": "2653019077",
+   "name": "약초방 흑염소 진액, 70g, 30포, 4개",
+   "price": 52500,
+   "originalPrice": 196000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-10/6752ea0c-5e8c-4ce1-85d0-0be56c892c33.png",
+   "link": "https://toss.shopping/_m/DzTLZaLu",
+   "source": "toss",
+   "postedAt": 1791083652,
+   "endAt": "2026-10-04T23:59:59+09:00"
+  },
+  {
+   "id": "43443031",
+   "name": "리얼닥터 오메가3, 1100mg, 180캡슐, 1개",
+   "price": 18300,
+   "originalPrice": 70000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-08-29/0a338eb4-4df2-497f-9406-8ba73e145088.jpeg",
+   "link": "https://toss.shopping/_m/lkxQeDEs",
+   "source": "toss",
+   "postedAt": 1791083649,
+   "endAt": "2026-10-04T23:59:59+09:00"
+  },
   {
    "id": "199071275",
    "name": "더마유레카 모이스처 바이오 올인원 로션, 500g, 1개",
@@ -1288,20 +1358,6 @@
    "link": "https://toss.shopping/_m/BShgWEYl",
    "source": "toss",
    "postedAt": 1790827301,
-   "endAt": null
-  },
-  {
-   "id": "2480890741",
-   "name": "동원 덴마크 인포켓치즈 오리지널, 20g, 30개",
-   "price": 17900,
-   "originalPrice": 29900,
-   "discount": 40,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjIzYjkx/QU50YTI2V05XTkt0WlZackpTV01wTTF6TFRWWktHeHViZG1rMHJYazBxMWE.png",
-   "link": "https://toss.shopping/_m/H5kFKhC4",
-   "source": "toss",
-   "postedAt": 1790823563,
    "endAt": null
   }
  ]
