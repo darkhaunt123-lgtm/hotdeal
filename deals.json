@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791103408,
+ "updated": 1791107429,
  "deals": [
+  {
+   "id": "2657822913",
+   "name": "햇 홍로사과, 5kg, 1개",
+   "price": 15500,
+   "originalPrice": 41900,
+   "discount": 63,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-23/c451713e-9f01-4b88-b8c5-5dd1ebcae52a.jpeg",
+   "link": "https://toss.shopping/_m/zI1Za2xd",
+   "source": "toss",
+   "postedAt": 1791107429,
+   "endAt": null
+  },
   {
    "id": "343509451",
    "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
@@ -953,20 +967,6 @@
    "source": "toss",
    "postedAt": 1790954511,
    "endAt": "2026-10-03T23:59:59+09:00"
-  },
-  {
-   "id": "2657822913",
-   "name": "햇 홍로사과, 5kg, 1개",
-   "price": 12800,
-   "originalPrice": 41900,
-   "discount": 69,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-23/c451713e-9f01-4b88-b8c5-5dd1ebcae52a.jpeg",
-   "link": "https://toss.shopping/_m/zI1Za2xd",
-   "source": "toss",
-   "postedAt": 1790937782,
-   "endAt": null
   },
   {
    "id": "2184701663",
