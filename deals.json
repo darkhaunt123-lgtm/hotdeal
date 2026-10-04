@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791107429,
+ "updated": 1791108092,
  "deals": [
+  {
+   "id": "12530671",
+   "name": "동원 딤섬, 부추창펀, 390g, 6개",
+   "price": 19900,
+   "originalPrice": 35900,
+   "discount": 44,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZmNmMDE2/QU54dnhNZmR1emw5ejlrWU9EblU1ODlGMmNzMnpZbmVaOFhadDl1aTFCMjk.png",
+   "link": "https://toss.shopping/_m/DmP13fqt",
+   "source": "toss",
+   "postedAt": 1791108092,
+   "endAt": null
+  },
   {
    "id": "2657822913",
    "name": "햇 홍로사과, 5kg, 1개",
