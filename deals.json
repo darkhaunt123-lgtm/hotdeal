@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791080030,
+ "updated": 1791081846,
  "deals": [
+  {
+   "id": "199071275",
+   "name": "더마유레카 모이스처 바이오 올인원 로션, 500g, 1개",
+   "price": 6900,
+   "originalPrice": 25900,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-15/d623c2b1-b2ca-4ea2-a6f5-38bf5bf6b22f.jpeg",
+   "link": "https://toss.shopping/_m/BL7uUdns",
+   "source": "toss",
+   "postedAt": 1791081846,
+   "endAt": "2026-10-04T23:59:59+09:00"
+  },
+  {
+   "id": "2668328509",
+   "name": "검정 스텐 톱날과도, 18.9cm, 2종, 1세트",
+   "price": 12900,
+   "originalPrice": 49900,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-22/ead232f4-b81b-4683-9e43-6b2a4604b496.jpeg",
+   "link": "https://toss.shopping/_m/5iPDQn9i",
+   "source": "toss",
+   "postedAt": 1791081843,
+   "endAt": "2026-10-04T23:59:59+09:00"
+  },
+  {
+   "id": "2548653861",
+   "name": "MTC 포어 딥 클렌징 폼, 120ml, 2개",
+   "price": 11900,
+   "originalPrice": 56000,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/M2E5MTIz/T05tT09ZY21jYzZaeHNjTWNOdmNjNWMwTVl4b3pvNXpIanRoeDdFeG5qdz0.png",
+   "link": "https://toss.shopping/_m/f5isIQ8b",
+   "source": "toss",
+   "postedAt": 1791081840,
+   "endAt": "2026-10-04T23:59:59+09:00"
+  },
+  {
+   "id": "2640973183",
+   "name": "프로프룻 국내산 햇배, 대과, 개별망포장, 5kg, 1박스",
+   "price": 14700,
+   "originalPrice": 69900,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-28/12a8d07f-dcf2-4fc7-ade1-577671bec7dc.png",
+   "link": "https://toss.shopping/_m/zdg6CgP5",
+   "source": "toss",
+   "postedAt": 1791081836,
+   "endAt": "2026-10-04T23:59:59+09:00"
+  },
+  {
+   "id": "215796983",
+   "name": "더프레스카 랩 리페어 리바이탈 골드 앰플, 50ml, 1개",
+   "price": 21900,
+   "originalPrice": 104000,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmY3MmZm/SG83dzgyZHRINXIwOUtmSkhWRitEdUhnSHg3bHc1QitINEZnMnA4OEU2RT0.png",
+   "link": "https://toss.shopping/_m/LqprSLmB",
+   "source": "toss",
+   "postedAt": 1791081833,
+   "endAt": "2026-10-04T23:59:59+09:00"
+  },
   {
    "id": "513747509",
    "name": "전통압착 통참기름, 350ml, 4개",
@@ -1232,20 +1302,6 @@
    "link": "https://toss.shopping/_m/H5kFKhC4",
    "source": "toss",
    "postedAt": 1790823563,
-   "endAt": null
-  },
-  {
-   "id": "2583406029",
-   "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
-   "price": 14900,
-   "originalPrice": 28900,
-   "discount": 48,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-07/0a780c14-36ce-4fdd-99af-d97b78ba2cf4.png",
-   "link": "https://toss.shopping/_m/dV1gvss7",
-   "source": "toss",
-   "postedAt": 1790820872,
    "endAt": null
   }
  ]
