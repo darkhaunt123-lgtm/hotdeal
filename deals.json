@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791089111,
+ "updated": 1791098057,
  "deals": [
+  {
+   "id": "1128231235",
+   "name": "디핀다트 구슬아이스크림, 50ml, 레인보우 4개 + 딸기 4개 + 초코바나나 4개 + 쿠키앤크림 4개, 16개",
+   "price": 15600,
+   "originalPrice": 28000,
+   "discount": 44,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDYyODFj/QU5KMHpxYVVLMzJVSzVialk5U1BMUjVySVpUeUMrVmV6N1VROG1rbEVHMlc.png",
+   "link": "https://toss.shopping/_m/PC6gyg92",
+   "source": "toss",
+   "postedAt": 1791098057,
+   "endAt": null
+  },
   {
    "id": "2611149091",
    "name": "모두의국밥 얼큰우거지 뼈해장국 감자탕, 1kg, 3개",
@@ -1498,34 +1512,6 @@
    "link": "https://toss.shopping/_m/xeXyBali",
    "source": "toss",
    "postedAt": 1790841559,
-   "endAt": null
-  },
-  {
-   "id": "2185764457",
-   "name": "전기구이 몸통오징어, 200g, 7-10미, 1개",
-   "price": 9990,
-   "originalPrice": 20000,
-   "discount": 50,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-08/04466375-e150-44ed-932f-0024c7d7dc26.jpeg",
-   "link": "https://toss.shopping/_m/baKJDtSl",
-   "source": "toss",
-   "postedAt": 1790835972,
-   "endAt": null
-  },
-  {
-   "id": "241796467",
-   "name": "괄사 마사지 3종, 전신, 1개 + 문어, 1개 + 하트, 1개, 1세트",
-   "price": 4900,
-   "originalPrice": 14800,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmI1NGJk/QUpobU9jOXRzYlNac25uSVpEbW03Wm1lVTF0TXkweFlNekR6VXNubkhLY00.png",
-   "link": "https://toss.shopping/_m/jnpFWHi7",
-   "source": "toss",
-   "postedAt": 1790833916,
    "endAt": null
   }
  ]
