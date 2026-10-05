@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791184953,
+ "updated": 1791193561,
  "deals": [
+  {
+   "id": "1130826289",
+   "name": "웅진식품 더 빅토리아, 레몬 500ml 20개 + 자두 500ml 20개, 40개",
+   "price": 14600,
+   "originalPrice": 26900,
+   "discount": 45,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OGNiZmUy/QU1OOGhXeStVTmh5RDUraHNiM1RjODJDT3ZOZ041YmFLazF0QjB4d3pJWjc.png",
+   "link": "https://toss.shopping/_m/9RxWmNdl",
+   "source": "toss",
+   "postedAt": 1791193561,
+   "endAt": null
+  },
   {
    "id": "2334877747",
    "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
@@ -1051,20 +1065,6 @@
    "source": "toss",
    "postedAt": 1790954511,
    "endAt": "2026-10-03T23:59:59+09:00"
-  },
-  {
-   "id": "2184701663",
-   "name": "포천이동 양념LA갈비, 500g, 1팩",
-   "price": 6990,
-   "originalPrice": 15900,
-   "discount": 56,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YWQ1YzA5/QU16RU01L0lZcC9STjBkV0M3QzZVekM0dzJJSjdIQXo3czRVNXN0b1h1M28.png",
-   "link": "https://toss.shopping/_m/r7GlxXB4",
-   "source": "toss",
-   "postedAt": 1790926700,
-   "endAt": null
   }
  ]
 }
