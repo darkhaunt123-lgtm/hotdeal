@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791178861,
+ "updated": 1791184953,
  "deals": [
+  {
+   "id": "2334877747",
+   "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
+   "price": 8253,
+   "originalPrice": 24800,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "출산/유아동",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-01/cbcba31d-9c3d-4336-b01c-da1112ebe230.jpeg",
+   "link": "https://toss.shopping/_m/z6chWgHs",
+   "source": "toss",
+   "postedAt": 1791184953,
+   "endAt": null
+  },
   {
    "id": "2515175001",
    "name": "양념 치마살, 300g, 2개",
@@ -1050,20 +1064,6 @@
    "link": "https://toss.shopping/_m/r7GlxXB4",
    "source": "toss",
    "postedAt": 1790926700,
-   "endAt": null
-  },
-  {
-   "id": "2450913223",
-   "name": "하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
-   "price": 8900,
-   "originalPrice": 15900,
-   "discount": 44,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-09/e57076fd-010b-40ca-9945-50f1c7759e58.jpeg",
-   "link": "https://toss.shopping/_m/pWLYX5Zv",
-   "source": "toss",
-   "postedAt": 1790922623,
    "endAt": null
   }
  ]
