@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791169715,
+ "updated": 1791173246,
  "deals": [
+  {
+   "id": "301940091",
+   "name": "센토 프라임 초미세 딥클린 점보 칫솔, 12개입, 2개",
+   "price": 11700,
+   "originalPrice": 49800,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-11-05/3285eccd-790e-4bb3-a732-f548238d5a0b.jpeg",
+   "link": "https://toss.shopping/_m/NS9ov5to",
+   "source": "toss",
+   "postedAt": 1791173246,
+   "endAt": null
+  },
   {
    "id": "179780757",
    "name": "아워홈 잡채말이 어묵, 1kg, 2팩",
@@ -1036,20 +1050,6 @@
    "link": "https://toss.shopping/_m/pWLYX5Zv",
    "source": "toss",
    "postedAt": 1790922623,
-   "endAt": null
-  },
-  {
-   "id": "2536370261",
-   "name": "맛팜 신 곱창볶음, 250g, 2개",
-   "price": 6600,
-   "originalPrice": 24400,
-   "discount": 72,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/YWIzZjU3/QU92cGNPRXZIT2VhRUdPZlVxZXk4TXRLUDA4azAySkN6YXhEYldlVnpwTkk.png",
-   "link": "https://toss.shopping/_m/3GkjxBTg",
-   "source": "toss",
-   "postedAt": 1790911913,
    "endAt": null
   }
  ]
