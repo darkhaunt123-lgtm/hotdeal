@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791193561,
+ "updated": 1791196894,
  "deals": [
+  {
+   "id": "155716723",
+   "name": "동원 라이트참치 85g 6개 + 고추참치 85g 6개, 1세트",
+   "price": 16900,
+   "originalPrice": 28600,
+   "discount": 40,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjAwNGYw/QU8zd1hNOWowRXVucytUbVdFd3J0UFJmRzJGWUtxOVBEK1ZRMHJlbFVDMVk.png",
+   "link": "https://toss.shopping/_m/rdPIKC4B",
+   "source": "toss",
+   "postedAt": 1791196894,
+   "endAt": null
+  },
   {
    "id": "1130826289",
    "name": "웅진식품 더 빅토리아, 레몬 500ml 20개 + 자두 500ml 20개, 40개",
