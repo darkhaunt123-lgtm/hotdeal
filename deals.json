@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791161546,
+ "updated": 1791169715,
  "deals": [
+  {
+   "id": "179780757",
+   "name": "아워홈 잡채말이 어묵, 1kg, 2팩",
+   "price": 10900,
+   "originalPrice": 24900,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzc4NmYw/WjJkam1SREpqTTZOTnBjNzZ0Qng0M0x0amh5TlBtWjJkdE1SaWVsRTduWT0.png",
+   "link": "https://toss.shopping/_m/Fj2sBNIo",
+   "source": "toss",
+   "postedAt": 1791169715,
+   "endAt": null
+  },
   {
    "id": "135264173",
    "name": "CJ제일제당 스팸 클래식, 340g, 10개",
@@ -1036,20 +1050,6 @@
    "link": "https://toss.shopping/_m/3GkjxBTg",
    "source": "toss",
    "postedAt": 1790911913,
-   "endAt": null
-  },
-  {
-   "id": "2401832945",
-   "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
-   "price": 10600,
-   "originalPrice": 27900,
-   "discount": 62,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
-   "link": "https://toss.shopping/_m/5jyWeNgr",
-   "source": "toss",
-   "postedAt": 1790907781,
    "endAt": null
   }
  ]
