@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791315289,
+ "updated": 1791315293,
  "deals": [
+  {
+   "id": "84393203",
+   "name": "직접푸드 대왕 다이버 바지락, 통통 왕 바지락, 1kg",
+   "price": 7900,
+   "originalPrice": 17000,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NWY2MmQ0/QUtaTmJNOGJiTWFJTnltWmJZeHlLVmtXUTUrZDQ4c1dzb1dzalpxV0VtSGE.png",
+   "link": "https://toss.shopping/_m/3NW2U2b7",
+   "source": "toss",
+   "postedAt": 1791315293,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "580008117",
    "name": "헬로바이오 덴마크 구강유산균 자일리톨 프레시, 900mg, 30정, 6박스",
