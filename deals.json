@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791297114,
+ "updated": 1791297121,
  "deals": [
+  {
+   "id": "687621945",
+   "name": "일양 코엔자임Q10 코큐텐 올인원케어, 550mg, 30캡슐, 4박스",
+   "price": 16800,
+   "originalPrice": 160000,
+   "discount": 89,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NGU3YWY1/T25iVnl5UG1iOFBWeXp2QnptL2VQRHFjL0Q1K05GWStENUZUOUUvQnJVcz0.png",
+   "link": "https://toss.shopping/_m/NxrbjOp9",
+   "source": "toss",
+   "postedAt": 1791297121,
+   "endAt": "2026-10-07T00:00:00+09:00"
+  },
+  {
+   "id": "121677903",
+   "name": "일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 4박스",
+   "price": 16500,
+   "originalPrice": 198000,
+   "discount": 91,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDdkMWY5/QU5sak14WmxzK2ZXWnpsTTA1ckpwWnljTlBFMnBsYWVUS2tVTGZrNThIT2g.png",
+   "link": "https://toss.shopping/_m/lJkFjCyx",
+   "source": "toss",
+   "postedAt": 1791297118,
+   "endAt": "2026-10-07T00:00:00+09:00"
+  },
   {
    "id": "2605059059",
    "name": "한국생활건강연구소 슬림핏밸런스 차전자피 가르시니아, 14개입, 8개",
