@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791304387,
+ "updated": 1791304390,
  "deals": [
+  {
+   "id": "1530421225",
+   "name": "무드업 코튼 터치 원피스, 블랙, 77, 1개",
+   "price": 10100,
+   "originalPrice": 49900,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-14/556c5a73-75ed-4546-8c19-3fd7952c897a.jpeg",
+   "link": "https://toss.shopping/_m/lKEmM3Ma",
+   "source": "toss",
+   "postedAt": 1791304390,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "2133682731",
    "name": "발이 편한 카바 밴딩 중목 양말, 여성용, 화이트, 10켤레",
