@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791264978,
+ "updated": 1791297114,
  "deals": [
+  {
+   "id": "2605059059",
+   "name": "한국생활건강연구소 슬림핏밸런스 차전자피 가르시니아, 14개입, 8개",
+   "price": 23800,
+   "originalPrice": 400000,
+   "discount": 94,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-12/77eb0308-2c01-4896-902a-e9bec389e1c5.png",
+   "link": "https://toss.shopping/_m/3WcVQaKp",
+   "source": "toss",
+   "postedAt": 1791297114,
+   "endAt": "2026-10-07T00:00:00+09:00"
+  },
+  {
+   "id": "264318287",
+   "name": "영진약품 초임계 알티지오메가3 퓨어골드, 30.96g, 30캡슐, 3박스",
+   "price": 15920,
+   "originalPrice": 300000,
+   "discount": 94,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OGFjNzI4/QU01Ym1aUXpqNmVHdlk0NzJXMkdINDc0ZWVTMEVyQnNNOGp4K0h2QzlCZUU.png",
+   "link": "https://toss.shopping/_m/pwxYR5dg",
+   "source": "toss",
+   "postedAt": 1791297111,
+   "endAt": "2026-10-07T00:00:00+09:00"
+  },
+  {
+   "id": "1157238085",
+   "name": "키팅 수면 입막음 입벌림방지 테이프, MATAPE, 60매입, 1개",
+   "price": 6620,
+   "originalPrice": 159000,
+   "discount": 95,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-02/e169ed72-43a4-4193-a043-4dacbbba59df.png",
+   "link": "https://toss.shopping/_m/BsXs6wz9",
+   "source": "toss",
+   "postedAt": 1791297108,
+   "endAt": "2026-10-07T00:00:00+09:00"
+  },
   {
    "id": "92152707",
    "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 1개",
@@ -658,34 +700,6 @@
    "link": "https://toss.shopping/_m/f3L0f26A",
    "source": "toss",
    "postedAt": 1791078255,
-   "endAt": null
-  },
-  {
-   "id": "1089469257",
-   "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
-   "price": 58810,
-   "originalPrice": 223000,
-   "discount": 73,
-   "grade": "무지성급",
-   "category": "주방용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZjYyMmQx/QUp0c3M1azJ5V1p1VG1ZMDJXY3ptMnlhU2VXTXRteWVaMlRaeVNRNVBER1Q.png",
-   "link": "https://toss.shopping/_m/ddJ4HVXb",
-   "source": "toss",
-   "postedAt": 1791023664,
-   "endAt": null
-  },
-  {
-   "id": "2463826413",
-   "name": "고기중독 한입삼겹살, 500g, 4개",
-   "price": 19900,
-   "originalPrice": 59000,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/Yzg3ZWVl/U2FOZHNSNXpPbHFsTk8wczl1YXg0VnJaemt5ckRwamt4WGlzVEY3QVdiST0.png",
-   "link": "https://toss.shopping/_m/hJGrrV0l",
-   "source": "toss",
-   "postedAt": 1791021620,
    "endAt": null
   }
  ]
