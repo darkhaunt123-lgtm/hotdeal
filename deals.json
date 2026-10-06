@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791252106,
+ "updated": 1791252160,
  "deals": [
+  {
+   "id": "2634077041",
+   "name": "햇 호풍미 꿀고구마, 특상, 3kg, 1박스",
+   "price": 8900,
+   "originalPrice": 19900,
+   "discount": 55,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-24/5c022388-7edf-493c-9f16-3f8fb796d46a.jpeg",
+   "link": "https://toss.shopping/_m/nYsUDA6b",
+   "source": "toss",
+   "postedAt": 1791252160,
+   "endAt": null
+  },
   {
    "id": "135279807",
    "name": "햇반 윤기가득쌀밥, 210g, 36개",
