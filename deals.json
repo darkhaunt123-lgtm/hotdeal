@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791308021,
+ "updated": 1791308024,
  "deals": [
+  {
+   "id": "2031310089",
+   "name": "여성 트레이닝 투피스 세트, 그레이, FREE, 1개",
+   "price": 7675,
+   "originalPrice": 32900,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTc3Mzll/WEF3ejFJQmp5Q2Q3dXpXWVZCRCs0NHpuQ0VOamZPTzgvQUFjUXhmejUvUT0.png",
+   "link": "https://toss.shopping/_m/ruEWK5ei",
+   "source": "toss",
+   "postedAt": 1791308024,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "1364636819",
    "name": "에어보나 발터치 리모컨 선풍기, 1개",
