@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791311655,
+ "updated": 1791311658,
  "deals": [
+  {
+   "id": "89519761",
+   "name": "산지직송 깐대파 대파, 깐대파 2kg",
+   "price": 5220,
+   "originalPrice": 20000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDgxMTgz/SHlYeG5nL1UrOE5HQnN6NmcrUW9nbDgzT2gzRDhQVEJ6WDc0WU95dzhtZz0.png",
+   "link": "https://toss.shopping/_m/Z0B95U3B",
+   "source": "toss",
+   "postedAt": 1791311658,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "302666765",
    "name": "파벡스 5.5L 글라스 에어프라이어 FX-2514AF, 아이보리, 1개",
