@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791338096,
+ "updated": 1791338102,
  "deals": [
+  {
+   "id": "1950895291",
+   "name": "질레트 호환용 신형 프로글라이드 퓨전파워 5중 면도날, 16개",
+   "price": 6990,
+   "originalPrice": 20000,
+   "discount": 65,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzg0OWM0/RG16WmsrMHgyR2ZMVFBrejJ6bXpiQ1EwMmM0bU1WekdwTTU1bXpXVHZNND0.png",
+   "link": "https://toss.shopping/_m/BsAKLNdb",
+   "source": "toss",
+   "postedAt": 1791338102,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "2383307045",
+   "name": "일양약품 하루철분12, 액상형, 8ml, 30포, 1개",
+   "price": 6700,
+   "originalPrice": 20000,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MzFiMGVl/ZUkzMFNac2toNVpWUWk3WS80di9KczRyOGE0dy9JNjdwMFJ6Z1ZWVXBGdz0.png",
+   "link": "https://toss.shopping/_m/BGaeBY96",
+   "source": "toss",
+   "postedAt": 1791338099,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "1273424633",
    "name": "티젠 콤부차 요구르트맛, 5g, 30개입, 2박스",
