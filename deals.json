@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791368990,
+ "updated": 1791370457,
  "deals": [
+  {
+   "id": "327098527",
+   "name": "뉴트리디데이 NEW 플러스 멀티비타민 앤 미네랄, 60정, 3개",
+   "price": 9900,
+   "originalPrice": 90000,
+   "discount": 89,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-16/a5837802-5cff-42d6-a7fa-233829008a81.jpeg",
+   "link": "https://toss.shopping/_m/tCYs8LN5",
+   "source": "toss",
+   "postedAt": 1791370457,
+   "endAt": null
+  },
   {
    "id": "1450598639",
    "name": "도무스 브레니 토스터기, 푸티 그레이, 1개",
