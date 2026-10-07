@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791378076,
+ "updated": 1791379399,
  "deals": [
+  {
+   "id": "2362157987",
+   "name": "국내산 활 흰다리새우 횟감가능, 1kg, 1박스",
+   "price": 16800,
+   "originalPrice": 43900,
+   "discount": 61,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YWIzZmI4/UURuaG5DUzBlOUUreFkrVGxzeExadVcxTW1vL0dMT0dlUHRlaXdqSldXMD0.png",
+   "link": "https://toss.shopping/_m/5NOLYBRA",
+   "source": "toss",
+   "postedAt": 1791379399,
+   "endAt": null
+  },
   {
    "id": "9629665",
    "name": "아이홈리빙 베이직 옷걸이, 화이트, 50개",
@@ -1190,20 +1204,6 @@
    "link": "https://toss.shopping/_m/FUAkhfr4",
    "source": "toss",
    "postedAt": 1791349000,
-   "endAt": "2026-10-08T00:00:00+09:00"
-  },
-  {
-   "id": "2362157987",
-   "name": "국내산 활 흰다리새우 횟감가능, 1kg, 1박스",
-   "price": 16800,
-   "originalPrice": 43900,
-   "discount": 61,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YWIzZmI4/UURuaG5DUzBlOUUreFkrVGxzeExadVcxTW1vL0dMT0dlUHRlaXdqSldXMD0.png",
-   "link": "https://toss.shopping/_m/5NOLYBRA",
-   "source": "toss",
-   "postedAt": 1791348997,
    "endAt": "2026-10-08T00:00:00+09:00"
   },
   {
