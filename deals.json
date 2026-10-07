@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791361722,
+ "updated": 1791363539,
  "deals": [
+  {
+   "id": "2213412977",
+   "name": "국내산 햇 가이리멸치 상급, 1.5kg, 1개",
+   "price": 22410,
+   "originalPrice": 46900,
+   "discount": 52,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmRhNzc3/Uk1kWjRLWWhwT2NBWFlpM0piZ1ZQbmFpc2g4Ni94NmQ5MVFiVXY4S3Q4QT0.png",
+   "link": "https://toss.shopping/_m/f8hLM0wD",
+   "source": "toss",
+   "postedAt": 1791363539,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "480440387",
+   "name": "푸드앳홈 마늘 바게트, 40g, 20개",
+   "price": 9900,
+   "originalPrice": 20900,
+   "discount": 52,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-01-21/8b5ba25c-12b5-4a1d-bab7-73cd19c703ff.jpeg",
+   "link": "https://toss.shopping/_m/FKw8io3v",
+   "source": "toss",
+   "postedAt": 1791363536,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "171044415",
+   "name": "맛춤상회 소고기 모둠, 토시살 200g 1개 + 안창살 200g 1개 + 부채살 200g 1개 + 우삼겹 200g 1개, 1세트",
+   "price": 19080,
+   "originalPrice": 39900,
+   "discount": 52,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-01/e35806cb-4286-42c4-85f0-f30ef2269ca9.jpeg",
+   "link": "https://toss.shopping/_m/VaSiO2Pe",
+   "source": "toss",
+   "postedAt": 1791363532,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "132723801",
+   "name": "널담 뚱낭시에, 50g, 8개입, 1박스",
+   "price": 8900,
+   "originalPrice": 18900,
+   "discount": 52,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NWFjY2Jl/QU1ubm1XMXJNa2c4eFBJMVlUWjVpbWZHVXNOYXlOaDQ4RkRUYmRNOGJoNDk.png",
+   "link": "https://toss.shopping/_m/hxCvP5i8",
+   "source": "toss",
+   "postedAt": 1791363529,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "2221296103",
+   "name": "삼겹살, 500g, 2팩",
+   "price": 13900,
+   "originalPrice": 29000,
+   "discount": 52,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-10/59717ce8-1f57-4bf4-b5b9-2de7325b517d.jpeg",
+   "link": "https://toss.shopping/_m/r01v6J2v",
+   "source": "toss",
+   "postedAt": 1791363526,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "917357053",
    "name": "기영이네 옛날식 닭강정, 500g, 4개",
@@ -2114,20 +2184,6 @@
    "link": "https://toss.shopping/_m/zI1Za2xd",
    "source": "toss",
    "postedAt": 1791107429,
-   "endAt": null
-  },
-  {
-   "id": "343509451",
-   "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
-   "price": 11500,
-   "originalPrice": 49600,
-   "discount": 76,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-11-21/deb1ee4d-dfcb-45e0-9011-f298d60bf761.jpeg",
-   "link": "https://toss.shopping/_m/7ivRNucd",
-   "source": "toss",
-   "postedAt": 1791103408,
    "endAt": null
   }
  ]
