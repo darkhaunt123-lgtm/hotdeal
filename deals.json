@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791374442,
+ "updated": 1791376259,
  "deals": [
+  {
+   "id": "2604955903",
+   "name": "애슐리 케이준 컬리 프라이즈, 740g, 2개",
+   "price": 11600,
+   "originalPrice": 18980,
+   "discount": 38,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-12/34906734-946e-44f7-ac6c-a995d4a776d6.jpeg",
+   "link": "https://toss.shopping/_m/JcsuoVxC",
+   "source": "toss",
+   "postedAt": 1791376259,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "128635829",
+   "name": "인생 누룽지, 3kg, 2개",
+   "price": 18000,
+   "originalPrice": 29900,
+   "discount": 39,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YWIxMTQx/ZjFwejJ6USttVGJxeFQxU3NXbjJPK016M2phand3VzhJbzhBMUlhSy9HRT0.png",
+   "link": "https://toss.shopping/_m/Z3dBhRNt",
+   "source": "toss",
+   "postedAt": 1791376256,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "202152727",
+   "name": "배터지는 소고기 한판 세트, 등심살 300g + 살치살 200g + 부채살 200g + 갈비살 200g + 우삼겹 300g, 1.2kg, 1세트",
+   "price": 30350,
+   "originalPrice": 49900,
+   "discount": 39,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MTliMDBk/ZnVHZThESGdrL0JKY1FIbUVIVkFNYURUNGNNUUpXRTVneCtqWnVMRW5IZz0.png",
+   "link": "https://toss.shopping/_m/jw2oWxHi",
+   "source": "toss",
+   "postedAt": 1791376253,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "1240525531",
+   "name": "동국 솔류비책 솔잎증류농축액 100%, 30캡슐, 1개",
+   "price": 20850,
+   "originalPrice": 35000,
+   "discount": 40,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTA2YjFm/ZC9Cd3Y5K2gyYnhaTFNNdmZzRXkzOFJHL2g0cEF3RXpiUkpFSGdSSC91RT0.png",
+   "link": "https://toss.shopping/_m/xKzNNtX9",
+   "source": "toss",
+   "postedAt": 1791376250,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "1090749819",
+   "name": "보노하우스 루미에 특대형 6단 이동식 접이식 빨래 건조대, 스텐, 1개",
+   "price": 20100,
+   "originalPrice": 33900,
+   "discount": 40,
+   "grade": "초대박",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MzVlMmM4/TEhtelorcnc0N1RIcE9ibmxHT05hNjFiellQNjJWajhVUEErWERsR2ZZbz0.png",
+   "link": "https://toss.shopping/_m/lsSYx2P",
+   "source": "toss",
+   "postedAt": 1791376246,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "90986347",
    "name": "월남관 깻잎튀김, 1kg, 1개",
@@ -2576,20 +2646,6 @@
    "link": "https://toss.shopping/_m/lKZGWqj8",
    "source": "toss",
    "postedAt": 1791161546,
-   "endAt": null
-  },
-  {
-   "id": "2601874047",
-   "name": "청우 계란과자, 40g, 24개",
-   "price": 13900,
-   "originalPrice": 37800,
-   "discount": 63,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-11/30cdc86a-1b83-4453-b6d8-10e6202b16ce.jpeg",
-   "link": "https://toss.shopping/_m/zVRV30Gn",
-   "source": "toss",
-   "postedAt": 1791115343,
    "endAt": null
   }
  ]
