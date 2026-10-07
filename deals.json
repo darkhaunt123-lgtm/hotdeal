@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791365356,
+ "updated": 1791367173,
  "deals": [
+  {
+   "id": "2650528287",
+   "name": "남성용 냉감 바지1+1, 가을용-A세트, FREE, 1세트",
+   "price": 10090,
+   "originalPrice": 19900,
+   "discount": 49,
+   "grade": "초대박",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-07/c7ac7cd3-9a8d-42a6-932c-cdbf21a7c472.png",
+   "link": "https://toss.shopping/_m/1bZ0KZi8",
+   "source": "toss",
+   "postedAt": 1791367173,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "2625606251",
+   "name": "가마솥에서 삶은 깐다슬기, 200g, 5개",
+   "price": 25170,
+   "originalPrice": 49900,
+   "discount": 49,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-20/728f6238-5c78-4359-a085-7bdb16687ce0.jpeg",
+   "link": "https://toss.shopping/_m/vScZs1kC",
+   "source": "toss",
+   "postedAt": 1791367170,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "132710941",
+   "name": "햇살닭 소스 통살 닭가슴살 맛보기 10종, 100g, 10팩",
+   "price": 15900,
+   "originalPrice": 32000,
+   "discount": 50,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NGE4ZDg4/QUppK040NC9Td2Y4WEsvOFZxWEw4TnR6SFA4RnJISERJVE1VZDBzN1VSeis.png",
+   "link": "https://toss.shopping/_m/xqaWmsAt",
+   "source": "toss",
+   "postedAt": 1791367167,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "2621746067",
+   "name": "햇 밤고구마, 중상, 3kg, 1개",
+   "price": 9090,
+   "originalPrice": 18900,
+   "discount": 51,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-19/43e2546f-426d-469d-ab51-d3fb341f57b4.jpeg",
+   "link": "https://toss.shopping/_m/vbppY4Hd",
+   "source": "toss",
+   "postedAt": 1791367164,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "1133151635",
+   "name": "매콤새콤한 특제 양념 한라산 생더덕무침, 1kg, 1개",
+   "price": 15900,
+   "originalPrice": 32900,
+   "discount": 51,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjBkNzUx/QUp0SmxNZkxGdUZ4RG1kWkNZVFQweGRONjRJcG1TbTJ5amdydEljemtuREw.png",
+   "link": "https://toss.shopping/_m/TRAohxl8",
+   "source": "toss",
+   "postedAt": 1791367160,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "92159809",
    "name": "페페브루노 엑스트라버진 올리브오일 250ml, 2병 + 아보카도 오일 250ml, 2병, 1세트",
@@ -2240,20 +2310,6 @@
    "link": "https://toss.shopping/_m/DmP13fqt",
    "source": "toss",
    "postedAt": 1791108092,
-   "endAt": null
-  },
-  {
-   "id": "2657822913",
-   "name": "햇 홍로사과, 5kg, 1개",
-   "price": 15500,
-   "originalPrice": 41900,
-   "discount": 63,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-23/c451713e-9f01-4b88-b8c5-5dd1ebcae52a.jpeg",
-   "link": "https://toss.shopping/_m/zI1Za2xd",
-   "source": "toss",
-   "postedAt": 1791107429,
    "endAt": null
   }
  ]
