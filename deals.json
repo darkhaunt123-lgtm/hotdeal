@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791315293,
+ "updated": 1791332766,
  "deals": [
+  {
+   "id": "87478999",
+   "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
+   "price": 25832,
+   "originalPrice": 49100,
+   "discount": 47,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OWE1OTlj/QUpjNUdNTnBoT2Njam1jWTQzTVpjYy9NNUljNE05TVl4OHc4NXpneHd4akg.png",
+   "link": "https://toss.shopping/_m/h6rR6bzd",
+   "source": "toss",
+   "postedAt": 1791332766,
+   "endAt": null
+  },
   {
    "id": "84393203",
    "name": "직접푸드 대왕 다이버 바지락, 통통 왕 바지락, 1kg",
