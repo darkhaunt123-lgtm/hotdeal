@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791332766,
+ "updated": 1791334462,
  "deals": [
+  {
+   "id": "443914933",
+   "name": "맥문동담은 약도라지 진액 청, 600g, 1세트",
+   "price": 15640,
+   "originalPrice": 49000,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YzU5YjBj/WnN1VE0yYk5iTm1ac3hKMk1hVE96STJrTFd5U2U2MjJqazVSczhKSnprWT0.png",
+   "link": "https://toss.shopping/_m/39sq3Xrh",
+   "source": "toss",
+   "postedAt": 1791334462,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "142588809",
+   "name": "SKY 스카이 핏 바이브 방수 블루투스 5.4 골전도 이어폰, SKY-VB20, 스틸네이비, 1개",
+   "price": 18500,
+   "originalPrice": 59900,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmViZmIy/QUpzbW15Wm01alRXWnBuSm03SlpsdWFaTm1UR2JNbkxMSjNzTEpSeTVQSmo.png",
+   "link": "https://toss.shopping/_m/DgJzCzrc",
+   "source": "toss",
+   "postedAt": 1791334459,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "301933439",
+   "name": "센토 주니어 세이프 구취케어 어린이 치약, 사과향, 120g, 8개",
+   "price": 12900,
+   "originalPrice": 43000,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "출산/유아동",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NzYxOTcw/UGlIZUhpZVNUcDMxakg3MHo0RzVtOHFFRllwT2RHeXBwUER1SVpFU0E5bz0.png",
+   "link": "https://toss.shopping/_m/TJ74ysj8",
+   "source": "toss",
+   "postedAt": 1791334455,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "87478999",
    "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
