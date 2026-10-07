@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791367173,
+ "updated": 1791368990,
  "deals": [
+  {
+   "id": "1450598639",
+   "name": "도무스 브레니 토스터기, 푸티 그레이, 1개",
+   "price": 15266,
+   "originalPrice": 29800,
+   "discount": 48,
+   "grade": "초대박",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDRhMzk2/QUtXa01lSERudkRSSGx1ZUcxcEx3dzdqUytXMFBiVHg0YlcwSGg1dzhlSGo.png",
+   "link": "https://toss.shopping/_m/pGyVHhFx",
+   "source": "toss",
+   "postedAt": 1791368990,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "2611046371",
+   "name": "투뿔 한우 부채살, 200g, 1개 + 부채덧살, 200g, 1개",
+   "price": 25900,
+   "originalPrice": 49900,
+   "discount": 48,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-19/e1b232c3-55b3-4e0c-8dad-399abb23b3fa.jpeg",
+   "link": "https://toss.shopping/_m/hEW52ZBp",
+   "source": "toss",
+   "postedAt": 1791368987,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "588319969",
+   "name": "똑순이 알고니 알탕, 700g, 3개",
+   "price": 19900,
+   "originalPrice": 38700,
+   "discount": 48,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDI2YTkz/WnVYaWZIRWI4NVU0K0liSDVtc1N6TkRqamg5QmppRytBd1p1ZVRwS0VHVT0.png",
+   "link": "https://toss.shopping/_m/7FNCbfSf",
+   "source": "toss",
+   "postedAt": 1791368984,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "2198049687",
+   "name": "풀무원샘물 무라벨, 500ml, 60개",
+   "price": 11900,
+   "originalPrice": 23000,
+   "discount": 48,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzk2MzI5/Wnl4NG00NXpDeTE1ek01bHJ6RnBUMnM1eFp6eHByU05zUEY2Y3BiQnRZMD0.png",
+   "link": "https://toss.shopping/_m/VJLMOdw8",
+   "source": "toss",
+   "postedAt": 1791368981,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "93253559",
+   "name": "교동 황태해장국, 500g, 5팩",
+   "price": 13990,
+   "originalPrice": 27500,
+   "discount": 49,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTZlYTEy/R1pkbmwrMjNyN2RsbjlXUDFJeC9tUWNaQVhrZUtVd3BlS2V3cDZMU3Evdz0.png",
+   "link": "https://toss.shopping/_m/7ygiIH06",
+   "source": "toss",
+   "postedAt": 1791368977,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "2650528287",
    "name": "남성용 냉감 바지1+1, 가을용-A세트, FREE, 1세트",
@@ -2296,20 +2366,6 @@
    "link": "https://toss.shopping/_m/zVRV30Gn",
    "source": "toss",
    "postedAt": 1791115343,
-   "endAt": null
-  },
-  {
-   "id": "12530671",
-   "name": "동원 딤섬, 부추창펀, 390g, 6개",
-   "price": 19900,
-   "originalPrice": 35900,
-   "discount": 44,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZmNmMDE2/QU54dnhNZmR1emw5ejlrWU9EblU1ODlGMmNzMnpZbmVaOFhadDl1aTFCMjk.png",
-   "link": "https://toss.shopping/_m/DmP13fqt",
-   "source": "toss",
-   "postedAt": 1791108092,
    "endAt": null
   }
  ]
