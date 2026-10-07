@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791354454,
+ "updated": 1791354541,
  "deals": [
+  {
+   "id": "200574431",
+   "name": "피죤 건조기시트 섬유유연제 플라워페스티벌, 120매, 2개",
+   "price": 12290,
+   "originalPrice": 33900,
+   "discount": 63,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-02-13/9090e66f-8cfa-4867-8f0c-52474fa9b872.jpeg",
+   "link": "https://toss.shopping/_m/vUxmbUSp",
+   "source": "toss",
+   "postedAt": 1791354541,
+   "endAt": null
+  },
   {
    "id": "2280719515",
    "name": "스프렉스 스텐 세면대 욕조 거름망 BR-E077, 실버, 3개입, 1개",
@@ -406,20 +420,6 @@
    "link": "https://toss.shopping/_m/zp80Zg83",
    "source": "toss",
    "postedAt": 1791345364,
-   "endAt": "2026-10-08T00:00:00+09:00"
-  },
-  {
-   "id": "200574431",
-   "name": "피죤 건조기시트 섬유유연제 플라워페스티벌, 120매, 2개",
-   "price": 12290,
-   "originalPrice": 33900,
-   "discount": 63,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-02-13/9090e66f-8cfa-4867-8f0c-52474fa9b872.jpeg",
-   "link": "https://toss.shopping/_m/vUxmbUSp",
-   "source": "toss",
-   "postedAt": 1791345360,
    "endAt": "2026-10-08T00:00:00+09:00"
   },
   {
