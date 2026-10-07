@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791381710,
+ "updated": 1791383514,
  "deals": [
+  {
+   "id": "2660579153",
+   "name": "시그너스 애사비소다 오리지널, 500ml, 20개",
+   "price": 12890,
+   "originalPrice": 18900,
+   "discount": 31,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-21/6b35b3db-b2c3-4356-b0cd-270a0a257ecc.jpeg",
+   "link": "https://toss.shopping/_m/NgiDfUn9",
+   "source": "toss",
+   "postedAt": 1791383514,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "2624962927",
    "name": "트레비 ECO 플레인, 350ml, 20개",
