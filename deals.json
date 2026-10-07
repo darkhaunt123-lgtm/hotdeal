@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791356271,
+ "updated": 1791358088,
  "deals": [
+  {
+   "id": "2651168013",
+   "name": "화려산삼 추석 산삼 선물세트, 6년근, 6뿌리, 1박스",
+   "price": 53030,
+   "originalPrice": 120000,
+   "discount": 55,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-08/2c26d061-44ef-47e4-ab91-266458df0a91.jpeg",
+   "link": "https://toss.shopping/_m/bRAL5NfC",
+   "source": "toss",
+   "postedAt": 1791358088,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "908523875",
+   "name": "서울우유 순수한 국산콩 서리태 두유 100, 190ml, 64개",
+   "price": 35000,
+   "originalPrice": 80000,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDhkNzA2/WFhnclo4VE03dE8zWjJ6Sk9MU2FpYTFTOG8zbFNwcmhuS3doTXlxVmxkUT0.png",
+   "link": "https://toss.shopping/_m/h7z5x9Lu",
+   "source": "toss",
+   "postedAt": 1791358085,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "1184921233",
+   "name": "전재료 국내산 프리미엄 전라도식 20년 장인김치, 5kg, 1박스",
+   "price": 21900,
+   "originalPrice": 50400,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTAzNzAy/VDJTbDdQVW12NUdheUR6a3FxRTdLZFdSeUlnR3JYWFQ2a2lHbGhsWkFGND0.png",
+   "link": "https://toss.shopping/_m/7ZYbTM0m",
+   "source": "toss",
+   "postedAt": 1791358081,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "2324201615",
+   "name": "남성팬티 10장세트, 혼합, 95, 1세트 + 휴대용 속옷 파우치, 2개",
+   "price": 14160,
+   "originalPrice": 32700,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-05-07/9492c394-c8f8-4a2f-93d7-9fe89d78bcac.png",
+   "link": "https://toss.shopping/_m/B6eDlTse",
+   "source": "toss",
+   "postedAt": 1791358078,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "162364451",
+   "name": "애슐리 치즈 폭포 돈카츠, 300g, 2팩",
+   "price": 10900,
+   "originalPrice": 24800,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmNmNmY5/WG1mVG1BN2NrL1JwNTBmYnZXbHNsblN5blFtbXBYYnh6VlpZUERMcTc4dz0.png",
+   "link": "https://toss.shopping/_m/P4Ha3YPD",
+   "source": "toss",
+   "postedAt": 1791358075,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "133352183",
    "name": "온테이블 구운조미감태, 16매, 60g",
@@ -1918,20 +1988,6 @@
    "link": "https://toss.shopping/_m/7ivRNucd",
    "source": "toss",
    "postedAt": 1791103408,
-   "endAt": null
-  },
-  {
-   "id": "1128231235",
-   "name": "디핀다트 구슬아이스크림, 50ml, 레인보우 4개 + 딸기 4개 + 초코바나나 4개 + 쿠키앤크림 4개, 16개",
-   "price": 15600,
-   "originalPrice": 28000,
-   "discount": 44,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDYyODFj/QU5KMHpxYVVLMzJVSzVialk5U1BMUjVySVpUeUMrVmV6N1VROG1rbEVHMlc.png",
-   "link": "https://toss.shopping/_m/PC6gyg92",
-   "source": "toss",
-   "postedAt": 1791098057,
    "endAt": null
   }
  ]
