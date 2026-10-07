@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791349000,
+ "updated": 1791349003,
  "deals": [
+  {
+   "id": "984279601",
+   "name": "매일 그레인 샐러드컷, 120정, 1개",
+   "price": 15750,
+   "originalPrice": 41400,
+   "discount": 61,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MTRmNWVh/Qi82VDZHWmorUi90SHM1aG1HVjQ4emVVa3NtRFJhSDM4ZHlFQjZRVWYvdz0.png",
+   "link": "https://toss.shopping/_m/BZjQToT6",
+   "source": "toss",
+   "postedAt": 1791349003,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "920451727",
    "name": "빅프렌치 자석 스카프 4종세트, D세트, 1개",
