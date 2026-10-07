@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791336285,
+ "updated": 1791338096,
  "deals": [
+  {
+   "id": "1273424633",
+   "name": "티젠 콤부차 요구르트맛, 5g, 30개입, 2박스",
+   "price": 13900,
+   "originalPrice": 42000,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/ml-vision/smart-crop/d54fb008-d2ad-4a2e-8d4a-3c687b852b6c.jpg",
+   "link": "https://toss.shopping/_m/ZjDgAfe1",
+   "source": "toss",
+   "postedAt": 1791338096,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "2483730933",
+   "name": "스프린트 에너지드링크 4종 세트, 애플 6개 + 레몬 6개 + 오렌지 6개 + 자몽 6개, 1세트",
+   "price": 23900,
+   "originalPrice": 72000,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NTRlYjkz/U2Rwc3Mrd0Y5OW9oM0pCdHExeWF1OWU4YXkzM1BMMldNVlppSVlSRm5rND0.png",
+   "link": "https://toss.shopping/_m/ZfMvoRHy",
+   "source": "toss",
+   "postedAt": 1791338093,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "37721185",
+   "name": "힐튼 눕자마자 저세상 베개, 화이트, 1개",
+   "price": 6350,
+   "originalPrice": 21500,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "가구/홈데코",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MGY2MzE3/QU5qRG5tczhtelNjTVp1MjJaWk94c3ZMUEVzeGF6eHBuRFU4TFp5MDRaWmo.png",
+   "link": "https://toss.shopping/_m/pKpulTrw",
+   "source": "toss",
+   "postedAt": 1791338089,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "2279756881",
    "name": "스크래치 제로 두툼 마법수세미, 20개입, 1팩",
@@ -1555,34 +1597,6 @@
    "source": "toss",
    "postedAt": 1791080017,
    "endAt": "2026-10-04T23:59:59+09:00"
-  },
-  {
-   "id": "2601104607",
-   "name": "이롬 국내산 약콩 무가당 두유, 190ml, 16개",
-   "price": 4990,
-   "originalPrice": 16800,
-   "discount": 70,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-11/15ffc29f-7783-4998-8e0d-a05f9af74909.png",
-   "link": "https://toss.shopping/_m/frkDOx8b",
-   "source": "toss",
-   "postedAt": 1791078871,
-   "endAt": null
-  },
-  {
-   "id": "128320725",
-   "name": "사리원 소불고기, 500g, 4팩",
-   "price": 17900,
-   "originalPrice": 39900,
-   "discount": 55,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDVkNWU3/QU9uMEFXT0h1WUhHdjlEeHJCNUFRNlg5WUlleDhDSWZBV1BDQ0QvT0R2UGk.png",
-   "link": "https://toss.shopping/_m/f3L0f26A",
-   "source": "toss",
-   "postedAt": 1791078255,
-   "endAt": null
   }
  ]
 }
