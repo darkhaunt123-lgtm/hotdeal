@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791349003,
+ "updated": 1791350368,
  "deals": [
+  {
+   "id": "808603171",
+   "name": "데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
+   "price": 16900,
+   "originalPrice": 299000,
+   "discount": 94,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NWEwZmFl/QUpHWm1Xelp6azJuek5sbVZHdVpabU8yYkpNeXlUTEd3eVVzTExhYzVwbFo.png",
+   "link": "https://toss.shopping/_m/DJH31n3v",
+   "source": "toss",
+   "postedAt": 1791350368,
+   "endAt": null
+  },
   {
    "id": "984279601",
    "name": "매일 그레인 샐러드컷, 120정, 1개",
