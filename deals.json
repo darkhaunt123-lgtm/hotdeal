@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791334462,
+ "updated": 1791334468,
  "deals": [
+  {
+   "id": "2557944583",
+   "name": "배스킨라빈스 패션푸르트 워터젤리, 100ml, 20개",
+   "price": 9240,
+   "originalPrice": 29800,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-18/c15411d1-c447-4b35-a129-e08369fe16da.png",
+   "link": "https://toss.shopping/_m/NgNgbLVt",
+   "source": "toss",
+   "postedAt": 1791334468,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "85940349",
+   "name": "2세대 숀리 다이어트킹 로잉머신",
+   "price": 46930,
+   "originalPrice": 148000,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "스포츠/레져",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTIzODM4/QU0xT3laUVcyWlk1NnpSeDR6alNqczBMVEYybXJEaldMYWRTYXVIVXJhMVc.png",
+   "link": "https://toss.shopping/_m/12XaPMin",
+   "source": "toss",
+   "postedAt": 1791334465,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "443914933",
    "name": "맥문동담은 약도라지 진액 청, 600g, 1세트",
