@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791379399,
+ "updated": 1791379880,
  "deals": [
+  {
+   "id": "17553773",
+   "name": "대왕오징어 장족 200g, 2개",
+   "price": 16030,
+   "originalPrice": 25800,
+   "discount": 37,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/M2M2NjQz/QUxNclJrZGNmeWpnRGZ6L082Q0NzQ1dUZlhkQVRlUTlnTmFZMHE5cUE0MTU.png",
+   "link": "https://toss.shopping/_m/t7A0DqTo",
+   "source": "toss",
+   "postedAt": 1791379880,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "2362157987",
    "name": "국내산 활 흰다리새우 횟감가능, 1kg, 1박스",
