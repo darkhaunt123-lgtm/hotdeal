@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791341730,
+ "updated": 1791341736,
  "deals": [
+  {
+   "id": "104612267",
+   "name": "모나리자 보타닉포레 소프트 화장지, 3겹, 30m, 30롤, 2팩",
+   "price": 21830,
+   "originalPrice": 61900,
+   "discount": 64,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjcwMWRh/ZlU3cFhKd3VIc2REeHJZNWVjN2g1K1p4TmpHWm1ac09jL0ZHcCtuUXFWZz0.png",
+   "link": "https://toss.shopping/_m/XSvUA24l",
+   "source": "toss",
+   "postedAt": 1791341736,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
+  {
+   "id": "128424579",
+   "name": "지니쿡 정말 진한 검은 콩국수 서리태 콩국물 가루, 750g, 1개 + 치자국수, 1kg, 1개",
+   "price": 10950,
+   "originalPrice": 31900,
+   "discount": 65,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MzFjODk0/QVBhWjRjM2FoeVJuR013a2pHR0ttWmFNN0p4U3JNVkpUcEdXblczaGFoK0Y.png",
+   "link": "https://toss.shopping/_m/x0K8kWki",
+   "source": "toss",
+   "postedAt": 1791341733,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "19317693",
    "name": "쥬비스푸드 더 건강한 현미한끼 4종, 180g, 4개입, 1세트",
