@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791345367,
+ "updated": 1791345370,
  "deals": [
+  {
+   "id": "2440376071",
+   "name": "메르헨트 어성초 히알루론산 폼클렌징, 500ml, 2개",
+   "price": 11230,
+   "originalPrice": 30000,
+   "discount": 62,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-08/5f594179-541b-4d60-9fac-f73dc0836c54.jpeg",
+   "link": "https://toss.shopping/_m/36BeWz6c",
+   "source": "toss",
+   "postedAt": 1791345370,
+   "endAt": "2026-10-08T00:00:00+09:00"
+  },
   {
    "id": "1656858597",
    "name": "폴라니 도자기 공기 대접 10종세트, 혼합, 1세트",
