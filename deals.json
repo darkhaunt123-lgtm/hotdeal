@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791486549,
+ "updated": 1791488356,
  "deals": [
+  {
+   "id": "171018141",
+   "name": "나틴다 매직 타투 립스틱, 트윈롤리팝 3.5ml 1개 + 트윈스팝 3.5ml 1개, 2개",
+   "price": 8390,
+   "originalPrice": 32000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTFhMjhh/UjQ5ejQvdytuNUh3MW5ndXAxbTJjSGdueDVuSGkyYVBPSEFZZHFkYzU5az0.png",
+   "link": "https://toss.shopping/_m/HVShRIac",
+   "source": "toss",
+   "postedAt": 1791488356,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "31983731",
+   "name": "데이지 선풍기커버, 데이지, 3P",
+   "price": 5220,
+   "originalPrice": 19800,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "가구/홈데코",
+   "thumbnail": "https://shopping.toss.im/live/product/7739615/2d35041f-d1e9-44ef-94e8-defaeecd3215.jpeg",
+   "link": "https://toss.shopping/_m/D9OM9OF9",
+   "source": "toss",
+   "postedAt": 1791488353,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "92976301",
    "name": "가희담 홍삼 흑염소진액 담, 70ml, 30포, 1박스",
