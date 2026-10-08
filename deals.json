@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791423460,
+ "updated": 1791423540,
  "deals": [
+  {
+   "id": "2482486143",
+   "name": "슬림떡볶이 로제맛, 230g, 4개",
+   "price": 5530,
+   "originalPrice": 15600,
+   "discount": 64,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
+   "link": "https://toss.shopping/_m/fkzkThY5",
+   "source": "toss",
+   "postedAt": 1791423540,
+   "endAt": null
+  },
   {
    "id": "10142851",
    "name": "스파클 생수 무라벨, 500ml, 40병",
