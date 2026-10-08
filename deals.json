@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791441761,
+ "updated": 1791448223,
  "deals": [
+  {
+   "id": "89412973",
+   "name": "애슐리 크리스피 소시지탱글 핫도그, 80g, 10개입, 1개",
+   "price": 9990,
+   "originalPrice": 14990,
+   "discount": 33,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-05-14/78d1ed8b-4493-449d-beee-4060f5700b3a.jpeg",
+   "link": "https://toss.shopping/_m/7qZAHaw9",
+   "source": "toss",
+   "postedAt": 1791448223,
+   "endAt": null
+  },
   {
    "id": "86973821",
    "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
@@ -2912,20 +2926,6 @@
    "link": "https://toss.shopping/_m/9RxWmNdl",
    "source": "toss",
    "postedAt": 1791193561,
-   "endAt": null
-  },
-  {
-   "id": "2334877747",
-   "name": "맘스럽 아토클래식 물티슈, 100매입, 20팩",
-   "price": 8253,
-   "originalPrice": 24800,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "출산/유아동",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-01/cbcba31d-9c3d-4336-b01c-da1112ebe230.jpeg",
-   "link": "https://toss.shopping/_m/z6chWgHs",
-   "source": "toss",
-   "postedAt": 1791184953,
    "endAt": null
   }
  ]
