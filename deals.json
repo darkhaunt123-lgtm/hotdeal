@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791479278,
+ "updated": 1791479282,
  "deals": [
+  {
+   "id": "2163898339",
+   "name": "발이 편한 카바 밴딩 중목 양말, 남성용, 블랙, 10켤레",
+   "price": 4160,
+   "originalPrice": 20000,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTdhZGIx/QU9Yd3N3RXhqMDVUaWg4emhjUjRJSVJScTUxNnFoUUNOZi91QUlRaTQ5OTY.png",
+   "link": "https://toss.shopping/_m/xziVaUjs",
+   "source": "toss",
+   "postedAt": 1791479282,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "156877077",
    "name": "전통압착 통참기름, 350ml, 2개",
