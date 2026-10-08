@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791441728,
+ "updated": 1791441761,
  "deals": [
+  {
+   "id": "86973821",
+   "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
+   "price": 12900,
+   "originalPrice": 49900,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ODYyOTZj/QUxGVTU4TjVlL0Q0SGlzT0grR0ZiTW1EQjNuendxTjQ0ZUtENy95eFZNZkQ.png",
+   "link": "https://toss.shopping/_m/xWw4Qw46",
+   "source": "toss",
+   "postedAt": 1791441761,
+   "endAt": null
+  },
+  {
+   "id": "134156313",
+   "name": "할리스 시그니처 아메리카노 미니, 마일드, 0.9g, 100개입, 2개",
+   "price": 17000,
+   "originalPrice": 53600,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTAwNGEx/QUtuL1ZLL1Y2cXZXV3BVLyt2L1YxSytGZXNxbFZmdDNXUHFGci9hbFZGS3A.png",
+   "link": "https://toss.shopping/_m/vpNZqSED",
+   "source": "toss",
+   "postedAt": 1791441747,
+   "endAt": null
+  },
   {
    "id": "158111043",
    "name": "애슐리 오리지널 통살치킨, 500g, 2개",
