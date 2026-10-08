@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791491993,
+ "updated": 1791491999,
  "deals": [
+  {
+   "id": "127622483",
+   "name": "딥루트 자외선차단 러닝마스크, 화이트+블랙, 2개",
+   "price": 6350,
+   "originalPrice": 21900,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "스포츠/레져",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-02-24/b56b68cc-6464-4449-847a-559974b3e781.png",
+   "link": "https://toss.shopping/_m/fStR5lDz",
+   "source": "toss",
+   "postedAt": 1791491999,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "7721815",
+   "name": "신통방통 크림, 120ml, 2개",
+   "price": 17130,
+   "originalPrice": 59900,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-05-23/bdfc8892-42f3-4cb5-90fc-413e2d0e06da.jpeg",
+   "link": "https://toss.shopping/_m/Tdp8cPGu",
+   "source": "toss",
+   "postedAt": 1791491996,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "2655667805",
    "name": "럭키푸드 한우 1등급 등심, 200g, 3개",
