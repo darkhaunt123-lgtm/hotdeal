@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791482915,
+ "updated": 1791484720,
  "deals": [
+  {
+   "id": "2656317667",
+   "name": "에버라스트 링클프리 남성 가을 텐션팬츠, 105, 1세트",
+   "price": 20106,
+   "originalPrice": 86000,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/ad6/live/product/848250587/ad6c1d9e-8e2e-4818-8473-06b2540adf9a.jpg",
+   "link": "https://toss.shopping/_m/xVEsfom8",
+   "source": "toss",
+   "postedAt": 1791484720,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "151424695",
    "name": "메르헨트 인텐시브 콜라겐 아이크림, 40ml, 10개",
