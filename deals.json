@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791423424,
+ "updated": 1791423460,
  "deals": [
+  {
+   "id": "10142851",
+   "name": "스파클 생수 무라벨, 500ml, 40병",
+   "price": 5900,
+   "originalPrice": 12000,
+   "discount": 50,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
+   "link": "https://toss.shopping/_m/R5dEVsqx",
+   "source": "toss",
+   "postedAt": 1791423460,
+   "endAt": null
+  },
   {
    "id": "139066091",
    "name": "하누리 1++ 한우 소한마리모둠, 400g, 1세트",
