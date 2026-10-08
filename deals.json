@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791490183,
+ "updated": 1791491993,
  "deals": [
+  {
+   "id": "2655667805",
+   "name": "럭키푸드 한우 1등급 등심, 200g, 3개",
+   "price": 30090,
+   "originalPrice": 104700,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-11/94f799c9-12ee-4688-92b9-0cb606206eda.png",
+   "link": "https://toss.shopping/_m/ZBu9HDrt",
+   "source": "toss",
+   "postedAt": 1791491993,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "1046018301",
+   "name": "이백호 국내산 대왕 바지락, 3kg, 1박스",
+   "price": 14330,
+   "originalPrice": 49900,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmE0NGQ2/RUJuTzVQemdHTlNBendJeVZwTEY5N2NrdHdBdk02Z05DLzV1a2FnZDBGcz0.png",
+   "link": "https://toss.shopping/_m/l9KfD9cs",
+   "source": "toss",
+   "postedAt": 1791491990,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "85008433",
+   "name": "바스 차량용 탈취제 컴팩트, 코튼향, 140g, 2개",
+   "price": 14190,
+   "originalPrice": 49900,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "자동차용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OGVlNmMx/QUw0ZDA3bjVtem5kR0V5ZTVxMHp5MmFhYkROc1lmUGNtU09jYzBtWXZaMjI.png",
+   "link": "https://toss.shopping/_m/bJ0OR6Tq",
+   "source": "toss",
+   "postedAt": 1791491987,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "2611583259",
    "name": "GNM 종합비타민미네랄15, 30정, 3개",
