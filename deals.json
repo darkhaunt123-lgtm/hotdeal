@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791383514,
+ "updated": 1791423424,
  "deals": [
+  {
+   "id": "139066091",
+   "name": "하누리 1++ 한우 소한마리모둠, 400g, 1세트",
+   "price": 29610,
+   "originalPrice": 59000,
+   "discount": 49,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTkxNWU3/UGV3NzI2WTlwemIwOFZrbitMRTlKUER4Mk8zUzlPYjF4dlJwczlPUUd0MD0.png",
+   "link": "https://toss.shopping/_m/l6AVoP67",
+   "source": "toss",
+   "postedAt": 1791423424,
+   "endAt": null
+  },
   {
    "id": "2660579153",
    "name": "시그너스 애사비소다 오리지널, 500ml, 20개",
@@ -2856,20 +2870,6 @@
    "link": "https://toss.shopping/_m/Fj2sBNIo",
    "source": "toss",
    "postedAt": 1791169715,
-   "endAt": null
-  },
-  {
-   "id": "135264173",
-   "name": "CJ제일제당 스팸 클래식, 340g, 10개",
-   "price": 33900,
-   "originalPrice": 60900,
-   "discount": 44,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-07-08/36031967-d461-48c9-a475-0c80990714d1.jpeg",
-   "link": "https://toss.shopping/_m/lKZGWqj8",
-   "source": "toss",
-   "postedAt": 1791161546,
    "endAt": null
   }
  ]
