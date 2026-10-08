@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791448223,
+ "updated": 1791460020,
  "deals": [
+  {
+   "id": "2034295555",
+   "name": "호정가 하루단백질바, 25g, 20개",
+   "price": 7990,
+   "originalPrice": 24000,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmFkNDg1/YTNNaXA1eW1lVUdtR2MrMnYwcjJEc205bTdGMlRrMWp1clVpUHdYQnExST0.png",
+   "link": "https://toss.shopping/_m/Lwf6ygvt",
+   "source": "toss",
+   "postedAt": 1791460020,
+   "endAt": null
+  },
   {
    "id": "89412973",
    "name": "애슐리 크리스피 소시지탱글 핫도그, 80g, 10개입, 1개",
@@ -2898,34 +2912,6 @@
    "link": "https://toss.shopping/_m/Bz60emXj",
    "source": "toss",
    "postedAt": 1791252106,
-   "endAt": null
-  },
-  {
-   "id": "155716723",
-   "name": "동원 라이트참치 85g 6개 + 고추참치 85g 6개, 1세트",
-   "price": 16900,
-   "originalPrice": 28600,
-   "discount": 40,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjAwNGYw/QU8zd1hNOWowRXVucytUbVdFd3J0UFJmRzJGWUtxOVBEK1ZRMHJlbFVDMVk.png",
-   "link": "https://toss.shopping/_m/rdPIKC4B",
-   "source": "toss",
-   "postedAt": 1791196894,
-   "endAt": null
-  },
-  {
-   "id": "1130826289",
-   "name": "웅진식품 더 빅토리아, 레몬 500ml 20개 + 자두 500ml 20개, 40개",
-   "price": 14600,
-   "originalPrice": 26900,
-   "discount": 45,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/OGNiZmUy/QU1OOGhXeStVTmh5RDUraHNiM1RjODJDT3ZOZ041YmFLazF0QjB4d3pJWjc.png",
-   "link": "https://toss.shopping/_m/9RxWmNdl",
-   "source": "toss",
-   "postedAt": 1791193561,
    "endAt": null
   }
  ]
