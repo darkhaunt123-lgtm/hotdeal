@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791423540,
+ "updated": 1791428946,
  "deals": [
+  {
+   "id": "105382313",
+   "name": "애슐리 눈꽃치즈 순살 안동식 찜닭, 2인분, 772g, 1개",
+   "price": 8900,
+   "originalPrice": 15990,
+   "discount": 44,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTRlNzll/SHc1YkhmWVovRG5ZZUxNSGFEekUrMFQ1eUxDYThPNTY3NU16RVJBZjRYOD0.png",
+   "link": "https://toss.shopping/_m/zR9evNal",
+   "source": "toss",
+   "postedAt": 1791428946,
+   "endAt": null
+  },
   {
    "id": "2482486143",
    "name": "슬림떡볶이 로제맛, 230g, 4개",
@@ -2884,20 +2898,6 @@
    "link": "https://toss.shopping/_m/NS9ov5to",
    "source": "toss",
    "postedAt": 1791173246,
-   "endAt": null
-  },
-  {
-   "id": "179780757",
-   "name": "아워홈 잡채말이 어묵, 1kg, 2팩",
-   "price": 10900,
-   "originalPrice": 24900,
-   "discount": 56,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzc4NmYw/WjJkam1SREpqTTZOTnBjNzZ0Qng0M0x0amh5TlBtWjJkdE1SaWVsRTduWT0.png",
-   "link": "https://toss.shopping/_m/Fj2sBNIo",
-   "source": "toss",
-   "postedAt": 1791169715,
    "endAt": null
   }
  ]
