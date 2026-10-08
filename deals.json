@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791495627,
+ "updated": 1791495633,
  "deals": [
+  {
+   "id": "2559634317",
+   "name": "럭키푸드 한우 1등급 등심, 200g, 1개",
+   "price": 11180,
+   "originalPrice": 34900,
+   "discount": 67,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-11/fcd1dc2a-0b5d-46c3-b09c-9f90c1b4eed1.png",
+   "link": "https://toss.shopping/_m/9J7hrY6g",
+   "source": "toss",
+   "postedAt": 1791495633,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "1617700471",
+   "name": "골드럽 향기부스터 루비 로즈핑크, 550g, 2개",
+   "price": 14890,
+   "originalPrice": 46600,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Y2U3YmRh/RUh6L2d4UXYxQ2xOdVdvSHEzWXFkOS9EVkJ3VmdPZjZrQTNWL0ZVY0tnTT0.png",
+   "link": "https://toss.shopping/_m/PvJpSmjc",
+   "source": "toss",
+   "postedAt": 1791495630,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "2636661281",
    "name": "티젠 애플 사이다 비니거, 5g, 50개입, 1개",
