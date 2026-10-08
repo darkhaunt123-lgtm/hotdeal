@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791493816,
+ "updated": 1791495627,
  "deals": [
+  {
+   "id": "2636661281",
+   "name": "티젠 애플 사이다 비니거, 5g, 50개입, 1개",
+   "price": 10900,
+   "originalPrice": 35000,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/YThiMDIx/QVBaV2w3eU5nWTJ6T2MxM1l5OE4zK1AyeVp6bVk0RnR3K0FaV3d6WkIrQlk.png",
+   "link": "https://toss.shopping/_m/XeCvBhC8",
+   "source": "toss",
+   "postedAt": 1791495627,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "144310011",
+   "name": "네스카페 돌체구스토 커피머신 지니오 S 터치, 시나모롤 패키지, 화이트, 1개",
+   "price": 62100,
+   "originalPrice": 199000,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-22/2f1c961e-ffad-43fe-aa46-10efb211692a.png",
+   "link": "https://toss.shopping/_m/BRlVI9Zf",
+   "source": "toss",
+   "postedAt": 1791495624,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "2636630005",
+   "name": "60계 소스 닭가슴살 5종 세트, 90g, 20개",
+   "price": 30400,
+   "originalPrice": 100000,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/cab/live/product/840795597/cabf3e6f-c37c-4200-8056-d79131c2ba4f.jpg",
+   "link": "https://toss.shopping/_m/LTlyzj76",
+   "source": "toss",
+   "postedAt": 1791495621,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "144205087",
    "name": "대한민국농수산 뼈없는 한돈 양념갈비, 300g, 2팩",
