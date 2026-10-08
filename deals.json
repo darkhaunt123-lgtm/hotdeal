@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791499264,
+ "updated": 1791499267,
  "deals": [
+  {
+   "id": "2393550435",
+   "name": "센토 인텐스 프리미엄 대용량 디퓨저, 밤쉘, 550ml, 3개",
+   "price": 14900,
+   "originalPrice": 43200,
+   "discount": 65,
+   "grade": "무지성급",
+   "category": "가구/홈데코",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MWQxMjNh/WnUrMU5NMXRqSk16TTlsTXRMVG1wZjA0Rzl2QWNMYXRON0M2dlhGWVRWbz0.png",
+   "link": "https://toss.shopping/_m/tOP3zsrC",
+   "source": "toss",
+   "postedAt": 1791499267,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "108758311",
    "name": "퍼니트 올인원 이뮨 멀티비타민, 28개입, 1박스",
