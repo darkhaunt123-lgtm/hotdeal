@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791473830,
+ "updated": 1791475641,
  "deals": [
+  {
+   "id": "1648956587",
+   "name": "Schtus 전기면도기, KS0272, 블루, 1개",
+   "price": 16090,
+   "originalPrice": 97000,
+   "discount": 83,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-06/71edc601-1ced-4c00-bad5-a28617529427.jpeg",
+   "link": "https://toss.shopping/_m/XxuOTY17",
+   "source": "toss",
+   "postedAt": 1791475641,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "213657085",
+   "name": "여행 멀티 크로스백 슬링백 BLZ0206, 블랙, FREE, 1개",
+   "price": 5285,
+   "originalPrice": 32900,
+   "discount": 83,
+   "grade": "무지성급",
+   "category": "스포츠/레져",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NWM3Njhi/QVA1TGN0WklrcVU0clNTdFkwRk5XczlhK2U2VVJDTzFacXY4cXRzVlVGVXQ.png",
+   "link": "https://toss.shopping/_m/BW3yEnz3",
+   "source": "toss",
+   "postedAt": 1791475638,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "2487054591",
+   "name": "쉬블림로브 캔버스 에코 숄더백 TS0007, 아이보리, Free, 1개",
+   "price": 5000,
+   "originalPrice": 32900,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/YjczNjVl/Yi9DUkZ5UEh2bjNtZXdHai9tRWwyWEdNN2pIbjNCazZyRkxWN3Q2cjROUT0.png",
+   "link": "https://toss.shopping/_m/TDdeehMy",
+   "source": "toss",
+   "postedAt": 1791475635,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "83950145",
    "name": "자연바름 MBP엔 소연골 콘드로이친 1200, 600mg, 60정, 6개",
