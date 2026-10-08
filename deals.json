@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791428946,
+ "updated": 1791429281,
  "deals": [
+  {
+   "id": "56233267",
+   "name": "오뚜기밥 흰밥, 150g, 30개",
+   "price": 22900,
+   "originalPrice": 41400,
+   "discount": 44,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTE0Yzk5/Y1l4cDVzWm1waG1aazVuSFlzNW5KczVzczVrNXM4emoxTk5qTmk1c25Naz0.png",
+   "link": "https://toss.shopping/_m/Jq4XiSXb",
+   "source": "toss",
+   "postedAt": 1791429281,
+   "endAt": null
+  },
   {
    "id": "105382313",
    "name": "애슐리 눈꽃치즈 순살 안동식 찜닭, 2인분, 772g, 1개",
