@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791475641,
+ "updated": 1791475647,
  "deals": [
+  {
+   "id": "172975651",
+   "name": "코오롱제약 쏘팔메토 옥타코사놀 포맨, 1000mg, 30캡슐, 6박스",
+   "price": 25800,
+   "originalPrice": 150000,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTI2ZDc1/QU16MFc5UjI4YzNET3JTMlorOUxzeHI1VHBEdWo1bDJPRkwwVDhFYTlMUSs.png",
+   "link": "https://toss.shopping/_m/9jyPuUxi",
+   "source": "toss",
+   "postedAt": 1791475647,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "213657087",
+   "name": "여행 멀티 크로스백 슬링백 BLZ0206, 네이비, FREE, 1개",
+   "price": 5285,
+   "originalPrice": 32900,
+   "discount": 83,
+   "grade": "무지성급",
+   "category": "스포츠/레져",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MjNjYjA0/QUtQR0syTU5ITmxjOHZHV3NvU0g1YWwxL0cwdFNBT3FWcXJlcXRaVlZGV3A.png",
+   "link": "https://toss.shopping/_m/ZU2r34Oe",
+   "source": "toss",
+   "postedAt": 1791475644,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "1648956587",
    "name": "Schtus 전기면도기, KS0272, 블루, 1개",
