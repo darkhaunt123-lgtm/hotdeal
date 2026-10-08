@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791460020,
+ "updated": 1791472007,
  "deals": [
+  {
+   "id": "2636629037",
+   "name": "클라메딕 스킨온 뷰티디바이스, KOR-SKO2701W, 화이트, 1개",
+   "price": 14900,
+   "originalPrice": 139000,
+   "discount": 89,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-27/f3783f4a-8193-43a4-b62d-f9dbe5233de2.jpeg",
+   "link": "https://toss.shopping/_m/RFiZFont",
+   "source": "toss",
+   "postedAt": 1791472007,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "677259603",
+   "name": "닥터킴스 MSM 콘드로이친 1300 마사지크림, 150ml, 3개",
+   "price": 8540,
+   "originalPrice": 84000,
+   "discount": 89,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-21/7f4b0b0d-e79b-43de-a340-cc96302d5225.jpeg",
+   "link": "https://toss.shopping/_m/rzlsll27",
+   "source": "toss",
+   "postedAt": 1791472003,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "376356123",
+   "name": "셀큐어 팔-RGD+ 알지디 액티베이터 앰플, 7ml, 4개 + 1ml 4장 증정, 1개",
+   "price": 27900,
+   "originalPrice": 330000,
+   "discount": 91,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OWJjYTI0/R2NNNXRlYkRQOEZKbk1majM0TTVyU2ZCUGNQbVd4bkR5N1RtWGx2QnlEdz0.png",
+   "link": "https://toss.shopping/_m/jzhnFAf2",
+   "source": "toss",
+   "postedAt": 1791472000,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "2034295555",
    "name": "호정가 하루단백질바, 25g, 20개",
