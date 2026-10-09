@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791535599,
+ "updated": 1791535606,
  "deals": [
+  {
+   "id": "2578646977",
+   "name": "아이스 망고바, 70g, 10개, 3팩",
+   "price": 21500,
+   "originalPrice": 34900,
+   "discount": 38,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-05/4ba0d1cd-77cd-4249-b9dd-6b5eaecc0975.jpeg",
+   "link": "https://toss.shopping/_m/5RwOlYY4",
+   "source": "toss",
+   "postedAt": 1791535606,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "12177017",
+   "name": "표백 99% 세탁비누, 200g, 5개",
+   "price": 6800,
+   "originalPrice": 11000,
+   "discount": 38,
+   "grade": "대박",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NWVhYjcw/QUw4UnFkSGNxOVNwTGxaSEVTRCtxMWFKcXhlbHpablE3SDlVYWR1N1ZKYzA.png",
+   "link": "https://toss.shopping/_m/zwRmd3cc",
+   "source": "toss",
+   "postedAt": 1791535603,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "685931673",
    "name": "지리산 자연벌꿀 아카시아벌꿀, 2.4kg, 2개",
