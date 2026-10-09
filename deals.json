@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791526930,
+ "updated": 1791528325,
  "deals": [
+  {
+   "id": "11921313",
+   "name": "다디안 커피빈 비스킷, 22g, 20봉, 1박스",
+   "price": 5170,
+   "originalPrice": 9500,
+   "discount": 45,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Y2YyZGM2/QU9VSmJJUGdHUks1UmZnciswL2FyK0Vic0syaHQwSDI2MHROSVZmd0ZsOUM.png",
+   "link": "https://toss.shopping/_m/vOiS1S16",
+   "source": "toss",
+   "postedAt": 1791528325,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "82249363",
    "name": "농가살리기 여수 순살갈치, 150g, 10팩",
