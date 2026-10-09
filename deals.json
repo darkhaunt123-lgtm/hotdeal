@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791522887,
+ "updated": 1791524704,
  "deals": [
+  {
+   "id": "383064889",
+   "name": "바로먹는 발효곤약 냉모밀, 350g, 8개",
+   "price": 21030,
+   "originalPrice": 40000,
+   "discount": 47,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-12-03/52c5a7d8-fd21-4fd3-8c33-dbaf24a22d89.png",
+   "link": "https://toss.shopping/_m/F15NY6D",
+   "source": "toss",
+   "postedAt": 1791524704,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "1134041675",
+   "name": "생 더덕무침, 특제 비법양념, 1kg, 1박스",
+   "price": 20900,
+   "originalPrice": 40900,
+   "discount": 48,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDI0YTdk/QU90R1diNXZEeDQ4bzVlb25KNEZPcjh2QmlvOUwxWWd0U3Ewa0tsUXRmY3A.png",
+   "link": "https://toss.shopping/_m/rJlwbOQv",
+   "source": "toss",
+   "postedAt": 1791524701,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "689256437",
+   "name": "썸잇 주방세제 자동 디스펜서, 메탈실버, 1개",
+   "price": 15170,
+   "originalPrice": 29900,
+   "discount": 49,
+   "grade": "초대박",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MzgxZWYy/QU9sd08yWnlYdFNjeGEwdGFHZ2JhOUxRMXNZNGxXMHphU3VheWxhN2RLTWQ.png",
+   "link": "https://toss.shopping/_m/1cAyrWHo",
+   "source": "toss",
+   "postedAt": 1791524698,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "92967121",
+   "name": "노마크 반려견 강아지 배변패드, 대형 고흡수, 40매, 3개",
+   "price": 22200,
+   "originalPrice": 44000,
+   "discount": 49,
+   "grade": "초대박",
+   "category": "반려/애완용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MWZmYTgz/QUlIRVltSFJJOW01RCttQXhNeTdpZFFmOUlnNXMxUVhvMVBoeWN0RXlXUzA.png",
+   "link": "https://toss.shopping/_m/ZZykp2Sg",
+   "source": "toss",
+   "postedAt": 1791524695,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "431168267",
+   "name": "이불 옷 정리 압축파우치, MEGA, 2개입, 1세트",
+   "price": 12630,
+   "originalPrice": 25000,
+   "discount": 49,
+   "grade": "초대박",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-08/899644ac-e130-4e91-b2a8-43b45b4d8b9c.jpeg",
+   "link": "https://toss.shopping/_m/fwkthN5C",
+   "source": "toss",
+   "postedAt": 1791524691,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "82249363",
    "name": "농가살리기 여수 순살갈치, 150g, 10팩",
@@ -4887,20 +4957,6 @@
    "source": "toss",
    "postedAt": 1791297108,
    "endAt": "2026-10-07T00:00:00+09:00"
-  },
-  {
-   "id": "92152707",
-   "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 1개",
-   "price": 11900,
-   "originalPrice": 35000,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZjllOWU2/QUpmRE85aG9IZVFubC9BYnlYQVA1TFR2K0p0TEVBTmt0T3ZzdTB1VlVIeTA.png",
-   "link": "https://toss.shopping/_m/dimxtjc1",
-   "source": "toss",
-   "postedAt": 1791264978,
-   "endAt": null
   }
  ]
 }
