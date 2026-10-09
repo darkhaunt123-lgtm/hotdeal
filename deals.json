@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791541047,
+ "updated": 1791545690,
  "deals": [
+  {
+   "id": "128444909",
+   "name": "옥수수 스토리콘, 250g, 4봉",
+   "price": 6100,
+   "originalPrice": 15900,
+   "discount": 61,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTRkZGJl/ZWN2dEJzTXZONGxPRU5CeHRPQkx0c3VPL3c5YVB6QnpwZUZWcXI2VXEwUT0.png",
+   "link": "https://toss.shopping/_m/h2QoiWTp",
+   "source": "toss",
+   "postedAt": 1791545690,
+   "endAt": null
+  },
   {
    "id": "123716291",
    "name": "자연오감 일품 오징어, 300g, 1개",
@@ -1428,20 +1442,6 @@
    "link": "https://toss.shopping/_m/Pd7srOpB",
    "source": "toss",
    "postedAt": 1791504715,
-   "endAt": "2026-10-10T00:00:00+09:00"
-  },
-  {
-   "id": "128444909",
-   "name": "옥수수 스토리콘, 250g, 4봉",
-   "price": 6100,
-   "originalPrice": 15900,
-   "discount": 61,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTRkZGJl/ZWN2dEJzTXZONGxPRU5CeHRPQkx0c3VPL3c5YVB6QnpwZUZWcXI2VXEwUT0.png",
-   "link": "https://toss.shopping/_m/h2QoiWTp",
-   "source": "toss",
-   "postedAt": 1791504712,
    "endAt": "2026-10-10T00:00:00+09:00"
   },
   {
