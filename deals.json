@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791539240,
+ "updated": 1791541047,
  "deals": [
+  {
+   "id": "123716291",
+   "name": "자연오감 일품 오징어, 300g, 1개",
+   "price": 13925,
+   "originalPrice": 20500,
+   "discount": 32,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/M2VmYmQy/QUxlU1k3Zlk4ZHpJNDJ5bk5pM2xXbG5XbTlPbG1Sc3N2dU5HYTFwbHBKR2w.png",
+   "link": "https://toss.shopping/_m/H5i6k4a2",
+   "source": "toss",
+   "postedAt": 1791541047,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "2578646981",
+   "name": "아이스 망고바, 70g, 10개, 5팩",
+   "price": 31900,
+   "originalPrice": 47400,
+   "discount": 32,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-05/4ba0d1cd-77cd-4249-b9dd-6b5eaecc0975.jpeg",
+   "link": "https://toss.shopping/_m/Tum5W9Bu",
+   "source": "toss",
+   "postedAt": 1791541044,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "2640925061",
    "name": "크라운 쿠크다스 초코케이크 202g + 크림블 순크림 300g + 빅파이 레몬 324g, 1세트",
