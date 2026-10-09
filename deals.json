@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791539237,
+ "updated": 1791539240,
  "deals": [
+  {
+   "id": "2640925061",
+   "name": "크라운 쿠크다스 초코케이크 202g + 크림블 순크림 300g + 빅파이 레몬 324g, 1세트",
+   "price": 10900,
+   "originalPrice": 16100,
+   "discount": 32,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-31/9654a493-d8ff-44f3-b7c1-2df618f93101.jpeg",
+   "link": "https://toss.shopping/_m/HydYLXKe",
+   "source": "toss",
+   "postedAt": 1791539240,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "1955566649",
    "name": "정식품 특등급 국산콩 콩국물, 950g, 4개",
