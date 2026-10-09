@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791530155,
+ "updated": 1791531962,
  "deals": [
+  {
+   "id": "100607505",
+   "name": "취영루 바삭바삭 매콤한 맛있는 한끼 메밀전병, 1kg, 1개",
+   "price": 8000,
+   "originalPrice": 13900,
+   "discount": 42,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjBjZDg5/QVBKejAxZHBuaTNMWWxsVjJhbW91WTFwcTh1Wk02bFMwcllsZkd6QlVVMVM.png",
+   "link": "https://toss.shopping/_m/nqn2mtO5",
+   "source": "toss",
+   "postedAt": 1791531962,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "105433335",
+   "name": "애슐리 크림 뇨끼 2종, 베이컨크림 1봉 + 바질크림 1봉, 1세트",
+   "price": 11800,
+   "originalPrice": 20980,
+   "discount": 43,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YzZlZTQ1/TFhGYlhPY3grZUZpS2JMV1paZWZDSnVwTjE1TW50Z04rWkRNNmVGMkFGND0.png",
+   "link": "https://toss.shopping/_m/PEzSvShx",
+   "source": "toss",
+   "postedAt": 1791531959,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "1619926875",
    "name": "싱싱푸드 양파를 품은 메밀칩, 160g, 4개",
