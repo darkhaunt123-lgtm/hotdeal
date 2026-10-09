@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791515613,
+ "updated": 1791515619,
  "deals": [
+  {
+   "id": "2241044111",
+   "name": "남녀공용 사계절 무지 장목 양말, 화이트, FREE(230mm-270mm), 10켤레, 1개",
+   "price": 6410,
+   "originalPrice": 14900,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-12/3a7e8b7c-615b-417f-a484-01ab8efbb5c7.jpeg",
+   "link": "https://toss.shopping/_m/LIlujJBn",
+   "source": "toss",
+   "postedAt": 1791515619,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "89450363",
+   "name": "메르헨트 티트리 로즈마리 트리트먼트, 화이트머스크향, 1500ml, 1+1 구성, 총 2개",
+   "price": 12920,
+   "originalPrice": 30000,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-11/a63fde77-f60d-4a8a-9df3-0e1ce435e3f6.jpeg",
+   "link": "https://toss.shopping/_m/zMdN0Eq7",
+   "source": "toss",
+   "postedAt": 1791515616,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "135527675",
    "name": "프렘 더 슬림 음식물처리기, P260, 화이트, 1개",
