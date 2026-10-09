@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791531962,
+ "updated": 1791531972,
  "deals": [
+  {
+   "id": "11681645",
+   "name": "순수식품 칼슘 마그네슘 비타민D 아연 망간, 1350mg, 90정, 1박스",
+   "price": 7600,
+   "originalPrice": 13000,
+   "discount": 41,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-30/2fa27ce7-49c0-4917-ac4f-fcde8870c713.jpeg",
+   "link": "https://toss.shopping/_m/JyebkOxt",
+   "source": "toss",
+   "postedAt": 1791531972,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "2577956951",
+   "name": "무바라 국산쌀로 만든 가마솥 누룽지, 1kg, 2개",
+   "price": 9300,
+   "originalPrice": 15900,
+   "discount": 41,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-05/0e9851f5-a7e2-4520-8267-89688269981c.jpeg",
+   "link": "https://toss.shopping/_m/3PlaM7gi",
+   "source": "toss",
+   "postedAt": 1791531969,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "145359961",
+   "name": "코피코 커피맛 캔디 블리스터 팩, 384g, 2개",
+   "price": 14600,
+   "originalPrice": 25000,
+   "discount": 41,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTViYjky/QU0yZk16bW1UTXpibVd3OXM1ODUyek5Nek15emt4a05tVms1Tm5sbk9kbU0.png",
+   "link": "https://toss.shopping/_m/RbcK9jUe",
+   "source": "toss",
+   "postedAt": 1791531965,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "100607505",
    "name": "취영루 바삭바삭 매콤한 맛있는 한끼 메밀전병, 1kg, 1개",
