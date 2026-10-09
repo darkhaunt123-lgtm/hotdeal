@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791513803,
+ "updated": 1791515613,
  "deals": [
+  {
+   "id": "135527675",
+   "name": "프렘 더 슬림 음식물처리기, P260, 화이트, 1개",
+   "price": 172000,
+   "originalPrice": 399000,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MWNhYmY1/T0VONXhvYzg1NHg0NDNqVGh4eHovQnpqOGVjT09NZWNQT09oUzNwVGxqdz0.png",
+   "link": "https://toss.shopping/_m/7o9KcWdq",
+   "source": "toss",
+   "postedAt": 1791515613,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "12833201",
+   "name": "에브리워터 무라벨, 500ml, 60개",
+   "price": 10490,
+   "originalPrice": 24000,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OWIxZGMx/VnNiTVcrRnhjaGtmbW1IbWluMzh3L1hCTmpBUnVpTTdtbkg5aDF4SGlQND0.png",
+   "link": "https://toss.shopping/_m/xj4LPEni",
+   "source": "toss",
+   "postedAt": 1791515610,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
+  {
+   "id": "93253001",
+   "name": "교동 버섯 들깨탕, 500g, 5개",
+   "price": 11900,
+   "originalPrice": 27500,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDE0MDQ4/WW0zZXk3U0RHMkU0Y1dRZTNtUFJObTFqTHRPV0lYbE1qdUd6cVRsRXpQWT0.png",
+   "link": "https://toss.shopping/_m/hRFT13b6",
+   "source": "toss",
+   "postedAt": 1791515607,
+   "endAt": "2026-10-10T00:00:00+09:00"
+  },
   {
    "id": "10770865",
    "name": "보름달 김치 나박김치, 2kg, 1개",
@@ -4564,20 +4606,6 @@
    "link": "https://toss.shopping/_m/dimxtjc1",
    "source": "toss",
    "postedAt": 1791264978,
-   "endAt": null
-  },
-  {
-   "id": "1421668445",
-   "name": "서해대통 당진해나루쌀 삼광미, 25년산, 특등급, 10kg, 1개",
-   "price": 32800,
-   "originalPrice": 41300,
-   "discount": 20,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTkyMTQ0/UjVTbk9hLzczWUg0aFhnL2hSYmo3anp1TE5sTC90Tm12UkMwa1ZBQlMyND0.png",
-   "link": "https://toss.shopping/_m/527I65Fs",
-   "source": "toss",
-   "postedAt": 1791255232,
    "endAt": null
   }
  ]
