@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791526521,
+ "updated": 1791526930,
  "deals": [
+  {
+   "id": "82249363",
+   "name": "농가살리기 여수 순살갈치, 150g, 10팩",
+   "price": 26000,
+   "originalPrice": 51900,
+   "discount": 49,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTE3Zjg3/QTZLMWJaNnp4Qm1rUGpXS3VyVzJHYlZxOEQzUWoxaXd1bzhpNDZvTy9pTT0.png",
+   "link": "https://toss.shopping/_m/twlOumvj",
+   "source": "toss",
+   "postedAt": 1791526930,
+   "endAt": null
+  },
   {
    "id": "76625959",
    "name": "차싹 에탄올 발수코팅 워셔액, 2L, 3개",
@@ -140,20 +154,6 @@
    "link": "https://toss.shopping/_m/fwkthN5C",
    "source": "toss",
    "postedAt": 1791524691,
-   "endAt": "2026-10-10T00:00:00+09:00"
-  },
-  {
-   "id": "82249363",
-   "name": "농가살리기 여수 순살갈치, 150g, 10팩",
-   "price": 26000,
-   "originalPrice": 51900,
-   "discount": 49,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTE3Zjg3/QTZLMWJaNnp4Qm1rUGpXS3VyVzJHYlZxOEQzUWoxaXd1bzhpNDZvTy9pTT0.png",
-   "link": "https://toss.shopping/_m/twlOumvj",
-   "source": "toss",
-   "postedAt": 1791522887,
    "endAt": "2026-10-10T00:00:00+09:00"
   },
   {
