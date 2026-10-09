@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791511986,
+ "updated": 1791513236,
  "deals": [
+  {
+   "id": "108758311",
+   "name": "퍼니트 올인원 이뮨 멀티비타민, 28개입, 1박스",
+   "price": 24000,
+   "originalPrice": 69900,
+   "discount": 65,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjE1MWMy/QUl6bDA1ckVZRmc1MVpiS3JYUlM3bTExMXFadk4zQmFZOVdzTVJJaU5RYXA.png",
+   "link": "https://toss.shopping/_m/fR7SJVcx",
+   "source": "toss",
+   "postedAt": 1791513236,
+   "endAt": null
+  },
   {
    "id": "92189785",
    "name": "가쯔 프리미엄 이지 컷팅 테이프 크리너 7종 세트, 1세트",
@@ -532,20 +546,6 @@
    "link": "https://toss.shopping/_m/tOP3zsrC",
    "source": "toss",
    "postedAt": 1791499267,
-   "endAt": "2026-10-10T00:00:00+09:00"
-  },
-  {
-   "id": "108758311",
-   "name": "퍼니트 올인원 이뮨 멀티비타민, 28개입, 1박스",
-   "price": 24000,
-   "originalPrice": 69900,
-   "discount": 65,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjE1MWMy/QUl6bDA1ckVZRmc1MVpiS3JYUlM3bTExMXFadk4zQmFZOVdzTVJJaU5RYXA.png",
-   "link": "https://toss.shopping/_m/fR7SJVcx",
-   "source": "toss",
-   "postedAt": 1791499264,
    "endAt": "2026-10-10T00:00:00+09:00"
   },
   {
