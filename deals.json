@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791645236,
+ "updated": 1791647041,
  "deals": [
+  {
+   "id": "828536497",
+   "name": "삭스팡 아동 포시즌 랜덤 스니 중목 삭스 양말, 골고루, 7켤레, 6호, 1세트",
+   "price": 2460,
+   "originalPrice": 20000,
+   "discount": 87,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTczZjgz/QU5sREduaWtqK2xnQnJUWEQ3cDBacHpWQTVoeEpyMVhTaG0rWWEzK1FKNXk.png",
+   "link": "https://toss.shopping/_m/dcAQAnue",
+   "source": "toss",
+   "postedAt": 1791647041,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "77671511",
    "name": "유한메디카 칼슘 마그네슘 엔 탑 비타민D K 망간, 60정, 4개",
