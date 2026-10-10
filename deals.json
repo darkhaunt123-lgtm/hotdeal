@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791602000,
+ "updated": 1791602098,
  "deals": [
+  {
+   "id": "135166225",
+   "name": "와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, V3세트, 스탠드형, 고객직접설치, 1세트",
+   "price": 242000,
+   "originalPrice": 461000,
+   "discount": 47,
+   "grade": "초대박",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDFmMTVh/QU9jVU9ZNFJxNXgwNUZ6anpYR3JIamJNWk9NS294V2M1bE5xUXhHNFZpeHY.png",
+   "link": "https://toss.shopping/_m/JTeWQXCi",
+   "source": "toss",
+   "postedAt": 1791602098,
+   "endAt": null
+  },
   {
    "id": "2548634659",
    "name": "웨이크비 콜드브루 원액 브라질 세하도, 1L, 1병",
