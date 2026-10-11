@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791718760,
+ "updated": 1791720568,
  "deals": [
+  {
+   "id": "87839591",
+   "name": "서가 메탈 고강도 60W PD CtoC타입 초고속 케이블, 블랙, 1.5m, 2개",
+   "price": 4845,
+   "originalPrice": 12900,
+   "discount": 62,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/M2E5ZWRi/QUlBRTl0VUVWTlVFRnYvUWdsdXFDSXBtRUVpejZsRmpBRzJvZ3I5NUhNdE4.png",
+   "link": "https://toss.shopping/_m/hXUVwyH5",
+   "source": "toss",
+   "postedAt": 1791720568,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "2442898043",
+   "name": "한입과득 청송 홍로 사과, 가정용, 3kg, 1박스",
+   "price": 8730,
+   "originalPrice": 38900,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-09/e0325247-78d9-4c0e-abce-fec8fb278bb3.jpeg",
+   "link": "https://toss.shopping/_m/v0smvKty",
+   "source": "toss",
+   "postedAt": 1791720564,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "1619533579",
    "name": "마성의김치 전라도식 비법 양념 열무물김치, 5kg, 1봉",
@@ -3893,20 +3921,6 @@
    "source": "toss",
    "postedAt": 1791472000,
    "endAt": "2026-10-10T00:00:00+09:00"
-  },
-  {
-   "id": "2034295555",
-   "name": "호정가 하루단백질바, 25g, 20개",
-   "price": 7990,
-   "originalPrice": 24000,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmFkNDg1/YTNNaXA1eW1lVUdtR2MrMnYwcjJEc205bTdGMlRrMWp1clVpUHdYQnExST0.png",
-   "link": "https://toss.shopping/_m/Lwf6ygvt",
-   "source": "toss",
-   "postedAt": 1791460020,
-   "endAt": null
   }
  ]
 }
