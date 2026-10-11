@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791720568,
+ "updated": 1791720577,
  "deals": [
+  {
+   "id": "2552288799",
+   "name": "아이제나흐 티타늄 코팅 집게 가위 세트, 2종, 1세트",
+   "price": 7400,
+   "originalPrice": 19870,
+   "discount": 62,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-29/5a592a31-aa63-4cc1-a236-5f7115f08a32.jpeg",
+   "link": "https://toss.shopping/_m/BgQJRXsD",
+   "source": "toss",
+   "postedAt": 1791720577,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "146651405",
+   "name": "헹텐 독일군 스니커즈, 화이트, 255mm, 1개",
+   "price": 25300,
+   "originalPrice": 68000,
+   "discount": 62,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-07-23/e095bbb9-500a-4bfd-95f3-fc84fdbc5259.jpeg",
+   "link": "https://toss.shopping/_m/9DWuwuim",
+   "source": "toss",
+   "postedAt": 1791720574,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "146651415",
+   "name": "헹텐 독일군 스니커즈, 화이트, 280mm, 1개",
+   "price": 25300,
+   "originalPrice": 68000,
+   "discount": 62,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-07-23/e095bbb9-500a-4bfd-95f3-fc84fdbc5259.jpeg",
+   "link": "https://toss.shopping/_m/1e4qECre",
+   "source": "toss",
+   "postedAt": 1791720571,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "87839591",
    "name": "서가 메탈 고강도 60W PD CtoC타입 초고속 케이블, 블랙, 1.5m, 2개",
