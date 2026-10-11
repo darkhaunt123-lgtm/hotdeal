@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791695147,
+ "updated": 1791695154,
  "deals": [
+  {
+   "id": "2264708383",
+   "name": "발이 편한 카바 밴딩 중목 양말, 화이트, 10켤레",
+   "price": 4200,
+   "originalPrice": 20000,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTdhZGIx/QU9Yd3N3RXhqMDVUaWg4emhjUjRJSVJScTUxNnFoUUNOZi91QUlRaTQ5OTY.png",
+   "link": "https://toss.shopping/_m/t9Bk5TDe",
+   "source": "toss",
+   "postedAt": 1791695154,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "38921571",
+   "name": "CCA정, 45g, 90정, 6통",
+   "price": 23640,
+   "originalPrice": 119400,
+   "discount": 80,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2024-09-24/60446a18-f8b9-49ef-9b99-4ea18d6ee301.jpeg",
+   "link": "https://toss.shopping/_m/N7SS0PT5",
+   "source": "toss",
+   "postedAt": 1791695151,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "650169377",
    "name": "마흐트 올스텐 파흐만 쉐프나이프, 1개 + 중식도, 1개, 1세트",
