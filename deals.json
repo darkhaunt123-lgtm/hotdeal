@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791727839,
+ "updated": 1791727845,
  "deals": [
+  {
+   "id": "468421863",
+   "name": "루엘디 대용량 디퓨저, 호텔 딥 우드, 500ml, 3개",
+   "price": 13642,
+   "originalPrice": 32400,
+   "discount": 57,
+   "grade": "초대박",
+   "category": "가구/홈데코",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTdlOTNi/QUp3N0YyYkhDMm1KNCtuSnliald4WXlyaHFvelZHaHg3RlJnMFh4VlJCOE0.png",
+   "link": "https://toss.shopping/_m/DIMzVxmd",
+   "source": "toss",
+   "postedAt": 1791727845,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "155145517",
+   "name": "눌담 고단백 저당 베이글 흑임자, 140g, 8개",
+   "price": 10900,
+   "originalPrice": 25800,
+   "discount": 57,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NWZiZTMz/QUlZOVZwZ2xaMHh0SGx6RXNpY25MMmw2RWw3R2NMYTRISzF6U2RiNkE5WEs.png",
+   "link": "https://toss.shopping/_m/FSnKKD77",
+   "source": "toss",
+   "postedAt": 1791727842,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "250694549",
    "name": "국내산 흰떡국떡, 1kg, 2봉",
