@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791718190,
+ "updated": 1791718760,
  "deals": [
+  {
+   "id": "1619533579",
+   "name": "마성의김치 전라도식 비법 양념 열무물김치, 5kg, 1봉",
+   "price": 7900,
+   "originalPrice": 20900,
+   "discount": 62,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MzBhZDhl/QU5IT2t5ZzJrK1VzakZHdGhyMjI4U3huS3c1K3JGbUFjMlhHMThNQUQ0WGE.png",
+   "link": "https://toss.shopping/_m/FnrwtEXv",
+   "source": "toss",
+   "postedAt": 1791718760,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "66584073",
+   "name": "외갓집 소갈비탕, 650g, 10개",
+   "price": 37000,
+   "originalPrice": 100000,
+   "discount": 63,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MTk3ZTMy/T0lVbTVZcG5QQlA1cGMyMUR6TTBKZlhQUWpRbkY3ekw5NjQrSE5RWmEvST0.png",
+   "link": "https://toss.shopping/_m/TfZcKzte",
+   "source": "toss",
+   "postedAt": 1791718757,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "176171919",
+   "name": "퍼니트 유기농 엑스트라버진 올리브오일 선물세트, 250ml, 2병, 1세트",
+   "price": 15600,
+   "originalPrice": 42800,
+   "discount": 63,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-23/2786ebf9-bf85-4127-a1f0-0f2bd3997bbe.jpeg",
+   "link": "https://toss.shopping/_m/1pR3q4N5",
+   "source": "toss",
+   "postedAt": 1791718754,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "129332283",
    "name": "푸드앳홈 마늘 바게트, 40g, 10개",
@@ -13,8 +55,22 @@
    "thumbnail": "https://shopping.toss.im/live/temp/2025-01-21/8b5ba25c-12b5-4a1d-bab7-73cd19c703ff.jpeg",
    "link": "https://toss.shopping/_m/nZhRxVJ8",
    "source": "toss",
-   "postedAt": 1791718190,
-   "endAt": null
+   "postedAt": 1791718751,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "110224185",
+   "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 1팩",
+   "price": 7990,
+   "originalPrice": 24000,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MmZjNWYz/QUtYWVI4MkxGZzZMWEhTV1M4dW5GbEtyc3pSY2ladW1Uam83cWs3Qm0xVkE.png",
+   "link": "https://toss.shopping/_m/hu9S5H0w",
+   "source": "toss",
+   "postedAt": 1791718748,
+   "endAt": "2026-10-12T00:00:00+09:00"
   },
   {
    "id": "802742603",
