@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791648871,
+ "updated": 1791693320,
  "deals": [
+  {
+   "id": "84024105",
+   "name": "여성 체크 파자마 잠옷 세트, FREE, 상의+긴바지, 1세트",
+   "price": 7800,
+   "originalPrice": 32900,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmJiNzhi/QUlnbHJpQ0ZmMUJQQk1zRnIvVXdiOUN2djZLVG1vQzY1aW9qbjhJVVI1eE4.png",
+   "link": "https://toss.shopping/_m/x1lv9jni",
+   "source": "toss",
+   "postedAt": 1791693320,
+   "endAt": null
+  },
   {
    "id": "140229011",
    "name": "허글리 슬림핏 KF94 마스크, 새부리형, 대형, 블랙, 100매",
@@ -3024,76 +3038,6 @@
    "link": "https://toss.shopping/_m/fKqzA0Yt",
    "source": "toss",
    "postedAt": 1791441728,
-   "endAt": null
-  },
-  {
-   "id": "56233267",
-   "name": "오뚜기밥 흰밥, 150g, 30개",
-   "price": 22900,
-   "originalPrice": 41400,
-   "discount": 44,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTE0Yzk5/Y1l4cDVzWm1waG1aazVuSFlzNW5KczVzczVrNXM4emoxTk5qTmk1c25Naz0.png",
-   "link": "https://toss.shopping/_m/Jq4XiSXb",
-   "source": "toss",
-   "postedAt": 1791429281,
-   "endAt": null
-  },
-  {
-   "id": "105382313",
-   "name": "애슐리 눈꽃치즈 순살 안동식 찜닭, 2인분, 772g, 1개",
-   "price": 8900,
-   "originalPrice": 15990,
-   "discount": 44,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTRlNzll/SHc1YkhmWVovRG5ZZUxNSGFEekUrMFQ1eUxDYThPNTY3NU16RVJBZjRYOD0.png",
-   "link": "https://toss.shopping/_m/zR9evNal",
-   "source": "toss",
-   "postedAt": 1791428946,
-   "endAt": null
-  },
-  {
-   "id": "2482486143",
-   "name": "슬림떡볶이 로제맛, 230g, 4개",
-   "price": 5530,
-   "originalPrice": 15600,
-   "discount": 64,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MzgzYjc2/QUlYSDJaK1huZzlNUHh0dVhleFo4YXp3ZkpoeEJmbE10djZodDA2QUZIbno.png",
-   "link": "https://toss.shopping/_m/fkzkThY5",
-   "source": "toss",
-   "postedAt": 1791423540,
-   "endAt": null
-  },
-  {
-   "id": "10142851",
-   "name": "스파클 생수 무라벨, 500ml, 40병",
-   "price": 5900,
-   "originalPrice": 12000,
-   "discount": 50,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
-   "link": "https://toss.shopping/_m/R5dEVsqx",
-   "source": "toss",
-   "postedAt": 1791423460,
-   "endAt": null
-  },
-  {
-   "id": "139066091",
-   "name": "하누리 1++ 한우 소한마리모둠, 400g, 1세트",
-   "price": 29610,
-   "originalPrice": 59000,
-   "discount": 49,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTkxNWU3/UGV3NzI2WTlwemIwOFZrbitMRTlKUER4Mk8zUzlPYjF4dlJwczlPUUd0MD0.png",
-   "link": "https://toss.shopping/_m/l6AVoP67",
-   "source": "toss",
-   "postedAt": 1791423424,
    "endAt": null
   }
  ]
