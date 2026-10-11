@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791715127,
+ "updated": 1791716931,
  "deals": [
+  {
+   "id": "2645891943",
+   "name": "굿프렌드 복부 찜질 마사지기, GOOD-M11, 민트그레이, 1개",
+   "price": 21110,
+   "originalPrice": 59900,
+   "discount": 64,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-16/258cf296-97cf-4c38-942a-d6e44750de40.jpeg",
+   "link": "https://toss.shopping/_m/Nzpj3lbB",
+   "source": "toss",
+   "postedAt": 1791716931,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "1617915755",
    "name": "골드럽 오리지널 식초&레몬 주방세제, 레몬향, 용기, 1L, 3개",
