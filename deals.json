@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791711505,
+ "updated": 1791713309,
  "deals": [
+  {
+   "id": "119176181",
+   "name": "까먹는 과일젤리 4가지맛, 1kg, 1개",
+   "price": 7305,
+   "originalPrice": 21900,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-27/c7c486d5-57ab-496a-8431-e0ad8631b58d.png",
+   "link": "https://toss.shopping/_m/DmB5QHbb",
+   "source": "toss",
+   "postedAt": 1791713309,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "10608541",
    "name": "신흥 경포장 박스테이프, 100m, 5개",
