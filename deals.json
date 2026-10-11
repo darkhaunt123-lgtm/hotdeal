@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791701149,
+ "updated": 1791702421,
  "deals": [
+  {
+   "id": "2644552917",
+   "name": "배스킨라빈스 레인보우 샤베트 워터, 500ml, 6개 + 피치요거트 워터, 500ml, 6개, 1세트",
+   "price": 7900,
+   "originalPrice": 29900,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-04/a83819ac-4c7e-4fa3-96b3-36c8b4ffe8e4.png",
+   "link": "https://toss.shopping/_m/v5jFx5Qu",
+   "source": "toss",
+   "postedAt": 1791702421,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "1157385337",
+   "name": "페페브루노 엑스트라버진 올리브오일, 250ml, 4개",
+   "price": 15900,
+   "originalPrice": 59600,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-16/6b3ac7b0-1f59-4ba6-b60e-c1eea0620d21.jpeg",
+   "link": "https://toss.shopping/_m/JyGcPoCn",
+   "source": "toss",
+   "postedAt": 1791702418,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "853318615",
    "name": "한미 프로틴 마스터, 190ml, 48팩",
@@ -13,8 +41,36 @@
    "thumbnail": "https://shopping.toss.im/live/taca/ai/NDRlNWY5/YjV1VjdaaTJONW0yYlZ0MmNabVBabkxsU1phdmFUY3ZlUFNtU1pPMGVmUT0.png",
    "link": "https://toss.shopping/_m/PHmMbb67",
    "source": "toss",
-   "postedAt": 1791701149,
-   "endAt": null
+   "postedAt": 1791702414,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "2566955185",
+   "name": "냉동 삶은 홍찰옥수수, 특대, 20개",
+   "price": 12800,
+   "originalPrice": 49800,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-03/c90260c4-8abf-47f1-9fdb-7960eb309bfa.png",
+   "link": "https://toss.shopping/_m/Tir8VzTa",
+   "source": "toss",
+   "postedAt": 1791702411,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "2533613197",
+   "name": "무쿠 BLDC 휴대용 초소형 급속 냉각 손 선풍기, NCFA-2KC-12-SQ, 화이트, 2개",
+   "price": 12920,
+   "originalPrice": 51800,
+   "discount": 75,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-31/cb5da020-12e7-4c33-9692-60888e450c10.jpeg",
+   "link": "https://toss.shopping/_m/T8sf7PGC",
+   "source": "toss",
+   "postedAt": 1791702408,
+   "endAt": "2026-10-12T00:00:00+09:00"
   },
   {
    "id": "1918226167",
