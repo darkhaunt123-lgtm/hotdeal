@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791706055,
+ "updated": 1791707859,
  "deals": [
+  {
+   "id": "197304059",
+   "name": "병아리콩 담은 고단백 7콩 혼합잡곡, 2kg, 1개",
+   "price": 6990,
+   "originalPrice": 23900,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-20/33e84dc1-d5ff-43be-a0ea-7e8f3b49d2b9.png",
+   "link": "https://toss.shopping/_m/fbZnPe42",
+   "source": "toss",
+   "postedAt": 1791707859,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "301924489",
    "name": "센토 프라임 화이트닝 미백치약 퓨어민트향, 120g, 4개입, 2개",
@@ -3472,20 +3486,6 @@
    "link": "https://toss.shopping/_m/Lwf6ygvt",
    "source": "toss",
    "postedAt": 1791460020,
-   "endAt": null
-  },
-  {
-   "id": "89412973",
-   "name": "애슐리 크리스피 소시지탱글 핫도그, 80g, 10개입, 1개",
-   "price": 9990,
-   "originalPrice": 14990,
-   "discount": 33,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-05-14/78d1ed8b-4493-449d-beee-4060f5700b3a.jpeg",
-   "link": "https://toss.shopping/_m/7qZAHaw9",
-   "source": "toss",
-   "postedAt": 1791448223,
    "endAt": null
   }
  ]
