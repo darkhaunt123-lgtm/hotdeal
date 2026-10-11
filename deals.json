@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791693400,
+ "updated": 1791695147,
  "deals": [
+  {
+   "id": "650169377",
+   "name": "마흐트 올스텐 파흐만 쉐프나이프, 1개 + 중식도, 1개, 1세트",
+   "price": 10940,
+   "originalPrice": 57000,
+   "discount": 80,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDgyYTIy/YVUvTFdqb1djT2FFejZYUTV4L0VQVEh0M2xoQ2sxSzJ6dlIvUkNFY3ZVcz0.png",
+   "link": "https://toss.shopping/_m/ZoeUPECy",
+   "source": "toss",
+   "postedAt": 1791695147,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "177756211",
+   "name": "라이녹스 식품건조기, RXD-Y500, 1개",
+   "price": 24210,
+   "originalPrice": 129000,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjlkZjY2/QU1scnpTdEttMjFKcGFzMnk3V3J0TXZTVTFMTmEybkxWRXM4OWEybG5JdFY.png",
+   "link": "https://toss.shopping/_m/5A9NaAbr",
+   "source": "toss",
+   "postedAt": 1791695144,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "139497777",
+   "name": "경남제약 프라임 대마종자유, 750mg, 30캡슐, 4박스",
+   "price": 21000,
+   "originalPrice": 120000,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NzUxMGNh/WmNmbGE1empyZUUzREplTW1QTi9sak5Oa3h6SjRVelRZdHhNeWFyV3NXaz0.png",
+   "link": "https://toss.shopping/_m/NoSYwUEf",
+   "source": "toss",
+   "postedAt": 1791695141,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "2626230861",
    "name": "우화연 1++ 한우한판 선물세트, 1kg, 1개",
