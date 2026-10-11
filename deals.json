@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791722394,
+ "updated": 1791724205,
  "deals": [
+  {
+   "id": "974925533",
+   "name": "푸드어홈 창난젓, 500g, 1개",
+   "price": 8990,
+   "originalPrice": 22900,
+   "discount": 60,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmViZWQ4/QVBaMnRydnA0ZExlbURiYlRXV3o3MjFXeHZ3Y2FockU5YlZvYzFSZW9KM1k.png",
+   "link": "https://toss.shopping/_m/5BO1KXA4",
+   "source": "toss",
+   "postedAt": 1791724205,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "2127442149",
+   "name": "랩포트 이불 압축 파우치, 특대형, 그레이, 1개",
+   "price": 6280,
+   "originalPrice": 15900,
+   "discount": 60,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjFjZmJj/QUtBZUVRejRkN0Jlc2xuZ05xQWYwUGpnTkxKY3Nsc2tJd3ZBTFlpYk1nazM.png",
+   "link": "https://toss.shopping/_m/D4vBzNjx",
+   "source": "toss",
+   "postedAt": 1791724202,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "678965349",
+   "name": "미니 2단 선반 행거, 블랙, 145cm, 1개",
+   "price": 8913,
+   "originalPrice": 25900,
+   "discount": 65,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OWU1YzFi/QUxGSCtzWTNrRkZxUk93VHE2NngyeUcyTTZ3c1ZLMTFZZDZ3VXB0SkN0YWw.png",
+   "link": "https://toss.shopping/_m/9SeMuzTo",
+   "source": "toss",
+   "postedAt": 1791724198,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "1673871175",
    "name": "65W 듀얼 초고속 PPS C타입 매립형 차량용 충전기, 블랙, 1개",
