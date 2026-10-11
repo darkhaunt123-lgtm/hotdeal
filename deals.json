@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791716943,
+ "updated": 1791718190,
  "deals": [
+  {
+   "id": "129332283",
+   "name": "푸드앳홈 마늘 바게트, 40g, 10개",
+   "price": 5400,
+   "originalPrice": 14900,
+   "discount": 63,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-01-21/8b5ba25c-12b5-4a1d-bab7-73cd19c703ff.jpeg",
+   "link": "https://toss.shopping/_m/nZhRxVJ8",
+   "source": "toss",
+   "postedAt": 1791718190,
+   "endAt": null
+  },
   {
    "id": "802742603",
    "name": "말랑오징어소면, 1000g, 1봉",
