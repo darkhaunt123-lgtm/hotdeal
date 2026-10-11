@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791693320,
+ "updated": 1791693400,
  "deals": [
+  {
+   "id": "2626230861",
+   "name": "우화연 1++ 한우한판 선물세트, 1kg, 1개",
+   "price": 59800,
+   "originalPrice": 89800,
+   "discount": 33,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-03/d14f14c4-39a0-4e7a-82d4-7f723761654c.png",
+   "link": "https://toss.shopping/_m/TKmRYDCx",
+   "source": "toss",
+   "postedAt": 1791693400,
+   "endAt": null
+  },
   {
    "id": "84024105",
    "name": "여성 체크 파자마 잠옷 세트, FREE, 상의+긴바지, 1세트",
