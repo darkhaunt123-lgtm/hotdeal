@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791726028,
+ "updated": 1791727839,
  "deals": [
+  {
+   "id": "250694549",
+   "name": "국내산 흰떡국떡, 1kg, 2봉",
+   "price": 8500,
+   "originalPrice": 20000,
+   "discount": 57,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZjM3YTgz/QUp0THpheHBHc2NNRDBrTnJRZGhOT1F5WVJLa3gxTGFWRFI2blY1MHFuQXU.png",
+   "link": "https://toss.shopping/_m/9RHXmSqB",
+   "source": "toss",
+   "postedAt": 1791727839,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "2426193769",
+   "name": "스포츠 쿠션 양말, 화이트, 중목, 10개",
+   "price": 8440,
+   "originalPrice": 19900,
+   "discount": 57,
+   "grade": "초대박",
+   "category": "스포츠/레져",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NGE5OGZk/QU9iT0EyVVNOM2kzWWN2Vmk2Y1hpSG04UU9MRVF5UmVNS3JweEdkVmEzVzU.png",
+   "link": "https://toss.shopping/_m/hNyIvz2w",
+   "source": "toss",
+   "postedAt": 1791727836,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
+  {
+   "id": "80616079",
+   "name": "벽부착 드라이어 무타공 벽걸이 드라이어 홀더 욕실 정리, 블랙, 1개",
+   "price": 4140,
+   "originalPrice": 9900,
+   "discount": 58,
+   "grade": "초대박",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Nzg5MTYy/VE1iTGJiTU5lWlpOYytiWjNNYWJNbk01YU4yZGt5Y01UbXdzeExNNGszcz0.png",
+   "link": "https://toss.shopping/_m/ztNIxTbq",
+   "source": "toss",
+   "postedAt": 1791727833,
+   "endAt": "2026-10-12T00:00:00+09:00"
+  },
   {
    "id": "2545168611",
    "name": "오브제 에어 프레쉬 고체탈취제, 포레스트 에어, 350g, 3개",
