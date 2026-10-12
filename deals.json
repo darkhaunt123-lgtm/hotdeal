@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791820093,
+ "updated": 1791820099,
  "deals": [
+  {
+   "id": "2637785485",
+   "name": "산들에담다 GAP 노지 감귤, 특품, 로얄과, 10kg, 1박스",
+   "price": 18690,
+   "originalPrice": 89900,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-28/12aca3f7-0d09-47b5-bcb8-a9dc0453c75d.png",
+   "link": "https://toss.shopping/_m/Bv0XUHln",
+   "source": "toss",
+   "postedAt": 1791820099,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "2621680231",
+   "name": "산들에담다 국내산 노지 활 새우, 1kg, 1개",
+   "price": 19410,
+   "originalPrice": 99900,
+   "discount": 80,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-19/b6e109b0-4357-4b20-910c-e63f0889319c.jpeg",
+   "link": "https://toss.shopping/_m/tAqNIVli",
+   "source": "toss",
+   "postedAt": 1791820096,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "2635019287",
    "name": "센텔리안24 더마데카크림, 45ml, 4개",
