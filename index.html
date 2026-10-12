@@ -43,11 +43,26 @@
   .tab small{font-size:11px;font-weight:500;color:var(--sub)}
   .tab.active{background:var(--accent2);border-color:var(--accent2);color:#111}
   .tab.active small{color:#5a4200}
-  .tab-alert{background:linear-gradient(135deg,#ff3b30,#ff6b00);border-color:transparent;color:#fff;text-decoration:none;min-width:118px;box-shadow:0 4px 14px rgba(255,80,0,.35);animation:pulse 2.4s ease-in-out infinite}
-  .tab-alert small{color:#ffe7c2;font-weight:700}
-  @keyframes pulse{0%,100%{box-shadow:0 4px 14px rgba(255,80,0,.35)}50%{box-shadow:0 4px 22px rgba(255,80,0,.65)}}
-  @media (prefers-reduced-motion:reduce){.tab-alert{animation:none}}
-  @media (max-width:560px){.tab-alert{order:-1}}
+  .alert-banner{margin-top:12px;display:flex;align-items:center;gap:14px;padding:16px 18px;border-radius:16px;
+    background:linear-gradient(135deg,#ff3b30,#ff6b00);color:#fff;text-decoration:none;
+    box-shadow:0 6px 20px rgba(255,80,0,.35);animation:pulse 2.4s ease-in-out infinite}
+  .alert-banner .ic{font-size:32px;line-height:1;flex:0 0 auto}
+  .alert-banner .tx{flex:1;min-width:0}
+  .alert-banner .t1{font-size:19px;font-weight:800;letter-spacing:-.02em}
+  .alert-banner .t2{font-size:13px;font-weight:600;color:#ffe7c2;margin-top:3px}
+  .alert-banner .go{flex:0 0 auto;background:#fff;color:#ff4d00;font-weight:800;font-size:13px;border-radius:999px;padding:8px 14px}
+  .alert-banner:active{transform:scale(.99)}
+  @keyframes pulse{0%,100%{box-shadow:0 6px 20px rgba(255,80,0,.35)}50%{box-shadow:0 6px 30px rgba(255,80,0,.65)}}
+  @media (prefers-reduced-motion:reduce){.alert-banner{animation:none}}
+  .alert-banner .t1,.alert-banner .t2{word-break:keep-all}
+  @media (max-width:480px){
+    .alert-banner{gap:10px;padding:14px}
+    .alert-banner .ic{font-size:26px}
+    .alert-banner .t1{font-size:16px}
+    .alert-banner .t2{font-size:12px}
+    .alert-banner .go{font-size:12px;padding:7px 11px}
+  }
+  .disclosure-mini{margin-top:8px;font-size:11px;color:var(--sub);text-align:center}
   .cats{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
   .cat{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:5px 11px;font-size:12px;color:var(--sub);cursor:pointer}
   .cat.active{background:var(--text);color:var(--bg);border-color:var(--text)}
@@ -105,7 +120,15 @@
       <div class="updated" id="updated"></div>
     </div>
     <div class="lead">오늘의 특가를 할인율 순으로 모았어요. 인기 딜은 빨리 품절돼요!</div>
-    <div class="disclosure">이 페이지의 상품 링크는 토스쇼핑 쉐어링크·쿠팡 파트너스 링크이며, 구매 시 운영자가 수수료를 제공받습니다.</div>
+    <a class="alert-banner" href="https://open.kakao.com/o/pIFobVNi" target="_blank" rel="noopener">
+      <div class="ic">🔔</div>
+      <div class="tx">
+        <div class="t1">역대급 딜 실시간 알림받기</div>
+        <div class="t2">품절 전에 제일 먼저 알려드려요</div>
+      </div>
+      <div class="go">입장 ›</div>
+    </a>
+    <div class="disclosure-mini">이 페이지의 상품 링크는 토스쇼핑 쉐어링크·쿠팡 파트너스 링크이며, 구매 시 운영자가 수수료를 제공받습니다.</div>
   </header>
 
   <div class="tabs" id="tabs"></div>
@@ -159,11 +182,8 @@ function render(){
   tabs.innerHTML = [{key:"전체",label:"전체",icon:"✨"}, ...GRADES].map(g => `
     <div class="tab ${grade===g.key?'active':''}" data-g="${g.key}">
       ${g.label}<small>${g.key==="전체" ? deals.length+"개" : g.icon}</small>
-    </div>`).join("") + `
-    <a class="tab tab-alert" href="${KAKAO_URL}" target="_blank" rel="noopener">
-      🔔 역대급 딜<small>실시간 알림받기</small>
-    </a>`;
-  tabs.querySelectorAll(".tab[data-g]").forEach(el => el.onclick = () => { grade = el.dataset.g; render(); });
+    </div>`).join("");
+  tabs.querySelectorAll(".tab").forEach(el => el.onclick = () => { grade = el.dataset.g; render(); });
 
   // 카테고리
   const catList = ["전체", ...Array.from(new Set(deals.map(d=>d.category||"기타")))];
