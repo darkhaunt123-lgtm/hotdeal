@@ -43,6 +43,11 @@
   .tab small{font-size:11px;font-weight:500;color:var(--sub)}
   .tab.active{background:var(--accent2);border-color:var(--accent2);color:#111}
   .tab.active small{color:#5a4200}
+  .tab-alert{background:linear-gradient(135deg,#ff3b30,#ff6b00);border-color:transparent;color:#fff;text-decoration:none;min-width:118px;box-shadow:0 4px 14px rgba(255,80,0,.35);animation:pulse 2.4s ease-in-out infinite}
+  .tab-alert small{color:#ffe7c2;font-weight:700}
+  @keyframes pulse{0%,100%{box-shadow:0 4px 14px rgba(255,80,0,.35)}50%{box-shadow:0 4px 22px rgba(255,80,0,.65)}}
+  @media (prefers-reduced-motion:reduce){.tab-alert{animation:none}}
+  @media (max-width:560px){.tab-alert{order:-1}}
   .cats{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
   .cat{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:5px 11px;font-size:12px;color:var(--sub);cursor:pointer}
   .cat.active{background:var(--text);color:var(--bg);border-color:var(--text)}
@@ -121,6 +126,7 @@
 <div class="cta"><a href="https://open.kakao.com/o/pIFobVNi" target="_blank" rel="noopener">🔥 실시간 핫딜알림방 입장하기</a></div>
 
 <script>
+const KAKAO_URL = "https://open.kakao.com/o/pIFobVNi";
 const GRADES = [
   {key:"무지성급", label:"무지성급", icon:"🔥🔥🔥🔥", cls:"g1", min:60},
   {key:"초대박",   label:"초대박",   icon:"🔥🔥🔥",   cls:"g2", min:40},
@@ -153,8 +159,11 @@ function render(){
   tabs.innerHTML = [{key:"전체",label:"전체",icon:"✨"}, ...GRADES].map(g => `
     <div class="tab ${grade===g.key?'active':''}" data-g="${g.key}">
       ${g.label}<small>${g.key==="전체" ? deals.length+"개" : g.icon}</small>
-    </div>`).join("");
-  tabs.querySelectorAll(".tab").forEach(el => el.onclick = () => { grade = el.dataset.g; render(); });
+    </div>`).join("") + `
+    <a class="tab tab-alert" href="${KAKAO_URL}" target="_blank" rel="noopener">
+      🔔 역대급 딜<small>실시간 알림받기</small>
+    </a>`;
+  tabs.querySelectorAll(".tab[data-g]").forEach(el => el.onclick = () => { grade = el.dataset.g; render(); });
 
   // 카테고리
   const catList = ["전체", ...Array.from(new Set(deals.map(d=>d.category||"기타")))];
