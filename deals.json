@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791823729,
+ "updated": 1791823732,
  "deals": [
+  {
+   "id": "175254015",
+   "name": "곰도리 하루종일 붙이는 핫팩 장시간 고급형, 100개",
+   "price": 15502,
+   "originalPrice": 69800,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-13/5fffc58a-ab96-4011-8fe7-26bc2191ba76.png",
+   "link": "https://toss.shopping/_m/vx6W0qr4",
+   "source": "toss",
+   "postedAt": 1791823732,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "161310659",
    "name": "교동 사골곰탕, 500g, 18개",
