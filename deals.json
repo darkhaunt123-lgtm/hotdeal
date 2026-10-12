@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791792384,
+ "updated": 1791792510,
  "deals": [
+  {
+   "id": "cp7312490308",
+   "name": "베트남산 스텔라나 고산지 바나나, 800g 내외, 1개",
+   "price": 1980,
+   "originalPrice": null,
+   "discount": 0,
+   "grade": "특가",
+   "category": "기타",
+   "thumbnail": null,
+   "link": "https://link.coupang.com/a/hMIlYXa7oG",
+   "source": "coupang",
+   "postedAt": 1791792510,
+   "endAt": null
+  },
   {
    "id": "cp9711973763",
    "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품",
