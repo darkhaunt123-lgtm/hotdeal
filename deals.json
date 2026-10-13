@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791875452,
+ "updated": 1791877262,
  "deals": [
+  {
+   "id": "109816969",
+   "name": "널담 뚱카롱, 초코홀릭 55g 4개입 1박스 + 황치즈 55g 4개입 1박스, 2박스",
+   "price": 8390,
+   "originalPrice": 16900,
+   "discount": 50,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MmE3MWRi/QU1weHg2ekhXWExFT1lzKzNLY203eE5vYmtzVDltZVN3MXZaMXN3VGtjNXM.png",
+   "link": "https://toss.shopping/_m/vuypM1yD",
+   "source": "toss",
+   "postedAt": 1791877262,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "101754311",
+   "name": "구첩반찬 무말랭이무침, 1kg, 1개",
+   "price": 4440,
+   "originalPrice": 8900,
+   "discount": 50,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZGIyYWI3/Y2RPWnhzODJ6WmptWVptYnlzbVpNMHpTZVpMNTRqTSt3Y0phT1IrT01yVT0.png",
+   "link": "https://toss.shopping/_m/JklWECjx",
+   "source": "toss",
+   "postedAt": 1791877259,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "289133663",
+   "name": "카템 공구세트, CT442, 차량용 가정용, 복스 46종+카드툴세트, 본품, 1개",
+   "price": 8702,
+   "originalPrice": 17800,
+   "discount": 51,
+   "grade": "초대박",
+   "category": "자동차용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTNjMzAw/WWlhSlB1MjYzcFROc0cwMzMwUTJSdEZPWEV1My9OaXRSclF6dmJnQWowQT0.png",
+   "link": "https://toss.shopping/_m/t5yqgR0r",
+   "source": "toss",
+   "postedAt": 1791877256,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "1671362837",
    "name": "제주 삼다수, 라벨랜덤, 500ml, 40개",
