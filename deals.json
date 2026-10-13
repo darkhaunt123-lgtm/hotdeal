@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791881713,
+ "updated": 1791882708,
  "deals": [
+  {
+   "id": "470440459",
+   "name": "꽃보다 호박즙, NFC, 국내산, 90ml, 30팩",
+   "price": 19150,
+   "originalPrice": 35000,
+   "discount": 45,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-12-22/ff5e7db2-b79d-4a52-81e4-6f682866146e.jpeg",
+   "link": "https://toss.shopping/_m/ltk48Irc",
+   "source": "toss",
+   "postedAt": 1791882708,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "258434441",
+   "name": "디톡스데이 CCA주스, 100ml, 30포",
+   "price": 9900,
+   "originalPrice": 18000,
+   "discount": 45,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NzMwZWQ5/QUlhSkpNNXBwVXR6SzFpYWpVcVdsbDRtcEdraXFPMml0WlZvMVZ1MlZpU2I.png",
+   "link": "https://toss.shopping/_m/Jya6djp7",
+   "source": "toss",
+   "postedAt": 1791882705,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "155820037",
    "name": "5단 수압조절 온오프 샤워기헤드, 블랙, 2개",
