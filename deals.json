@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791859112,
+ "updated": 1791859114,
  "deals": [
+  {
+   "id": "2650541457",
+   "name": "안성마춤농협 고시히카리쌀, 특등급, 10kg, 1개",
+   "price": 35900,
+   "originalPrice": 89000,
+   "discount": 59,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-17/4e422b53-ede8-4e9e-85c8-5ad4218958bb.jpeg",
+   "link": "https://toss.shopping/_m/jLNHukv9",
+   "source": "toss",
+   "postedAt": 1791859114,
+   "endAt": null
+  },
   {
    "id": "846367687",
    "name": "국내산 닭 솥뚜껑 안동찜닭, 1kg, 2개",
