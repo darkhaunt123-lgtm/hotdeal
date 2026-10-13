@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791884534,
+ "updated": 1791886344,
  "deals": [
+  {
+   "id": "2635675067",
+   "name": "국내산 찰흑미, 500g, 2봉",
+   "price": 6020,
+   "originalPrice": 9900,
+   "discount": 39,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-06/a6d0020a-1dda-483a-a6a6-9e51156762d0.jpeg",
+   "link": "https://toss.shopping/_m/NaPwcf7s",
+   "source": "toss",
+   "postedAt": 1791886344,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "2235699999",
+   "name": "페페브루노 발사믹 비니거 드레싱, 1L, 1개",
+   "price": 8900,
+   "originalPrice": 14990,
+   "discount": 40,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NzU1YzQx/SFBoOTNPS0g0aU1iZkJuTzlJUG04UXY4T1MrMUFjYlVUczhycTdGdzFWdz0.png",
+   "link": "https://toss.shopping/_m/V2AP5uqn",
+   "source": "toss",
+   "postedAt": 1791886341,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "2178814827",
+   "name": "권도령방앗간 참기름, 350ml, 1개 + 생들기름, 350ml, 1개",
+   "price": 15000,
+   "originalPrice": 25500,
+   "discount": 41,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NzNmZmRj/RzB5QjNmV1JYOW5kR04xY0lxZWlvLzNaT21QNmZNdWZGUWpOMlpVWU5pUT0.png",
+   "link": "https://toss.shopping/_m/RKSb6J6c",
+   "source": "toss",
+   "postedAt": 1791886338,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "2655419531",
    "name": "블랙 트러플 크래커, 28g, 5봉, 3개",
