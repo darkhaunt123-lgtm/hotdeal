@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791860916,
+ "updated": 1791860920,
  "deals": [
+  {
+   "id": "2211280457",
+   "name": "알파CD 레몬컷, 120정, 2개",
+   "price": 12330,
+   "originalPrice": 40000,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/N2VhMzI3/Y0I4WUQ2RTl4d1BCZzRIdkF3K0h6T2VQNlpmQTR3WURqdkU5OGpNTmZ4dz0.png",
+   "link": "https://toss.shopping/_m/PFKdSAEC",
+   "source": "toss",
+   "postedAt": 1791860920,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "2623109649",
    "name": "픽스 24h 슬림 아이브로우, 다크브라운, 1+1 구성, 총 2개",
