@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791889985,
+ "updated": 1791891792,
  "deals": [
+  {
+   "id": "81073583",
+   "name": "미홀 ECO 스마트 휴지통, 화이트, 30L, 1개",
+   "price": 46850,
+   "originalPrice": 69900,
+   "discount": 32,
+   "grade": "대박",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-06/19d0fd87-aeec-4440-8245-fbe0efe9ac8d.jpeg",
+   "link": "https://toss.shopping/_m/HeRJQ7HD",
+   "source": "toss",
+   "postedAt": 1791891792,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "2211395455",
+   "name": "산지로드 소고기 모둠, 수입산, 1kg, 1세트",
+   "price": 28900,
+   "originalPrice": 42900,
+   "discount": 32,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-09/611a1bfe-0e40-4abe-8157-4be4658c45ec.jpeg",
+   "link": "https://toss.shopping/_m/JXkN5I8v",
+   "source": "toss",
+   "postedAt": 1791891789,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "37852247",
    "name": "럽마이펫 7 in 1 반려동물 미용기 LMP-885, 화이트, 1개",
