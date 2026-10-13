@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791872772,
+ "updated": 1791873624,
  "deals": [
+  {
+   "id": "715496257",
+   "name": "곱이가득 소곱창, 소스증정, 160g, 4팩",
+   "price": 21850,
+   "originalPrice": 49900,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTU0NDE5/QXpiUE95N2R0REFnelhSNzRrQncyMGZRdWxpa2xuQUlVbklMTDJFN2ZLOD0.png",
+   "link": "https://toss.shopping/_m/3BmoEONf",
+   "source": "toss",
+   "postedAt": 1791873624,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "1254407973",
    "name": "아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",
