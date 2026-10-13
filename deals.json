@@ -1,7 +1,63 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791879085,
+ "updated": 1791880898,
  "deals": [
+  {
+   "id": "149253447",
+   "name": "할리스 시그니처 블렌드 홀빈 원두, 500g, 2개",
+   "price": 24740,
+   "originalPrice": 46400,
+   "discount": 46,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-07-28/46b90b74-329c-4273-bcee-dd46d1e95c4d.jpeg",
+   "link": "https://toss.shopping/_m/hCfUqXmy",
+   "source": "toss",
+   "postedAt": 1791880898,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "135254585",
+   "name": "비비고 깊은사골곰탕, 500g, 18봉",
+   "price": 17690,
+   "originalPrice": 32900,
+   "discount": 46,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZDNkNzQz/YlkveWt6Mkw4NE81T1V1RHVURkthYTJCV2kyczBkOEUrR1N0L2xjRnJQND0.png",
+   "link": "https://toss.shopping/_m/3gvzkUyd",
+   "source": "toss",
+   "postedAt": 1791880895,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "2653775055",
+   "name": "온정 전라도 국내산 백김치, 2kg, 1개",
+   "price": 8320,
+   "originalPrice": 15900,
+   "discount": 47,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-11/c226971a-c4fd-4bce-b008-1c8a54aa3554.png",
+   "link": "https://toss.shopping/_m/ryQTzuui",
+   "source": "toss",
+   "postedAt": 1791880892,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "672608481",
+   "name": "대박농수산 정성담은 사과 선물세트, 보자기동봉, 5kg, 1박스",
+   "price": 29580,
+   "originalPrice": 55900,
+   "discount": 47,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-25/ef83b22c-04f1-410c-9ff6-22355b032226.png",
+   "link": "https://toss.shopping/_m/v2qtF4zd",
+   "source": "toss",
+   "postedAt": 1791880889,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "309896775",
    "name": "우리 프리미엄 포기김치, 10kg, 1박스",
@@ -3066,20 +3122,6 @@
    "link": "https://toss.shopping/_m/5COx7byo",
    "source": "toss",
    "postedAt": 1791635901,
-   "endAt": null
-  },
-  {
-   "id": "100635751",
-   "name": "머그바 직화 오징어 삼겹살 볶음, 350g, 3개",
-   "price": 14900,
-   "originalPrice": 28900,
-   "discount": 48,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/Y2UxYmIy/RGJCbVpPb2xVdW1ONWRreW1FV2pJWExraHdacU5rNVRsZEFPQm56TXRlND0.png",
-   "link": "https://toss.shopping/_m/3RuOYT7B",
-   "source": "toss",
-   "postedAt": 1791619979,
    "endAt": null
   }
  ]
