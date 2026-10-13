@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791880901,
+ "updated": 1791881492,
  "deals": [
+  {
+   "id": "383195201",
+   "name": "고궁 통참깨 참기름, 350ml, 2개",
+   "price": 10150,
+   "originalPrice": 30000,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-10/f77cb74a-8caa-4417-8e94-f8611c69af23.png",
+   "link": "https://toss.shopping/_m/V4Zvppxj",
+   "source": "toss",
+   "postedAt": 1791881492,
+   "endAt": null
+  },
   {
    "id": "171932225",
    "name": "광천김 파래 도시락김 카카오프렌즈, 4g, 27봉",
@@ -714,20 +728,6 @@
    "link": "https://toss.shopping/_m/zWPAbUwt",
    "source": "toss",
    "postedAt": 1791864544,
-   "endAt": "2026-10-14T00:00:00+09:00"
-  },
-  {
-   "id": "383195201",
-   "name": "고궁 통참깨 참기름, 350ml, 2개",
-   "price": 10150,
-   "originalPrice": 30000,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-10/f77cb74a-8caa-4417-8e94-f8611c69af23.png",
-   "link": "https://toss.shopping/_m/V4Zvppxj",
-   "source": "toss",
-   "postedAt": 1791864541,
    "endAt": "2026-10-14T00:00:00+09:00"
   },
   {
