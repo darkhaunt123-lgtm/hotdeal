@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791877262,
+ "updated": 1791877268,
  "deals": [
+  {
+   "id": "1335729681",
+   "name": "홀위트데이 100% 통밀모닝빵, 1kg, 1개",
+   "price": 8390,
+   "originalPrice": 16800,
+   "discount": 50,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-31/e9635f6d-e108-4012-a018-e539479cd48c.jpeg",
+   "link": "https://toss.shopping/_m/lRnMzt5c",
+   "source": "toss",
+   "postedAt": 1791877268,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "1187499249",
+   "name": "삼육김 들기름으로 구운 광천김 도시락김, 4g, 64봉",
+   "price": 15900,
+   "originalPrice": 32000,
+   "discount": 50,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzk5ZmIw/QU9KR2ZaelV1Znk3M1oza2x3M0phM3MzTWRwbWJ0QnB4cmNoa2xJcFJHUzU.png",
+   "link": "https://toss.shopping/_m/vTdNWo57",
+   "source": "toss",
+   "postedAt": 1791877265,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "109816969",
    "name": "널담 뚱카롱, 초코홀릭 55g 4개입 1박스 + 황치즈 55g 4개입 1박스, 2박스",
