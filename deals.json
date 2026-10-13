@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791871820,
+ "updated": 1791872772,
  "deals": [
+  {
+   "id": "1254407973",
+   "name": "아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",
+   "price": 22867,
+   "originalPrice": 70000,
+   "discount": 67,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MjE4ZDQ0/QVBJeDJQTmh5b1ROZ3pGTTQvYkFGdFJQSVhHRG14bllERGlINjRpWStoMDE.png",
+   "link": "https://toss.shopping/_m/FkXP742B",
+   "source": "toss",
+   "postedAt": 1791872772,
+   "endAt": null
+  },
   {
    "id": "2324201619",
    "name": "남성팬티 10장세트, 혼합, 105, 1세트 + 휴대용 속옷 파우치, 2개",
