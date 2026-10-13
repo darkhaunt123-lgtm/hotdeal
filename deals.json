@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791886344,
+ "updated": 1791886351,
  "deals": [
+  {
+   "id": "146158153",
+   "name": "모시울 영광 생 모시 송편(동부), 400g, 3개",
+   "price": 11400,
+   "originalPrice": 18900,
+   "discount": 39,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTM0MTg1/QVBhUU5tWU16Q0p0UmdPekczek4yblRtY0J2R25jOU5MTXRNZVhqM3RQRHo.png",
+   "link": "https://toss.shopping/_m/Jurk1SHD",
+   "source": "toss",
+   "postedAt": 1791886351,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "806601141",
+   "name": "한일전자 헤어 드라이기, PD H4300, 2300W, 블랙, 1개",
+   "price": 16990,
+   "originalPrice": 27900,
+   "discount": 39,
+   "grade": "대박",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTcwMjIw/QVBpSmEwYjBnM3JMOEVRODQvZ0J0OVI0NDhjYytNZFBxNGNVLzg3eHd3Zzk.png",
+   "link": "https://toss.shopping/_m/LA1XZsFy",
+   "source": "toss",
+   "postedAt": 1791886347,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "2635675067",
    "name": "국내산 찰흑미, 500g, 2봉",
