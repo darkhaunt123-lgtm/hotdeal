@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791873636,
+ "updated": 1791873687,
  "deals": [
+  {
+   "id": "2653091083",
+   "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
+   "price": 6930,
+   "originalPrice": 59800,
+   "discount": 88,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-23/38d1a52b-6f2e-461f-918f-e73b58a45889.png",
+   "link": "https://toss.shopping/_m/rvJVP5V4",
+   "source": "toss",
+   "postedAt": 1791873687,
+   "endAt": null
+  },
   {
    "id": "289081399",
    "name": "코피코 카푸치노맛 캔디 블리스터 팩, 32g, 12개입, 3박스",
