@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791860920,
+ "updated": 1791862737,
  "deals": [
+  {
+   "id": "2365395377",
+   "name": "방수 매직밴드, 2x100cm, 2개",
+   "price": 5089,
+   "originalPrice": 15900,
+   "discount": 67,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-13/f8e0baf7-b652-41c2-904c-5a3cc8b2522a.jpeg",
+   "link": "https://toss.shopping/_m/5cinJyQ",
+   "source": "toss",
+   "postedAt": 1791862737,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "2658405359",
+   "name": "풀무원 하루귀리 무라벨, 500ml, 20개",
+   "price": 9400,
+   "originalPrice": 30000,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-18/f453b1e4-e914-48a1-9379-96cf44125283.png",
+   "link": "https://toss.shopping/_m/frXC0fIk",
+   "source": "toss",
+   "postedAt": 1791862734,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "194164725",
+   "name": "오지끄 쌍비휴 반지, 실버, 2개",
+   "price": 9180,
+   "originalPrice": 28800,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZWM2MWI4/ZVpubk04eG0zbXc1bXpQTVpzd3pOY3pNWjJhWXpNN3pNeXlaSm5lWlJOTT0.png",
+   "link": "https://toss.shopping/_m/LZG0bRE8",
+   "source": "toss",
+   "postedAt": 1791862731,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "502379523",
+   "name": "보랄 견고한 내열강화유리 오븐형 스텐 에어프라이어, BR-160HAF, 18L, 1개",
+   "price": 61400,
+   "originalPrice": 199000,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NGEyOGQ4/ZGJKMHdtcFd4eDZ0TFRobHVnL0UvdkkwOUJwS3BNUzZBMVJDS3VsY3E2bz0.png",
+   "link": "https://toss.shopping/_m/5FX9H7DC",
+   "source": "toss",
+   "postedAt": 1791862727,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "179888453",
+   "name": "Z 트래킹 통풍 런닝화, 카키, 245mm, 1켤레",
+   "price": 12260,
+   "originalPrice": 39900,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZGNjMjIz/ZHhnTDhDWE01YS9oWDZobW5LRFdzRkkrU0M5M29mdlFLMW8wbTl5WURaOD0.png",
+   "link": "https://toss.shopping/_m/Z6m199Lo",
+   "source": "toss",
+   "postedAt": 1791862724,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "2211280457",
    "name": "알파CD 레몬컷, 120정, 2개",
@@ -2366,34 +2436,6 @@
    "link": "https://toss.shopping/_m/3RuOYT7B",
    "source": "toss",
    "postedAt": 1791619979,
-   "endAt": null
-  },
-  {
-   "id": "135166225",
-   "name": "와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, V3세트, 스탠드형, 고객직접설치, 1세트",
-   "price": 242000,
-   "originalPrice": 461000,
-   "discount": 47,
-   "grade": "초대박",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDFmMTVh/QU9jVU9ZNFJxNXgwNUZ6anpYR3JIamJNWk9NS294V2M1bE5xUXhHNFZpeHY.png",
-   "link": "https://toss.shopping/_m/JTeWQXCi",
-   "source": "toss",
-   "postedAt": 1791602098,
-   "endAt": null
-  },
-  {
-   "id": "2548634659",
-   "name": "웨이크비 콜드브루 원액 브라질 세하도, 1L, 1병",
-   "price": 5900,
-   "originalPrice": 12900,
-   "discount": 54,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-04/32f7cf27-c736-4acc-9c0d-552e882e6102.jpeg",
-   "link": "https://toss.shopping/_m/5wPcCKw4",
-   "source": "toss",
-   "postedAt": 1791602000,
    "endAt": null
   }
  ]
