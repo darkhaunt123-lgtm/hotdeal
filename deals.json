@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791882708,
+ "updated": 1791882717,
  "deals": [
+  {
+   "id": "2657866825",
+   "name": "윙잇 등촌동 버섯 칼국수, 1070g, 2팩",
+   "price": 15170,
+   "originalPrice": 27500,
+   "discount": 44,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-17/33a1e374-3203-49b0-8227-5da3b431c1d7.jpeg",
+   "link": "https://toss.shopping/_m/D6JKAP4B",
+   "source": "toss",
+   "postedAt": 1791882717,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "1520251749",
+   "name": "필립스 SkinIQ 7000 시리즈 전기면도기, S7886/70, 블랙, 1개",
+   "price": 133100,
+   "originalPrice": 239000,
+   "discount": 44,
+   "grade": "초대박",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-15/0ce95268-f933-4af9-a199-2a15381f4189.jpeg",
+   "link": "https://toss.shopping/_m/DyOhLWbw",
+   "source": "toss",
+   "postedAt": 1791882714,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
+  {
+   "id": "230338583",
+   "name": "볶은 땅콩 레드땅콩, 500g, 2봉",
+   "price": 7170,
+   "originalPrice": 12900,
+   "discount": 44,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDcxNTM5/U1Q1STlvT2NMWGFPZkF5VDBzbDZEQzRVOUpPWk9mOFBQaUdQd3VHaHREdz0.png",
+   "link": "https://toss.shopping/_m/7PzCxN6q",
+   "source": "toss",
+   "postedAt": 1791882711,
+   "endAt": "2026-10-14T00:00:00+09:00"
+  },
   {
    "id": "470440459",
    "name": "꽃보다 호박즙, NFC, 국내산, 90ml, 30팩",
