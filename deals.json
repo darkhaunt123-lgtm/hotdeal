@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791946304,
+ "updated": 1791950459,
  "deals": [
+  {
+   "id": "2650806145",
+   "name": "구어조은닭 에어프라이어 치킨 한 마리, 950g, 2개",
+   "price": 11780,
+   "originalPrice": 25500,
+   "discount": 53,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-04/84552d58-fa1b-4963-99fa-2f1cf16affee.jpeg",
+   "link": "https://toss.shopping/_m/31VQDkgB",
+   "source": "toss",
+   "postedAt": 1791950459,
+   "endAt": null
+  },
   {
    "id": "1463237195",
    "name": "베라 무해력 4ZERO 뽑아쓰는 미용티슈, 300매입, 6팩",
