@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791972352,
+ "updated": 1791974169,
  "deals": [
+  {
+   "id": "154587817",
+   "name": "AIRBONA 무선 충전식 눈마사지기 온열 공기압, AB-300EM, 화이트, 1개",
+   "price": 29990,
+   "originalPrice": 108800,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-08-05/32fde873-e177-40e6-bd59-df3430e7f12f.jpeg",
+   "link": "https://toss.shopping/_m/PhfOrsTk",
+   "source": "toss",
+   "postedAt": 1791974169,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
+  {
+   "id": "146123109",
+   "name": "불가마 동전 패치, 120매입, 2개",
+   "price": 8400,
+   "originalPrice": 30000,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-07-22/f0dfe75f-fe21-48f5-b6bb-4f21a445775b.jpeg",
+   "link": "https://toss.shopping/_m/N0L0uYy9",
+   "source": "toss",
+   "postedAt": 1791974166,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
+  {
+   "id": "2590202069",
+   "name": "익스트림 듀얼 아르기닌 플러스, 120정, 2개",
+   "price": 16780,
+   "originalPrice": 60000,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-23/4be74f8f-77db-4cab-a5ec-57077ec7ba23.jpeg",
+   "link": "https://toss.shopping/_m/hE3V5yWA",
+   "source": "toss",
+   "postedAt": 1791974162,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
+  {
+   "id": "1503699561",
+   "name": "발이 편한 카바 밴딩 중목 양말, 남성용, 색상혼합, 20켤레",
+   "price": 7700,
+   "originalPrice": 30000,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTRlNjBj/QU9Yd3N3RXhqMDVUaWg4emhjUjRJSVJScTUxNnFoUUNOZi91QUlRaTQ5OTY.png",
+   "link": "https://toss.shopping/_m/DYYTH2di",
+   "source": "toss",
+   "postedAt": 1791974159,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
+  {
+   "id": "193293929",
+   "name": "자동차 하이브리드 와이퍼, 650mm + 450mm, 1세트",
+   "price": 4760,
+   "originalPrice": 19800,
+   "discount": 75,
+   "grade": "무지성급",
+   "category": "자동차용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTMzZTVl/QU0vbC80M1VHVUE3VFhKMDhqZVB5M0YxNHNvSGhRNTAvUDFZZzRFQ01YK3E.png",
+   "link": "https://toss.shopping/_m/nHGakPd3",
+   "source": "toss",
+   "postedAt": 1791974156,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
   {
    "id": "1179275865",
    "name": "리쥬베닐 파이토베리어 호호바 EGF 크림, 100g, 1개",
@@ -2898,20 +2968,6 @@
    "link": "https://toss.shopping/_m/Jn7SyMmd",
    "source": "toss",
    "postedAt": 1791715114,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "119176181",
-   "name": "까먹는 과일젤리 4가지맛, 1kg, 1개",
-   "price": 7305,
-   "originalPrice": 21900,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-27/c7c486d5-57ab-496a-8431-e0ad8631b58d.png",
-   "link": "https://toss.shopping/_m/DmB5QHbb",
-   "source": "toss",
-   "postedAt": 1791713309,
    "endAt": "2026-10-12T00:00:00+09:00"
   }
  ]
