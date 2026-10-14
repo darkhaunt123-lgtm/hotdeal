@@ -1,7 +1,63 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791974169,
+ "updated": 1791975982,
  "deals": [
+  {
+   "id": "1181979367",
+   "name": "고기중독 왕십리 칼집돼지 왕구이, 1kg, 2팩",
+   "price": 14330,
+   "originalPrice": 49900,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-19/afab400f-201c-4d79-9f4c-e5eda29d6f19.jpeg",
+   "link": "https://toss.shopping/_m/v8hYfOyj",
+   "source": "toss",
+   "postedAt": 1791975982,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
+  {
+   "id": "1412105759",
+   "name": "엑스텐프로 기능성 인솔 X10PRO, 275-280mm, 2세트",
+   "price": 7970,
+   "originalPrice": 29000,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmE3ZTdl/QU5FUGF2eTgwWVplT3BRMG95ejJyVlFnUFY2cnlWbDU3TVZHUlJaK2VKQ3A.png",
+   "link": "https://toss.shopping/_m/lS0JQ367",
+   "source": "toss",
+   "postedAt": 1791975979,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
+  {
+   "id": "1463237195",
+   "name": "베라 무해력 4ZERO 뽑아쓰는 미용티슈, 300매입, 6팩",
+   "price": 6000,
+   "originalPrice": 22000,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ODRlOTZm/QU1uejdKWm44enBabkd5VERkdER4WWRLZTNNVE9ua3RGQ296M2V5c3BGdDc.png",
+   "link": "https://toss.shopping/_m/BvusS7a7",
+   "source": "toss",
+   "postedAt": 1791975976,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
+  {
+   "id": "9147949",
+   "name": "해피콜 코지 다이아몬드 IH 궁중팬, 28cm, 1개",
+   "price": 23170,
+   "originalPrice": 84000,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NzE3MmI4/YVRiak9heVRZYmZHMlR6enc4Mk9XL0hIajB4NDRUT01QVzN6dHRlYzZITT0.png",
+   "link": "https://toss.shopping/_m/reUQUK1m",
+   "source": "toss",
+   "postedAt": 1791975973,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
   {
    "id": "154587817",
    "name": "AIRBONA 무선 충전식 눈마사지기 온열 공기압, AB-300EM, 화이트, 1개",
@@ -311,20 +367,6 @@
    "endAt": null
   },
   {
-   "id": "1181979367",
-   "name": "고기중독 왕십리 칼집돼지 왕구이, 1kg, 2팩",
-   "price": 14330,
-   "originalPrice": 49900,
-   "discount": 71,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-19/afab400f-201c-4d79-9f4c-e5eda29d6f19.jpeg",
-   "link": "https://toss.shopping/_m/v8hYfOyj",
-   "source": "toss",
-   "postedAt": 1791954382,
-   "endAt": null
-  },
-  {
    "id": "1749965023",
    "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루 선물세트, 190ml, 24개",
    "price": 7800,
@@ -350,20 +392,6 @@
    "link": "https://toss.shopping/_m/31VQDkgB",
    "source": "toss",
    "postedAt": 1791950459,
-   "endAt": null
-  },
-  {
-   "id": "1463237195",
-   "name": "베라 무해력 4ZERO 뽑아쓰는 미용티슈, 300매입, 6팩",
-   "price": 6000,
-   "originalPrice": 22000,
-   "discount": 72,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ODRlOTZm/QU1uejdKWm44enBabkd5VERkdER4WWRLZTNNVE9ua3RGQ296M2V5c3BGdDc.png",
-   "link": "https://toss.shopping/_m/BvusS7a7",
-   "source": "toss",
-   "postedAt": 1791946304,
    "endAt": null
   },
   {
@@ -2898,76 +2926,6 @@
    "link": "https://toss.shopping/_m/Nzpj3lbB",
    "source": "toss",
    "postedAt": 1791716931,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "1617915755",
-   "name": "골드럽 오리지널 식초&레몬 주방세제, 레몬향, 용기, 1L, 3개",
-   "price": 7330,
-   "originalPrice": 21400,
-   "discount": 65,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZDIxZjZm/QU1zNWlkeHpNNHpKSXpaek5jektNelRPWjNVcU1kM09Zek9jd25iV1lEbVo.png",
-   "link": "https://toss.shopping/_m/TiCbUR3v",
-   "source": "toss",
-   "postedAt": 1791715127,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "157416995",
-   "name": "테오푸드 오뎅도리탕, 1.2kg, 2개",
-   "price": 26890,
-   "originalPrice": 77800,
-   "discount": 65,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MGM5NzM3/VG05aDhEK21NT1lxSEZxeVUrNm44WlVZbjJ6WGFoVkRzcXN0aG9vOUJncz0.png",
-   "link": "https://toss.shopping/_m/TeL0wmkc",
-   "source": "toss",
-   "postedAt": 1791715124,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "929278007",
-   "name": "널담 고단백 저당 포카치아, 토마토 바질치즈, 90g, 8개",
-   "price": 9900,
-   "originalPrice": 28900,
-   "discount": 65,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/OWFmMzA5/QU42cDBacHRFMHBXcDZVOEpxbHVvdENwcFp0ZjBWZ0Y5SjlyYkFMRXpzcnM.png",
-   "link": "https://toss.shopping/_m/DHRousiw",
-   "source": "toss",
-   "postedAt": 1791715120,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "581066609",
-   "name": "칼로라이트 전자레인지 소형 저당 밥솥, 크림, 1개",
-   "price": 10390,
-   "originalPrice": 29900,
-   "discount": 65,
-   "grade": "무지성급",
-   "category": "주방용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-06/39231bca-4e3e-400c-95ab-2de0735f87b0.jpeg",
-   "link": "https://toss.shopping/_m/d1GyigL5",
-   "source": "toss",
-   "postedAt": 1791715117,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "86429065",
-   "name": "리벤스 빨간맛 롱 와이드 스탠드형 테이프 크리너 10종 세트, 1세트",
-   "price": 10280,
-   "originalPrice": 29900,
-   "discount": 65,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDNlMGMz/QUtzem9tMnQxTHRKaFJwWjh2YzBqVXZqbEowdDl0SlZyMU5rZHRzSXJXcVU.png",
-   "link": "https://toss.shopping/_m/Jn7SyMmd",
-   "source": "toss",
-   "postedAt": 1791715114,
    "endAt": "2026-10-12T00:00:00+09:00"
   }
  ]
