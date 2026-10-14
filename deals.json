@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791992671,
+ "updated": 1791994475,
  "deals": [
+  {
+   "id": "12704517",
+   "name": "경남제약 맥주효모 비오틴셀렌, 550mg, 60정, 2개",
+   "price": 8390,
+   "originalPrice": 60000,
+   "discount": 86,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmIwNGIx/QU00YjdOTk9YczJ4Y2JrYkhvYkdlM09jNU9IaDV5eURSNG1rR21tRDVYeWU.png",
+   "link": "https://toss.shopping/_m/Pdh2A4Y",
+   "source": "toss",
+   "postedAt": 1791994475,
+   "endAt": "2026-10-16T00:00:00+09:00"
+  },
   {
    "id": "2626165065",
    "name": "트로피컬 핀턱 와이드 팬츠, 네이비, 66, 1장",
