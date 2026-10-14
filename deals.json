@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792018906,
+ "updated": 1792018912,
  "deals": [
+  {
+   "id": "1363254951",
+   "name": "올바른 곡물효소 프로바이오틱스 블랙 100, 90포, 2박스",
+   "price": 16700,
+   "originalPrice": 60000,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YThiN2Zh/QU95MDBQTVl5MjJtUDRaNHllTzI1T1REVFljWkRFd3NQTHh4amtQaDhmSGs.png",
+   "link": "https://toss.shopping/_m/btk2kqQy",
+   "source": "toss",
+   "postedAt": 1792018912,
+   "endAt": "2026-10-16T00:00:00+09:00"
+  },
+  {
+   "id": "1981136077",
+   "name": "외갓집 남도식 들녘 추어탕, 450g, 3팩",
+   "price": 8620,
+   "originalPrice": 33000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MjhlMmQx/QVBka25PMDMyNElGQW45NS92bkE4enZYajhhTmg3Mk9ORFF3Y0hMTXc5aEQ.png",
+   "link": "https://toss.shopping/_m/dhaXzeUp",
+   "source": "toss",
+   "postedAt": 1792018909,
+   "endAt": "2026-10-16T00:00:00+09:00"
+  },
   {
    "id": "1346911903",
    "name": "수뜰리에 프리미엄 올인원 캡슐세제 린넨블랑, 캡슐형, 40개입, 3개",
