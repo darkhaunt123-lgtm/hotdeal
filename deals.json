@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791950459,
+ "updated": 1791951857,
  "deals": [
+  {
+   "id": "1749965023",
+   "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루 선물세트, 190ml, 24개",
+   "price": 7800,
+   "originalPrice": 30000,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/7ee/live/product/522714203/7eefe8d6-473c-4ef9-abd7-fa2d66ead813.jpg",
+   "link": "https://toss.shopping/_m/xyKf8RM",
+   "source": "toss",
+   "postedAt": 1791951857,
+   "endAt": null
+  },
   {
    "id": "2650806145",
    "name": "구어조은닭 에어프라이어 치킨 한 마리, 950g, 2개",
