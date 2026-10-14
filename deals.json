@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791975982,
+ "updated": 1791975985,
  "deals": [
+  {
+   "id": "811845505",
+   "name": "은우담 설탕없는 진한 쌍화차, 18g, 20개입, 2박스",
+   "price": 17070,
+   "originalPrice": 60000,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-02-07/3fdc895c-e2b1-4188-be1c-00890764c490.jpeg",
+   "link": "https://toss.shopping/_m/D5aHJNCC",
+   "source": "toss",
+   "postedAt": 1791975985,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
   {
    "id": "1181979367",
    "name": "고기중독 왕십리 칼집돼지 왕구이, 1kg, 2팩",
