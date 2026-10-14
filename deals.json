@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791951857,
+ "updated": 1791954382,
  "deals": [
+  {
+   "id": "1181979367",
+   "name": "고기중독 왕십리 칼집돼지 왕구이, 1kg, 2팩",
+   "price": 14330,
+   "originalPrice": 49900,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-19/afab400f-201c-4d79-9f4c-e5eda29d6f19.jpeg",
+   "link": "https://toss.shopping/_m/v8hYfOyj",
+   "source": "toss",
+   "postedAt": 1791954382,
+   "endAt": null
+  },
   {
    "id": "1749965023",
    "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루 선물세트, 190ml, 24개",
@@ -3291,90 +3305,6 @@
    "source": "toss",
    "postedAt": 1791696958,
    "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "2264708383",
-   "name": "발이 편한 카바 밴딩 중목 양말, 화이트, 10켤레",
-   "price": 4200,
-   "originalPrice": 20000,
-   "discount": 79,
-   "grade": "무지성급",
-   "category": "패션의류잡화",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTdhZGIx/QU9Yd3N3RXhqMDVUaWg4emhjUjRJSVJScTUxNnFoUUNOZi91QUlRaTQ5OTY.png",
-   "link": "https://toss.shopping/_m/t9Bk5TDe",
-   "source": "toss",
-   "postedAt": 1791695154,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "38921571",
-   "name": "CCA정, 45g, 90정, 6통",
-   "price": 23640,
-   "originalPrice": 119400,
-   "discount": 80,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2024-09-24/60446a18-f8b9-49ef-9b99-4ea18d6ee301.jpeg",
-   "link": "https://toss.shopping/_m/N7SS0PT5",
-   "source": "toss",
-   "postedAt": 1791695151,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "650169377",
-   "name": "마흐트 올스텐 파흐만 쉐프나이프, 1개 + 중식도, 1개, 1세트",
-   "price": 10940,
-   "originalPrice": 57000,
-   "discount": 80,
-   "grade": "무지성급",
-   "category": "주방용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDgyYTIy/YVUvTFdqb1djT2FFejZYUTV4L0VQVEh0M2xoQ2sxSzJ6dlIvUkNFY3ZVcz0.png",
-   "link": "https://toss.shopping/_m/ZoeUPECy",
-   "source": "toss",
-   "postedAt": 1791695147,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "177756211",
-   "name": "라이녹스 식품건조기, RXD-Y500, 1개",
-   "price": 24210,
-   "originalPrice": 129000,
-   "discount": 81,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjlkZjY2/QU1scnpTdEttMjFKcGFzMnk3V3J0TXZTVTFMTmEybkxWRXM4OWEybG5JdFY.png",
-   "link": "https://toss.shopping/_m/5A9NaAbr",
-   "source": "toss",
-   "postedAt": 1791695144,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "139497777",
-   "name": "경남제약 프라임 대마종자유, 750mg, 30캡슐, 4박스",
-   "price": 21000,
-   "originalPrice": 120000,
-   "discount": 82,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NzUxMGNh/WmNmbGE1empyZUUzREplTW1QTi9sak5Oa3h6SjRVelRZdHhNeWFyV3NXaz0.png",
-   "link": "https://toss.shopping/_m/NoSYwUEf",
-   "source": "toss",
-   "postedAt": 1791695141,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "2626230861",
-   "name": "우화연 1++ 한우한판 선물세트, 1kg, 1개",
-   "price": 59800,
-   "originalPrice": 89800,
-   "discount": 33,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-03/d14f14c4-39a0-4e7a-82d4-7f723761654c.png",
-   "link": "https://toss.shopping/_m/TKmRYDCx",
-   "source": "toss",
-   "postedAt": 1791693400,
-   "endAt": null
   }
  ]
 }
