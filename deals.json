@@ -1,10 +1,10 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791970082,
+ "updated": 1791970722,
  "deals": [
   {
    "id": "cp8289313119",
-   "name": "오리은 브랜드숨 고래밥 붕음앗냥났.20g, 10개",
+   "name": "오리온 고래밥 볶음양념맛, 20g, 10개",
    "price": 4000,
    "originalPrice": null,
    "discount": 27,
@@ -13,7 +13,7 @@
    "thumbnail": null,
    "link": "https://link.coupang.com/a/hPXo4cvAYe",
    "source": "coupang",
-   "postedAt": 1791970082,
+   "postedAt": 1791970722,
    "endAt": null
   },
   {
@@ -2842,76 +2842,6 @@
    "link": "https://toss.shopping/_m/DmB5QHbb",
    "source": "toss",
    "postedAt": 1791713309,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "10608541",
-   "name": "신흥 경포장 박스테이프, 100m, 5개",
-   "price": 5930,
-   "originalPrice": 17900,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmIxYmIz/QU5wSFdUYVdsN1NreVVQaC9NdkRnOXkwSk9qN3REVDBrMHJxZVd5SDlIaHI.png",
-   "link": "https://toss.shopping/_m/x8baXiCf",
-   "source": "toss",
-   "postedAt": 1791711505,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "197311983",
-   "name": "횡재미가 저당 파로 담은 7곡 혼합잡곡, 2kg, 1개",
-   "price": 7900,
-   "originalPrice": 23900,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-19/0cba90fe-9497-451c-a538-b2e4cbf161b0.png",
-   "link": "https://toss.shopping/_m/HIexXAV6",
-   "source": "toss",
-   "postedAt": 1791711502,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "422532929",
-   "name": "로로보아 에어아르떼 헤어 드라이어, RXKS-HS438H, 스틸그레이, 1개",
-   "price": 22800,
-   "originalPrice": 69000,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDYzZjFh/QU5tS2t6cDJZMFNjVFpscHd5NGNpUG56aDlZc0hPcERrMWN5SE9iSGphZDU.png",
-   "link": "https://toss.shopping/_m/TLM18BHD",
-   "source": "toss",
-   "postedAt": 1791711499,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "87829161",
-   "name": "리벤스 잘 닦이는 살균 행주 티슈, 60매, 10팩",
-   "price": 8650,
-   "originalPrice": 25900,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "주방용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-06-04/6cfbb011-d5d6-4b56-bd91-55fa1de363e8.jpeg",
-   "link": "https://toss.shopping/_m/f9uu6tpt",
-   "source": "toss",
-   "postedAt": 1791711496,
-   "endAt": "2026-10-12T00:00:00+09:00"
-  },
-  {
-   "id": "143999915",
-   "name": "뉴트리엘 이너포뮬러 샐그린 27, 500mg, 60정, 1개",
-   "price": 12210,
-   "originalPrice": 37500,
-   "discount": 67,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-27/16df1654-da46-4470-9c12-f834409b874a.jpeg",
-   "link": "https://toss.shopping/_m/9KHPx6ih",
-   "source": "toss",
-   "postedAt": 1791711493,
    "endAt": "2026-10-12T00:00:00+09:00"
   }
  ]
