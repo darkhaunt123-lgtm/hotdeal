@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791967367,
+ "updated": 1791967376,
  "deals": [
+  {
+   "id": "115211959",
+   "name": "유한메디카 코엔자임 Q10 엔 탑 높은 혈압 케어, 60캡슐, 2개",
+   "price": 14130,
+   "originalPrice": 101800,
+   "discount": 86,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTBhMjYx/QU5SK2RHazRwNStjVWV1UDFzNGZnUnloNE5JdnZEUjZwN0R3N2hjUGxxSDQ.png",
+   "link": "https://toss.shopping/_m/TCNgm2Eu",
+   "source": "toss",
+   "postedAt": 1791967376,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
+  {
+   "id": "141407689",
+   "name": "뉴센트리 MBP엔 소연골 콘드로이친 1200, 600mg, 60정, 6개",
+   "price": 26775,
+   "originalPrice": 210000,
+   "discount": 87,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-17/561ec28e-02a7-4b5f-9437-8309c56a0c62.jpeg",
+   "link": "https://toss.shopping/_m/BrPtcZ37",
+   "source": "toss",
+   "postedAt": 1791967371,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
   {
    "id": "145483487",
    "name": "HWC 잘자요 예쁜언니, 60정, 4박스",
