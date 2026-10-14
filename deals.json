@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791972346,
+ "updated": 1791972352,
  "deals": [
+  {
+   "id": "1179275865",
+   "name": "리쥬베닐 파이토베리어 호호바 EGF 크림, 100g, 1개",
+   "price": 11520,
+   "originalPrice": 50000,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/N2YxZWI3/QUlReTNtdyt4MjErMHNlMG5Gc2hwSWxDUXB5R2Y4SEhyNk5jSGp0Tk91TFE.png",
+   "link": "https://toss.shopping/_m/PgsG9xED",
+   "source": "toss",
+   "postedAt": 1791972352,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
+  {
+   "id": "1411723595",
+   "name": "브릭홈 친환경 무표백 키친타올, 150매, 12롤",
+   "price": 8990,
+   "originalPrice": 40000,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MTgyM2Jj/QUpya2t6YnRyTnFXdHlUTFRtclVzeWZKUkd0eUpJekxVcHRreVVsclZyU3Q.png",
+   "link": "https://toss.shopping/_m/bv3szMXp",
+   "source": "toss",
+   "postedAt": 1791972349,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
   {
    "id": "2626318245",
    "name": "한일의료기 탄소 전기매트, 세탁가능, 이중 카본열선, 안심 타이머기능, 그레이, 더블, 1매",
