@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792018912,
+ "updated": 1792020716,
  "deals": [
+  {
+   "id": "1412105757",
+   "name": "엑스텐프로 기능성 인솔 X10PRO, 265-270mm, 2세트",
+   "price": 7970,
+   "originalPrice": 29000,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmE3ZTdl/QU5FUGF2eTgwWVplT3BRMG95ejJyVlFnUFY2cnlWbDU3TVZHUlJaK2VKQ3A.png",
+   "link": "https://toss.shopping/_m/HFpUm73B",
+   "source": "toss",
+   "postedAt": 1792020716,
+   "endAt": "2026-10-16T00:00:00+09:00"
+  },
   {
    "id": "1363254951",
    "name": "올바른 곡물효소 프로바이오틱스 블랙 100, 90포, 2박스",
