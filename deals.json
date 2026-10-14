@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791996304,
+ "updated": 1792018906,
  "deals": [
+  {
+   "id": "1346911903",
+   "name": "수뜰리에 프리미엄 올인원 캡슐세제 린넨블랑, 캡슐형, 40개입, 3개",
+   "price": 15990,
+   "originalPrice": 59400,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NGY2ZWJj/U29FclZudlJ5b1hwVVMzYWJkbFhVc3liOFZiRWlmRitOVlFlcFRWMjc2MD0.png",
+   "link": "https://toss.shopping/_m/p7Fkld9l",
+   "source": "toss",
+   "postedAt": 1792018906,
+   "endAt": "2026-10-16T00:00:00+09:00"
+  },
+  {
+   "id": "161266697",
+   "name": "덴트릭스 소닉펄스 컨트롤샷 구강세정기, 화이트, 1개",
+   "price": 29010,
+   "originalPrice": 109000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2024-11-18/7f65d850-eab6-477f-8176-430ea04d665a.jpeg",
+   "link": "https://toss.shopping/_m/pYBBYFa7",
+   "source": "toss",
+   "postedAt": 1792018903,
+   "endAt": "2026-10-16T00:00:00+09:00"
+  },
+  {
+   "id": "2317495197",
+   "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 3개",
+   "price": 19830,
+   "originalPrice": 74700,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZDEwNDdm/QU1zbEs3VzBtK3piUzJTYmEzS1VGNUd1VzJabWxUdnBUbWh1bHJFRzBHcE8.png",
+   "link": "https://toss.shopping/_m/dkZtltV",
+   "source": "toss",
+   "postedAt": 1792018900,
+   "endAt": "2026-10-16T00:00:00+09:00"
+  },
   {
    "id": "1254407973",
    "name": "아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",
