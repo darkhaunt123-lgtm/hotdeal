@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791969198,
+ "updated": 1791970082,
  "deals": [
+  {
+   "id": "cp8289313119",
+   "name": "오리은 브랜드숨 고래밥 붕음앗냥났.20g, 10개",
+   "price": 4000,
+   "originalPrice": null,
+   "discount": 27,
+   "grade": "대박",
+   "category": "기타",
+   "thumbnail": null,
+   "link": "https://link.coupang.com/a/hPXo4cvAYe",
+   "source": "coupang",
+   "postedAt": 1791970082,
+   "endAt": null
+  },
   {
    "id": "614951487",
    "name": "아이앤어스 무색소 올인원 세탁캡슐세제, 코튼향, 8g, 100개입, 3개",
@@ -154,20 +168,6 @@
    "link": "https://toss.shopping/_m/d4NmgVdw",
    "source": "toss",
    "postedAt": 1791965981,
-   "endAt": null
-  },
-  {
-   "id": "cp8289313119",
-   "name": "오리온 고래밥 북음양념맛, 20g, 10개",
-   "price": 4000,
-   "originalPrice": null,
-   "discount": 27,
-   "grade": "대박",
-   "category": "기타",
-   "thumbnail": null,
-   "link": "https://link.coupang.com/a/hPXo4cvAYe",
-   "source": "coupang",
-   "postedAt": 1791965617,
    "endAt": null
   },
   {
