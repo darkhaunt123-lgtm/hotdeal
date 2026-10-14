@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1791970722,
+ "updated": 1791972346,
  "deals": [
+  {
+   "id": "2626318245",
+   "name": "한일의료기 탄소 전기매트, 세탁가능, 이중 카본열선, 안심 타이머기능, 그레이, 더블, 1매",
+   "price": 53800,
+   "originalPrice": 249000,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-21/31817b11-e178-48c0-a90f-ff4bd566c925.jpeg",
+   "link": "https://toss.shopping/_m/Jr51cvvd",
+   "source": "toss",
+   "postedAt": 1791972346,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
+  {
+   "id": "366071583",
+   "name": "맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1L 1개 + 올리브그린 1L 1개 + 뚜껑, 2개",
+   "price": 4130,
+   "originalPrice": 18900,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-06/4d9c7749-b71a-4815-9622-50747aeb997a.jpeg",
+   "link": "https://toss.shopping/_m/zg6mS49b",
+   "source": "toss",
+   "postedAt": 1791972343,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
+  {
+   "id": "1365683861",
+   "name": "캡슐 표백제 세제 부스터, 30개입, 390g, 3팩",
+   "price": 10990,
+   "originalPrice": 59400,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDU1N2Uz/R2J3U3ZLbFczWnhXcXl0VzA2ZVpOdUU4M1NPYVVYYkxMTmxQb2ExVXVYND0.png",
+   "link": "https://toss.shopping/_m/zLBRlUHt",
+   "source": "toss",
+   "postedAt": 1791972340,
+   "endAt": "2026-10-15T00:00:00+09:00"
+  },
   {
    "id": "cp8289313119",
    "name": "오리온 고래밥 볶음양념맛, 20g, 10개",
