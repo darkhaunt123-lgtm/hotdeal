@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792022544,
+ "updated": 1792022553,
  "deals": [
+  {
+   "id": "210250289",
+   "name": "예지미인 순슬림 팬티라이너, 롱, 46매입, 7팩",
+   "price": 17790,
+   "originalPrice": 58800,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-12-02/22d9b341-b19e-48c7-af44-08d7fec0319d.jpeg",
+   "link": "https://toss.shopping/_m/xpYQvoEe",
+   "source": "toss",
+   "postedAt": 1792022553,
+   "endAt": "2026-10-16T00:00:00+09:00"
+  },
+  {
+   "id": "125068299",
+   "name": "조이코 플렉시블 가정용 MAX 21V 전동드릴세트 GT-PW6620, 본품, 보관케이스, 배터리 1500mAh, 추가비트 33개, 플렉시블비트, 아댑터, 사용설명서",
+   "price": 40900,
+   "originalPrice": 138000,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZjY5ZGFh/QUxUeGVURmowWkxPbVhoak9acko4MjNGVS9XdHAyVGk5aHhjamlYL0JoOVM.png",
+   "link": "https://toss.shopping/_m/t6mijWOa",
+   "source": "toss",
+   "postedAt": 1792022550,
+   "endAt": "2026-10-16T00:00:00+09:00"
+  },
+  {
+   "id": "1657765055",
+   "name": "칼로쿡 IH 스텐 올인원 튀김냄비 6p, 1세트",
+   "price": 14630,
+   "originalPrice": 49900,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-28/3d7bc3f0-d433-4873-8d28-55383839e567.jpeg",
+   "link": "https://toss.shopping/_m/Z6NJEJz4",
+   "source": "toss",
+   "postedAt": 1792022547,
+   "endAt": "2026-10-16T00:00:00+09:00"
+  },
   {
    "id": "2545973181",
    "name": "센티베르 저분자 히알루론산 대용량 토너, 1000ml, 2개",
