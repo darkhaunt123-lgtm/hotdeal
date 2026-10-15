@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792025202,
+ "updated": 1792025252,
  "deals": [
+  {
+   "id": "122497323",
+   "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 1세트",
+   "price": 7200,
+   "originalPrice": 14990,
+   "discount": 51,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/M2VlM2Vj/SGo0N2dUSjIwbVdabG5JR1ppenVFeGpNUE92bldra2xaN05kSkpnamt2dz0.png",
+   "link": "https://toss.shopping/_m/twHrFIl8",
+   "source": "toss",
+   "postedAt": 1792025252,
+   "endAt": null
+  },
+  {
+   "id": "174755365",
+   "name": "부산포차 꼬치어묵, 400g, 3봉",
+   "price": 9900,
+   "originalPrice": 15900,
+   "discount": 37,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmE0Yzk5/UkFySGthUFRZNlZsbUxKY1NWWGtyVnNpQ3I4SHZ3bTJsbkowbThTdm5RRT0.png",
+   "link": "https://toss.shopping/_m/njGSaHhc",
+   "source": "toss",
+   "postedAt": 1792025228,
+   "endAt": null
+  },
   {
    "id": "102193743",
    "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입, 1개",
