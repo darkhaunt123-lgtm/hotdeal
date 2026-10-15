@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792024366,
+ "updated": 1792025169,
  "deals": [
+  {
+   "id": "105085959",
+   "name": "오쿡 소스 닭가슴살볼, 매콤까르보나라맛 100g 4개 + 크림치즈맛 100g 4개 + 핫치즈맛 100g 4개 + 바베큐맛 100g 4개, 16개입",
+   "price": 17200,
+   "originalPrice": 48000,
+   "discount": 64,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjlkNDdj/S3ExVTA4TEVOS0FLbFBXT2gxRThPbVlrMlBNM0VZUGp2aC91UjRoOHFiMD0.png",
+   "link": "https://toss.shopping/_m/RhopElQ5",
+   "source": "toss",
+   "postedAt": 1792025169,
+   "endAt": null
+  },
   {
    "id": "2636338151",
    "name": "한경희 초저소음 물멍무드등 초음파 가습기, GF-HAD720M, 4L, 퓨어화이트, 1개",
