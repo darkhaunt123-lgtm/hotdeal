@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792025169,
+ "updated": 1792025202,
  "deals": [
+  {
+   "id": "102193743",
+   "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입, 1개",
+   "price": 5740,
+   "originalPrice": 19900,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-05-14/52c78bea-ea6e-40df-92a3-fca69d1d7141.jpeg",
+   "link": "https://toss.shopping/_m/zhS1EpPf",
+   "source": "toss",
+   "postedAt": 1792025202,
+   "endAt": null
+  },
   {
    "id": "105085959",
    "name": "오쿡 소스 닭가슴살볼, 매콤까르보나라맛 100g 4개 + 크림치즈맛 100g 4개 + 핫치즈맛 100g 4개 + 바베큐맛 100g 4개, 16개입",
