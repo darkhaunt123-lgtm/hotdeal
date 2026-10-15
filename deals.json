@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792045061,
+ "updated": 1792054681,
  "deals": [
+  {
+   "id": "294615809",
+   "name": "멕시카나 닭강정, 매콤달콤맛, 500g, 2개 + 마늘간장맛, 500g, 2개",
+   "price": 24595,
+   "originalPrice": 60000,
+   "discount": 59,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-11-03/400af32f-7a7e-41a3-a8c2-9ac69af3d272.png",
+   "link": "https://toss.shopping/_m/FUR5Uuqw",
+   "source": "toss",
+   "postedAt": 1792054681,
+   "endAt": null
+  },
   {
    "id": "2559163799",
    "name": "일상미당 구운란, 대란, 30구, 2세트",
@@ -2899,34 +2913,6 @@
    "source": "toss",
    "postedAt": 1791818269,
    "endAt": "2026-10-14T00:00:00+09:00"
-  },
-  {
-   "id": "cp7312490308",
-   "name": "베트남산 스텔라나 고산지 바나나, 800g 내외, 1개",
-   "price": 1980,
-   "originalPrice": null,
-   "discount": 0,
-   "grade": "특가",
-   "category": "기타",
-   "thumbnail": null,
-   "link": "https://link.coupang.com/a/hMIlYXa7oG",
-   "source": "coupang",
-   "postedAt": 1791792789,
-   "endAt": null
-  },
-  {
-   "id": "cp9711973763",
-   "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품",
-   "price": 10100,
-   "originalPrice": null,
-   "discount": 0,
-   "grade": "특가",
-   "category": "기타",
-   "thumbnail": null,
-   "link": "https://link.coupang.com/a/hMHXFBMcV2",
-   "source": "coupang",
-   "postedAt": 1791792384,
-   "endAt": null
   }
  ]
 }
