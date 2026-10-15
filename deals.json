@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792025344,
+ "updated": 1792025349,
  "deals": [
+  {
+   "id": "2405383099",
+   "name": "나래식품 무색소 못난이 백명란젓 파지, 300g, 1개",
+   "price": 9160,
+   "originalPrice": 18800,
+   "discount": 65,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MWY1ZGZl/QUtZNURabDJHVFRNV2tIMjNIbEJVSHlKSXlWRTM2YStoekFXQUkrUmVVZmk.png",
+   "link": "https://toss.shopping/_m/Lfw5iE37",
+   "source": "toss",
+   "postedAt": 1792025349,
+   "endAt": null
+  },
   {
    "id": "2130600969",
    "name": "바로먹는 찐옥수수, 급냉, 홍찰, 왕특대, 20개, 1박스",
