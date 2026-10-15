@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792080233,
+ "updated": 1792080239,
  "deals": [
+  {
+   "id": "99367913",
+   "name": "바른 전라도 열무자박이, 3kg, 1박스",
+   "price": 11890,
+   "originalPrice": 43000,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-29/57a4c3f8-d74a-4fba-8fdc-89198de4a4fa.jpeg",
+   "link": "https://toss.shopping/_m/XNWc2AC4",
+   "source": "toss",
+   "postedAt": 1792080239,
+   "endAt": "2026-10-17T00:00:00+09:00"
+  },
+  {
+   "id": "2234277879",
+   "name": "메르헨트 퍼퓸 바디로션, 베이비파우향, 1000ml, 2개",
+   "price": 8990,
+   "originalPrice": 40000,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-23/82d2dc08-89cd-4edb-a774-a1844592a505.jpeg",
+   "link": "https://toss.shopping/_m/HCAT6vTu",
+   "source": "toss",
+   "postedAt": 1792080236,
+   "endAt": "2026-10-17T00:00:00+09:00"
+  },
   {
    "id": "2658216117",
    "name": "허긴 프레쉬 키즈 바디워시, 500ml, 1개",
