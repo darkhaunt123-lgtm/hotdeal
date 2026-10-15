@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792025252,
+ "updated": 1792025293,
  "deals": [
+  {
+   "id": "2280132005",
+   "name": "페페브루노 100% NFC 레몬즙, 330ml, 5개",
+   "price": 8100,
+   "originalPrice": 12450,
+   "discount": 34,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NzNlNzAz/QjQrenp0eWpUbU9oZkptMlg0Tm1UYUI4MmJJL2dTWk5VRDdac3EvQk5rMD0.png",
+   "link": "https://toss.shopping/_m/D4qenbAD",
+   "source": "toss",
+   "postedAt": 1792025293,
+   "endAt": null
+  },
   {
    "id": "122497323",
    "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 1세트",
