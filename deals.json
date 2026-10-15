@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792054681,
+ "updated": 1792076595,
  "deals": [
+  {
+   "id": "165738293",
+   "name": "테팔 에코센서 압력솥, 4.5L, 1개",
+   "price": 52900,
+   "originalPrice": 869000,
+   "discount": 93,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NzQxMzEx/QUo4em1JTnFWT2ptWTBDSlJqT0p6T21iSlNNazdiU3hmT1JwWkhKY21yQ1o.png",
+   "link": "https://toss.shopping/_m/Jxp3wI4g",
+   "source": "toss",
+   "postedAt": 1792076595,
+   "endAt": "2026-10-17T00:00:00+09:00"
+  },
   {
    "id": "294615809",
    "name": "멕시카나 닭강정, 매콤달콤맛, 500g, 2개 + 마늘간장맛, 500g, 2개",
