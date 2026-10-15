@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792025293,
+ "updated": 1792025344,
  "deals": [
+  {
+   "id": "2130600969",
+   "name": "바로먹는 찐옥수수, 급냉, 홍찰, 왕특대, 20개, 1박스",
+   "price": 16785,
+   "originalPrice": 28900,
+   "discount": 41,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MzMwNTI5/RlhRa3FvaTdxcS8rWjdacS9LT25zSW13Z3JnRjJITmRQSlVQTFNkTFlIST0.png",
+   "link": "https://toss.shopping/_m/3vglzVlx",
+   "source": "toss",
+   "postedAt": 1792025344,
+   "endAt": null
+  },
   {
    "id": "2280132005",
    "name": "페페브루노 100% NFC 레몬즙, 330ml, 5개",
