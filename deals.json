@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792025349,
+ "updated": 1792045061,
  "deals": [
+  {
+   "id": "2559163799",
+   "name": "일상미당 구운란, 대란, 30구, 2세트",
+   "price": 15820,
+   "originalPrice": 33800,
+   "discount": 53,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NGFhODMx/QUpwenFsYmk2RmZId2sweGlodFNoVjhlNHJuSllQMUgwSnFWU2dOaEw5STM.png",
+   "link": "https://toss.shopping/_m/JZ2tKZcm",
+   "source": "toss",
+   "postedAt": 1792045061,
+   "endAt": null
+  },
   {
    "id": "2405383099",
    "name": "나래식품 무색소 못난이 백명란젓 파지, 300g, 1개",
@@ -2912,76 +2926,6 @@
    "link": "https://link.coupang.com/a/hMHXFBMcV2",
    "source": "coupang",
    "postedAt": 1791792384,
-   "endAt": null
-  },
-  {
-   "id": "125833335",
-   "name": "추추 추어탕, 500g, 4개",
-   "price": 8900,
-   "originalPrice": 18000,
-   "discount": 50,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MTg4Njhm/U1d5OS9La2dQbkVVdFhnNzhqQnVDNnRmSDZpVlNNSG5RNk1YUnFwV0xDND0.png",
-   "link": "https://toss.shopping/_m/hxckmicB",
-   "source": "toss",
-   "postedAt": 1791783379,
-   "endAt": null
-  },
-  {
-   "id": "140116969",
-   "name": "익스트림 듀얼 아르기닌 플러스, 120정, 1개",
-   "price": 8390,
-   "originalPrice": 30000,
-   "discount": 72,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-23/05b26a20-46fe-4ba3-9324-c57e6372a7d7.jpeg",
-   "link": "https://toss.shopping/_m/VepekLpo",
-   "source": "toss",
-   "postedAt": 1791775084,
-   "endAt": null
-  },
-  {
-   "id": "2278299005",
-   "name": "덴마크 테이크얼라이브 머스캣청포도+블러드오렌지, 120ml, 48개",
-   "price": 12000,
-   "originalPrice": 19900,
-   "discount": 39,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-17/65c38fb9-e518-43a2-b702-ecbc0c26ac87.jpeg",
-   "link": "https://toss.shopping/_m/3ZmwmXOp",
-   "source": "toss",
-   "postedAt": 1791771479,
-   "endAt": null
-  },
-  {
-   "id": "1619533579",
-   "name": "마성의김치 전라도식 비법 양념 열무물김치, 5kg, 1봉",
-   "price": 10900,
-   "originalPrice": 20900,
-   "discount": 47,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MzBhZDhl/QU5IT2t5ZzJrK1VzakZHdGhyMjI4U3huS3c1K3JGbUFjMlhHMThNQUQ0WGE.png",
-   "link": "https://toss.shopping/_m/FnrwtEXv",
-   "source": "toss",
-   "postedAt": 1791769521,
-   "endAt": null
-  },
-  {
-   "id": "12833195",
-   "name": "에브리워터 무라벨 생수, 2L, 24개",
-   "price": 7900,
-   "originalPrice": 24000,
-   "discount": 67,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/product/715843/3bd40551-1399-4a9e-8b12-af94ace41dd1.png",
-   "link": "https://toss.shopping/_m/PTb10B9b",
-   "source": "toss",
-   "postedAt": 1791768472,
    "endAt": null
   }
  ]
