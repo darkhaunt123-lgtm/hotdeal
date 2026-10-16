@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792124439,
+ "updated": 1792124450,
  "deals": [
+  {
+   "id": "2658216117",
+   "name": "허긴 프레쉬 키즈 바디워시, 500ml, 1개",
+   "price": 5260,
+   "originalPrice": 24500,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-17/b2dcde3b-1eae-411a-b608-38e7ee1bb4fb.jpeg",
+   "link": "https://toss.shopping/_m/LxlbHsHj",
+   "source": "toss",
+   "postedAt": 1792124450,
+   "endAt": null
+  },
+  {
+   "id": "24321401",
+   "name": "메이홉 무선고데기, MA-0300, 메탈그레이, 1개",
+   "price": 25330,
+   "originalPrice": 79800,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTYwNjBh/QUxVTkEzNzhBWks4UlU2L0s5TDg5VlNxcjE5QjlQU3F2MTFCZ1A3NmxYOUE.png",
+   "link": "https://toss.shopping/_m/7VHzX3V5",
+   "source": "toss",
+   "postedAt": 1792124444,
+   "endAt": null
+  },
   {
    "id": "143154311",
    "name": "크리오 덴티메이트 시즌2 초극세모 칫솔, 10개입, 2개",
@@ -280,20 +308,6 @@
    "link": "https://toss.shopping/_m/HCAT6vTu",
    "source": "toss",
    "postedAt": 1792080236,
-   "endAt": "2026-10-17T00:00:00+09:00"
-  },
-  {
-   "id": "2658216117",
-   "name": "허긴 프레쉬 키즈 바디워시, 500ml, 1개",
-   "price": 5260,
-   "originalPrice": 24500,
-   "discount": 78,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-17/b2dcde3b-1eae-411a-b608-38e7ee1bb4fb.jpeg",
-   "link": "https://toss.shopping/_m/LxlbHsHj",
-   "source": "toss",
-   "postedAt": 1792080233,
    "endAt": "2026-10-17T00:00:00+09:00"
   },
   {
