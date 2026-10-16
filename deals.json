@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792168587,
+ "updated": 1792168590,
  "deals": [
+  {
+   "id": "2636712549",
+   "name": "일본식 의류용 방충 방습제, 장미향, 2ml, 48개입, 3개",
+   "price": 8330,
+   "originalPrice": 35000,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-25/fb125c1b-0d7c-4f59-97bd-1a432d5e83a9.png",
+   "link": "https://toss.shopping/_m/ptVDkQnB",
+   "source": "toss",
+   "postedAt": 1792168590,
+   "endAt": "2026-10-18T00:00:00+09:00"
+  },
   {
    "id": "2295980627",
    "name": "더블 토닝 화이트 글루타치온 콜라겐 스틱, 청사과맛, 14포, 2박스",
