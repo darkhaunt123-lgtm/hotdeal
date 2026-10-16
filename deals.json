@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792131679,
+ "updated": 1792133484,
  "deals": [
+  {
+   "id": "627662609",
+   "name": "스타벅스 프리미엄 파우더커피 선물세트, 다크 로스트 아메리카노 10개입 2개 + 미디엄 로스트 아메리카노 10개입 2개 + 스타벅스 화이트 머그 325ml 1개, 1세트",
+   "price": 15300,
+   "originalPrice": 26230,
+   "discount": 41,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-13/133b9175-cb86-4a23-a84e-8cebd35b94e4.png",
+   "link": "https://toss.shopping/_m/FDOgWYtc",
+   "source": "toss",
+   "postedAt": 1792133484,
+   "endAt": null
+  },
   {
    "id": "143154311",
    "name": "크리오 덴티메이트 시즌2 초극세모 칫솔, 10개입, 2개",
@@ -2254,90 +2268,6 @@
    "link": "https://toss.shopping/_m/jGxPMJFy",
    "source": "toss",
    "postedAt": 1791875440,
-   "endAt": "2026-10-14T00:00:00+09:00"
-  },
-  {
-   "id": "2653091083",
-   "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
-   "price": 6930,
-   "originalPrice": 59800,
-   "discount": 88,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-23/38d1a52b-6f2e-461f-918f-e73b58a45889.png",
-   "link": "https://toss.shopping/_m/rvJVP5V4",
-   "source": "toss",
-   "postedAt": 1791873687,
-   "endAt": null
-  },
-  {
-   "id": "289081399",
-   "name": "코피코 카푸치노맛 캔디 블리스터 팩, 32g, 12개입, 3박스",
-   "price": 16360,
-   "originalPrice": 36000,
-   "discount": 54,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MTc4ZmJj/QU9Qa2JOZ01yanM1TTV6bXk2VHh0WnZUYkpwWkxZeHpuUFM4YVdQSjhiYTI.png",
-   "link": "https://toss.shopping/_m/ddGXy3M5",
-   "source": "toss",
-   "postedAt": 1791873636,
-   "endAt": "2026-10-14T00:00:00+09:00"
-  },
-  {
-   "id": "1044192835",
-   "name": "남다른 농수산 전라도 파김치, 3kg, 1개",
-   "price": 15920,
-   "originalPrice": 34900,
-   "discount": 54,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZGQwZTY2/QU9wY2VvOFhHOWUzVnV1dldYdnVjZWIvOHR5MXFWWDk0OEVGdVI4VlcxYmM.png",
-   "link": "https://toss.shopping/_m/JhmigJ31",
-   "source": "toss",
-   "postedAt": 1791873633,
-   "endAt": "2026-10-14T00:00:00+09:00"
-  },
-  {
-   "id": "627705785",
-   "name": "올리 프리미엄 워싱소다, 3kg, 2개",
-   "price": 6900,
-   "originalPrice": 15000,
-   "discount": 54,
-   "grade": "초대박",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-14/fe57a0c4-4032-4ef0-98eb-219baf585ad1.jpeg",
-   "link": "https://toss.shopping/_m/fOy88Jhw",
-   "source": "toss",
-   "postedAt": 1791873630,
-   "endAt": "2026-10-14T00:00:00+09:00"
-  },
-  {
-   "id": "999178573",
-   "name": "별미촌 깻잎김치, 500g, 1개",
-   "price": 7120,
-   "originalPrice": 15900,
-   "discount": 55,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZGJmYjAz/TWVaT1NjZVQ3anpXbTcwcGVsd3hzYXRKUnUwVmVCN1VYNkhOVnFnWE12bz0.png",
-   "link": "https://toss.shopping/_m/J4VJ88mm",
-   "source": "toss",
-   "postedAt": 1791873627,
-   "endAt": "2026-10-14T00:00:00+09:00"
-  },
-  {
-   "id": "715496257",
-   "name": "곱이가득 소곱창, 소스증정, 160g, 4팩",
-   "price": 21850,
-   "originalPrice": 49900,
-   "discount": 56,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTU0NDE5/QXpiUE95N2R0REFnelhSNzRrQncyMGZRdWxpa2xuQUlVbklMTDJFN2ZLOD0.png",
-   "link": "https://toss.shopping/_m/3BmoEONf",
-   "source": "toss",
-   "postedAt": 1791873624,
    "endAt": "2026-10-14T00:00:00+09:00"
   }
  ]
