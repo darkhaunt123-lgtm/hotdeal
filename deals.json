@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792118714,
+ "updated": 1792118738,
  "deals": [
+  {
+   "id": "1121784277",
+   "name": "풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
+   "price": 6600,
+   "originalPrice": 20000,
+   "discount": 67,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZjMxZmVl/ZTVoNWpkWTVacm41azhmTVRreDdNN0o1dExIazVOd3VtTVl5azNPeGEyMD0.png",
+   "link": "https://toss.shopping/_m/PJquYLdl",
+   "source": "toss",
+   "postedAt": 1792118738,
+   "endAt": null
+  },
   {
    "id": "86942843",
    "name": "배스킨라빈스 메롱 멜론 우유 190ml, 24개",
