@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792205126,
+ "updated": 1792209788,
  "deals": [
+  {
+   "id": "745986009",
+   "name": "청정원 스파게티소스, 토마토, 600g, 2개 + 로제, 600g, 1개 + 머쉬룸투움바, 150g, 2개",
+   "price": 12740,
+   "originalPrice": 28880,
+   "discount": 55,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-08/fa40a7de-da07-4658-9846-fb8047edddb1.jpeg",
+   "link": "https://toss.shopping/_m/Z6lM8exD",
+   "source": "toss",
+   "postedAt": 1792209788,
+   "endAt": null
+  },
+  {
+   "id": "2391094925",
+   "name": "대한다업 결명자차, 1.2g, 100개입, 1개",
+   "price": 4500,
+   "originalPrice": 8100,
+   "discount": 44,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NzU1NzJm/QUwwMFpNNDA4VEp6MmRsWnl6anhKblQ4Yk1aTW1PSEd6ck9Nd3pUSE9aMmI.png",
+   "link": "https://toss.shopping/_m/bIM61uHe",
+   "source": "toss",
+   "postedAt": 1792209762,
+   "endAt": null
+  },
   {
    "id": "cp9234385074",
    "name": "티젠 애사비소다 오리지널, 500ml*24개",
@@ -1974,34 +2002,6 @@
    "link": "https://toss.shopping/_m/xyKf8RM",
    "source": "toss",
    "postedAt": 1791951857,
-   "endAt": null
-  },
-  {
-   "id": "2650806145",
-   "name": "구어조은닭 에어프라이어 치킨 한 마리, 950g, 2개",
-   "price": 11780,
-   "originalPrice": 25500,
-   "discount": 53,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-04/84552d58-fa1b-4963-99fa-2f1cf16affee.jpeg",
-   "link": "https://toss.shopping/_m/31VQDkgB",
-   "source": "toss",
-   "postedAt": 1791950459,
-   "endAt": null
-  },
-  {
-   "id": "104395825",
-   "name": "지도표성경김 재래 식탁김, 4g, 24봉",
-   "price": 8700,
-   "originalPrice": 19900,
-   "discount": 56,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZGE0NTBj/QUp1Y3p1WWM0eHNjalphMW1YSkxiYllaa3VNTnhPU1o0MHNZT1dzejhNYWM.png",
-   "link": "https://toss.shopping/_m/fKe7SIU4",
-   "source": "toss",
-   "postedAt": 1791946302,
    "endAt": null
   }
  ]
