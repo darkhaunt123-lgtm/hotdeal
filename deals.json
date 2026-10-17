@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792205099,
+ "updated": 1792205126,
  "deals": [
+  {
+   "id": "cp9234385074",
+   "name": "티젠 애사비소다 오리지널, 500ml*24개",
+   "price": 10450,
+   "originalPrice": null,
+   "discount": 0,
+   "grade": "특가",
+   "category": "기타",
+   "thumbnail": null,
+   "link": "https://link.coupang.com/a/hUDMG5qr8K",
+   "source": "coupang",
+   "postedAt": 1792205126,
+   "endAt": null
+  },
   {
    "id": "627662609",
    "name": "스타벅스 프리미엄 파우더커피 선물세트, 다크 로스트 아메리카노 10개입 2개 + 미디엄 로스트 아메리카노 10개입 2개 + 스타벅스 화이트 머그 325ml 1개, 1세트",
