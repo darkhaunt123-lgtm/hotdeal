@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792172224,
+ "updated": 1792205099,
  "deals": [
+  {
+   "id": "627662609",
+   "name": "스타벅스 프리미엄 파우더커피 선물세트, 다크 로스트 아메리카노 10개입 2개 + 미디엄 로스트 아메리카노 10개입 2개 + 스타벅스 화이트 머그 325ml 1개, 1세트",
+   "price": 18900,
+   "originalPrice": 26230,
+   "discount": 27,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-13/133b9175-cb86-4a23-a84e-8cebd35b94e4.png",
+   "link": "https://toss.shopping/_m/FDOgWYtc",
+   "source": "toss",
+   "postedAt": 1792205099,
+   "endAt": null
+  },
+  {
+   "id": "128320725",
+   "name": "사리원 소불고기, 500g, 4팩",
+   "price": 13000,
+   "originalPrice": 39900,
+   "discount": 67,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDVkNWU3/QU9uMEFXT0h1WUhHdjlEeHJCNUFRNlg5WUlleDhDSWZBV1BDQ0QvT0R2UGk.png",
+   "link": "https://toss.shopping/_m/f3L0f26A",
+   "source": "toss",
+   "postedAt": 1792205082,
+   "endAt": null
+  },
   {
    "id": "1349815911",
    "name": "남다른 농수산 여수 돌산 갓김치, 5kg, 1개",
@@ -434,20 +462,6 @@
    "link": "https://toss.shopping/_m/x4ngywDk",
    "source": "toss",
    "postedAt": 1792142706,
-   "endAt": null
-  },
-  {
-   "id": "627662609",
-   "name": "스타벅스 프리미엄 파우더커피 선물세트, 다크 로스트 아메리카노 10개입 2개 + 미디엄 로스트 아메리카노 10개입 2개 + 스타벅스 화이트 머그 325ml 1개, 1세트",
-   "price": 15300,
-   "originalPrice": 26230,
-   "discount": 41,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-13/133b9175-cb86-4a23-a84e-8cebd35b94e4.png",
-   "link": "https://toss.shopping/_m/FDOgWYtc",
-   "source": "toss",
-   "postedAt": 1792133484,
    "endAt": null
   },
   {
