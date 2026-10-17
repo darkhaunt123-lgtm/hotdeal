@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792255559,
+ "updated": 1792257366,
  "deals": [
+  {
+   "id": "2419966771",
+   "name": "고기중독 순살 닭다리살, 냉동, 2kg, 2개",
+   "price": 21920,
+   "originalPrice": 89900,
+   "discount": 75,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmM4OTlk/QUtEVUZCa1V2d2ZHV3Y3L3h1cFJPUWFwWDBvZkJWdW0zMUV2YmJDcTVkY0E.png",
+   "link": "https://toss.shopping/_m/JQwJPuVb",
+   "source": "toss",
+   "postedAt": 1792257366,
+   "endAt": "2026-10-19T00:00:00+09:00"
+  },
+  {
+   "id": "31367569",
+   "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+   "price": 7300,
+   "originalPrice": 30000,
+   "discount": 75,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-07/020b76ca-3a1a-45e9-ad26-e430ccf4c508.jpeg",
+   "link": "https://toss.shopping/_m/zAZPOPS6",
+   "source": "toss",
+   "postedAt": 1792257363,
+   "endAt": "2026-10-19T00:00:00+09:00"
+  },
   {
    "id": "2234291659",
    "name": "메르헨트 퍼퓸 대용량 바디로션, 라벤더머스향, 1000ml, 3개",
