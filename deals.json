@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792209788,
+ "updated": 1792213726,
  "deals": [
+  {
+   "id": "2451254379",
+   "name": "산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
+   "price": 22900,
+   "originalPrice": 56900,
+   "discount": 59,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MDc5ODhh/QVBBY01NMEE0YksydGdiYnB4TjlZSmJNWTRkTkU0S2VjSkJQV0dkQkxOZmw.png",
+   "link": "https://toss.shopping/_m/HOlt5tBj",
+   "source": "toss",
+   "postedAt": 1792213726,
+   "endAt": null
+  },
   {
    "id": "745986009",
    "name": "청정원 스파게티소스, 토마토, 600g, 2개 + 로제, 600g, 1개 + 머쉬룸투움바, 150g, 2개",
@@ -1988,20 +2002,6 @@
    "link": "https://toss.shopping/_m/d4NmgVdw",
    "source": "toss",
    "postedAt": 1791965981,
-   "endAt": null
-  },
-  {
-   "id": "1749965023",
-   "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루 선물세트, 190ml, 24개",
-   "price": 7800,
-   "originalPrice": 30000,
-   "discount": 74,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/7ee/live/product/522714203/7eefe8d6-473c-4ef9-abd7-fa2d66ead813.jpg",
-   "link": "https://toss.shopping/_m/xyKf8RM",
-   "source": "toss",
-   "postedAt": 1791951857,
    "endAt": null
   }
  ]
