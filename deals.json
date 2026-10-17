@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792216295,
+ "updated": 1792223769,
  "deals": [
+  {
+   "id": "2622437583",
+   "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
+   "price": 5300,
+   "originalPrice": 17900,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-07/067eacd5-4948-41dd-b3f2-469cb11c8c05.jpeg",
+   "link": "https://toss.shopping/_m/7EOdQhA8",
+   "source": "toss",
+   "postedAt": 1792223769,
+   "endAt": null
+  },
   {
    "id": "677574995",
    "name": "오늘부터 라이크밀 단백질 쉐이크, 초코, 450g, 1개 + 딸기, 450g, 1개, 2개",
