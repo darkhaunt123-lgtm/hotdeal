@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792295012,
+ "updated": 1792314017,
  "deals": [
+  {
+   "id": "324376189",
+   "name": "던킨 아메리카노, 400ml, 12개",
+   "price": 9500,
+   "originalPrice": 19960,
+   "discount": 52,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MzQ3NTgz/RzRkQ2o4OTQ3M2h3dzFUbnE0N3l0OVp3TFU1ZzQ5YXhtNDRwVDBSeDFyRT0.png",
+   "link": "https://toss.shopping/_m/XDe6XH1v",
+   "source": "toss",
+   "postedAt": 1792314017,
+   "endAt": null
+  },
   {
    "id": "194042979",
    "name": "해남 호풍미 호박고구마, 대, 5kg, 1박스",
@@ -1527,34 +1541,6 @@
    "source": "toss",
    "postedAt": 1792076595,
    "endAt": "2026-10-17T00:00:00+09:00"
-  },
-  {
-   "id": "294615809",
-   "name": "멕시카나 닭강정, 매콤달콤맛, 500g, 2개 + 마늘간장맛, 500g, 2개",
-   "price": 24595,
-   "originalPrice": 60000,
-   "discount": 59,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-11-03/400af32f-7a7e-41a3-a8c2-9ac69af3d272.png",
-   "link": "https://toss.shopping/_m/FUR5Uuqw",
-   "source": "toss",
-   "postedAt": 1792054681,
-   "endAt": null
-  },
-  {
-   "id": "2559163799",
-   "name": "일상미당 구운란, 대란, 30구, 2세트",
-   "price": 15820,
-   "originalPrice": 33800,
-   "discount": 53,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NGFhODMx/QUpwenFsYmk2RmZId2sweGlodFNoVjhlNHJuSllQMUgwSnFWU2dOaEw5STM.png",
-   "link": "https://toss.shopping/_m/JZ2tKZcm",
-   "source": "toss",
-   "postedAt": 1792045061,
-   "endAt": null
   }
  ]
 }
