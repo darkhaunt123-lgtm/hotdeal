@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792293335,
+ "updated": 1792295012,
  "deals": [
+  {
+   "id": "194042979",
+   "name": "해남 호풍미 호박고구마, 대, 5kg, 1박스",
+   "price": 10370,
+   "originalPrice": 31900,
+   "discount": 67,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-02-02/29aedeab-abc6-4b2c-86f7-31bcc48005aa.jpeg",
+   "link": "https://toss.shopping/_m/FqZ1jEWf",
+   "source": "toss",
+   "postedAt": 1792295012,
+   "endAt": null
+  },
   {
    "id": "2636117429",
    "name": "순수식품 rTG 알티지 오메가3 식물성캡슐, 1018mg, 60캡슐, 4박스",
@@ -84,20 +98,6 @@
    "link": "https://toss.shopping/_m/VvmF7o5w",
    "source": "toss",
    "postedAt": 1792293313,
-   "endAt": null
-  },
-  {
-   "id": "194042979",
-   "name": "해남 호풍미 호박고구마, 대, 5kg, 1박스",
-   "price": 10370,
-   "originalPrice": 31900,
-   "discount": 67,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-02-02/29aedeab-abc6-4b2c-86f7-31bcc48005aa.jpeg",
-   "link": "https://toss.shopping/_m/FqZ1jEWf",
-   "source": "toss",
-   "postedAt": 1792293311,
    "endAt": null
   },
   {
