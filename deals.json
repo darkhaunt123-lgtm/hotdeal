@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792342829,
+ "updated": 1792342832,
  "deals": [
+  {
+   "id": "125299159",
+   "name": "마흐트 다마스커스 디자인 쉐프나이프 선물용, 33.5x4.5cm, 1개",
+   "price": 16780,
+   "originalPrice": 77000,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDZmMDJi/QUlCU3JmaHJURzRvYzRFaEtTek9ZYjVwSnNzeHM0RzhVR3JNTnYvTjg2MHQ.png",
+   "link": "https://toss.shopping/_m/R5iecD1q",
+   "source": "toss",
+   "postedAt": 1792342832,
+   "endAt": "2026-10-20T00:00:00+09:00"
+  },
   {
    "id": "1099913071",
    "name": "일양약품 눈건강 루테인 지아잔틴 아스타잔틴 골드, 250mg, 60캡슐, 1박스",
