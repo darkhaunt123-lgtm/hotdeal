@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792390561,
+ "updated": 1792399552,
  "deals": [
+  {
+   "id": "173582909",
+   "name": "클래파 BLDC 무선청소기 스테이션 자동먼지비움, CVC-S230, 화이트, 1개",
+   "price": 118990,
+   "originalPrice": 278000,
+   "discount": 57,
+   "grade": "초대박",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MzI3N2Qx/SXpOVW04M01LbVV5czVYYnpVeGFwREtUclV2VlpGcTJxMXZNcVdkVUVVbz0.png",
+   "link": "https://toss.shopping/_m/PK4kbYUj",
+   "source": "toss",
+   "postedAt": 1792399552,
+   "endAt": null
+  },
   {
    "id": "2401832945",
    "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
@@ -1554,20 +1568,6 @@
    "link": "https://toss.shopping/_m/x4ngywDk",
    "source": "toss",
    "postedAt": 1792142706,
-   "endAt": null
-  },
-  {
-   "id": "143154311",
-   "name": "크리오 덴티메이트 시즌2 초극세모 칫솔, 10개입, 2개",
-   "price": 7710,
-   "originalPrice": 18900,
-   "discount": 59,
-   "grade": "초대박",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NGM3OWU0/QXZqeHVQY3pPWmJQYzJOMm01T2ZqWFJzN3NrbnpINEp1Ung2UDdzUmdmUT0.png",
-   "link": "https://toss.shopping/_m/55vJ1mTy",
-   "source": "toss",
-   "postedAt": 1792131679,
    "endAt": null
   }
  ]
