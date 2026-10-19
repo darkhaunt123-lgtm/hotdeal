@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792381106,
+ "updated": 1792390561,
  "deals": [
+  {
+   "id": "2401832945",
+   "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
+   "price": 9600,
+   "originalPrice": 27900,
+   "discount": 65,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-03/6b083d0c-c74f-467a-9ec8-a46fe748c635.png",
+   "link": "https://toss.shopping/_m/5jyWeNgr",
+   "source": "toss",
+   "postedAt": 1792390561,
+   "endAt": null
+  },
   {
    "id": "166431743",
    "name": "익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
@@ -1554,48 +1568,6 @@
    "link": "https://toss.shopping/_m/55vJ1mTy",
    "source": "toss",
    "postedAt": 1792131679,
-   "endAt": null
-  },
-  {
-   "id": "2658216117",
-   "name": "허긴 프레쉬 키즈 바디워시, 500ml, 1개",
-   "price": 5260,
-   "originalPrice": 24500,
-   "discount": 78,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-17/b2dcde3b-1eae-411a-b608-38e7ee1bb4fb.jpeg",
-   "link": "https://toss.shopping/_m/LxlbHsHj",
-   "source": "toss",
-   "postedAt": 1792124450,
-   "endAt": null
-  },
-  {
-   "id": "24321401",
-   "name": "메이홉 무선고데기, MA-0300, 메탈그레이, 1개",
-   "price": 25330,
-   "originalPrice": 79800,
-   "discount": 68,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTYwNjBh/QUxVTkEzNzhBWks4UlU2L0s5TDg5VlNxcjE5QjlQU3F2MTFCZ1A3NmxYOUE.png",
-   "link": "https://toss.shopping/_m/7VHzX3V5",
-   "source": "toss",
-   "postedAt": 1792124444,
-   "endAt": null
-  },
-  {
-   "id": "2636125087",
-   "name": "이브네 코트니 생리대, 대형, 14매입, 4팩",
-   "price": 7900,
-   "originalPrice": 21600,
-   "discount": 63,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjVjMzMx/SVIrZVJTSzMzMFZrdW1tdjY2V0s4WmRCeXJQVVdEdHUzWVEvUU5WRVZPWT0.png",
-   "link": "https://toss.shopping/_m/XT1cGWQe",
-   "source": "toss",
-   "postedAt": 1792124430,
    "endAt": null
   }
  ]
