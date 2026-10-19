@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792381040,
+ "updated": 1792381057,
  "deals": [
+  {
+   "id": "1990871539",
+   "name": "연세우유 세브란스 A2 프로틴, 초콜릿, 190ml, 32개",
+   "price": 33800,
+   "originalPrice": 42900,
+   "discount": 21,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-12/7af8a6ad-b7f6-4ee8-9e56-5c9ad4245d87.jpeg",
+   "link": "https://toss.shopping/_m/BxL07xgx",
+   "source": "toss",
+   "postedAt": 1792381057,
+   "endAt": null
+  },
+  {
+   "id": "1440413957",
+   "name": "올리타리아 엑스트라버진 올리브 오일, 250ml, 4개",
+   "price": 17900,
+   "originalPrice": 51000,
+   "discount": 64,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmFhZTNm/QU41cksxTWpsdXl0M1ZpWFV5VGphYXo3bnA3WlZHbDVacXFubnBsVldIOW0.png",
+   "link": "https://toss.shopping/_m/deUoqPze",
+   "source": "toss",
+   "postedAt": 1792381049,
+   "endAt": null
+  },
   {
    "id": "2625185613",
    "name": "한촌설렁탕 국물 6종 세트, 500g, 6개, 1세트",
