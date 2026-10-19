@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792381057,
+ "updated": 1792381106,
  "deals": [
+  {
+   "id": "166431743",
+   "name": "익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
+   "price": 11890,
+   "originalPrice": 35000,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-12/3a39b71e-9914-4874-8cb6-dcdf4d610943.png",
+   "link": "https://toss.shopping/_m/5Zvyq6Z",
+   "source": "toss",
+   "postedAt": 1792381106,
+   "endAt": null
+  },
   {
    "id": "1990871539",
    "name": "연세우유 세브란스 A2 프로틴, 초콜릿, 190ml, 32개",
