@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792510307,
+ "updated": 1792510316,
  "deals": [
+  {
+   "id": "764941301",
+   "name": "헤리 스트라이프 셔츠 니트 BK1LK004, 라이트그레이, FFF, 1개",
+   "price": 15150,
+   "originalPrice": 87000,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmYxOWE0/TmJxVVNuVUtGVHBCUWsxVVIvWDdWSmJrOEFjb0VCT3RxWHNLbDlXdEtoQT0.png",
+   "link": "https://toss.shopping/_m/9SE3gms7",
+   "source": "toss",
+   "postedAt": 1792510316,
+   "endAt": "2026-10-22T00:00:00+09:00"
+  },
+  {
+   "id": "175773769",
+   "name": "레오폴디 스텐 냄비세트, 편수 16cm + 양수 18cm + 전골 24cm, 1세트",
+   "price": 27890,
+   "originalPrice": 159000,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NGRkNzQ0/QVBFa1M2empQOGtlUzBnV1dCUVpsZXkraEVua29IK2ZFV000ZkZDNDZldkw.png",
+   "link": "https://toss.shopping/_m/nvW4p6Dt",
+   "source": "toss",
+   "postedAt": 1792510313,
+   "endAt": "2026-10-22T00:00:00+09:00"
+  },
+  {
+   "id": "2650780349",
+   "name": "크린포유 무중력 마이크로화이버 베개솜, 화이트, 50x70cm, 2개",
+   "price": 8900,
+   "originalPrice": 49900,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "가구/홈데코",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-07/10af6cf2-2b2c-48df-b27d-8033c6eb233e.jpeg",
+   "link": "https://toss.shopping/_m/h2asnghC",
+   "source": "toss",
+   "postedAt": 1792510310,
+   "endAt": "2026-10-22T00:00:00+09:00"
+  },
   {
    "id": "284581211",
    "name": "일감생활 밸런스 발가락 링, 1쌍",
