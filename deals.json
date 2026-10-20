@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792470648,
+ "updated": 1792472452,
  "deals": [
+  {
+   "id": "54210779",
+   "name": "그라데이션 2중 진공 원터치 손잡이 보온병, 아이보리, 350ml, 1개",
+   "price": 8390,
+   "originalPrice": 31800,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/product/15872337/93859e3a-07a3-40ce-97a0-ca51e00c6cfe.jpeg",
+   "link": "https://toss.shopping/_m/LFcX8EE",
+   "source": "toss",
+   "postedAt": 1792472452,
+   "endAt": "2026-10-21T00:00:00+09:00"
+  },
   {
    "id": "378876361",
    "name": "퀴진드마망 순수 커트러리, 실버, 숟가락 4개 + 젓가락 4개",
