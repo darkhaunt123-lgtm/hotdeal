@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792472465,
+ "updated": 1792478518,
  "deals": [
+  {
+   "id": "155910995",
+   "name": "프링글스, 오리지날 1개 + 양파 1개 + 매운 1개 + 치즈 1개 + 버터 1개, 110g, 5개",
+   "price": 9890,
+   "originalPrice": 15300,
+   "discount": 35,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmE4NmVh/QU9NeGpQbmtaRTN1TWVUelR0YXhwN09RNGZIa0R6dnc1T1RrSHh2anVRNXY.png",
+   "link": "https://toss.shopping/_m/F9waIPB4",
+   "source": "toss",
+   "postedAt": 1792478518,
+   "endAt": null
+  },
   {
    "id": "1713865395",
    "name": "고기중독 칼집 통갈매기살, 500g, 3팩",
@@ -1540,34 +1554,6 @@
    "link": "https://toss.shopping/_m/7EOdQhA8",
    "source": "toss",
    "postedAt": 1792223769,
-   "endAt": null
-  },
-  {
-   "id": "677574995",
-   "name": "오늘부터 라이크밀 단백질 쉐이크, 초코, 450g, 1개 + 딸기, 450g, 1개, 2개",
-   "price": 27700,
-   "originalPrice": 104000,
-   "discount": 73,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-21/17beb12f-e26c-46b8-9f44-3e2c4b1c4337.jpeg",
-   "link": "https://toss.shopping/_m/NcRxA5pd",
-   "source": "toss",
-   "postedAt": 1792216295,
-   "endAt": null
-  },
-  {
-   "id": "2451254379",
-   "name": "산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
-   "price": 22900,
-   "originalPrice": 56900,
-   "discount": 59,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MDc5ODhh/QVBBY01NMEE0YksydGdiYnB4TjlZSmJNWTRkTkU0S2VjSkJQV0dkQkxOZmw.png",
-   "link": "https://toss.shopping/_m/HOlt5tBj",
-   "source": "toss",
-   "postedAt": 1792213726,
    "endAt": null
   }
  ]
