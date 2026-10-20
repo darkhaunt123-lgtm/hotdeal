@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792478518,
+ "updated": 1792485763,
  "deals": [
+  {
+   "id": "2660590911",
+   "name": "스페시핏 뿌리는 곰팡이 제거제, 500ml, 2개",
+   "price": 6500,
+   "originalPrice": 33800,
+   "discount": 80,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-12-06/bc7b10ed-6617-4bbb-aa8e-c8f4b9bd9bd9.jpeg",
+   "link": "https://toss.shopping/_m/jEBTcWNp",
+   "source": "toss",
+   "postedAt": 1792485763,
+   "endAt": null
+  },
   {
    "id": "155910995",
    "name": "프링글스, 오리지날 1개 + 양파 1개 + 매운 1개 + 치즈 1개 + 버터 1개, 110g, 5개",
@@ -294,20 +308,6 @@
    "link": "https://toss.shopping/_m/3tEUg0s7",
    "source": "toss",
    "postedAt": 1792467004,
-   "endAt": "2026-10-21T00:00:00+09:00"
-  },
-  {
-   "id": "2660590911",
-   "name": "스페시핏 뿌리는 곰팡이 제거제, 500ml, 2개",
-   "price": 6500,
-   "originalPrice": 33800,
-   "discount": 80,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-12-06/bc7b10ed-6617-4bbb-aa8e-c8f4b9bd9bd9.jpeg",
-   "link": "https://toss.shopping/_m/jEBTcWNp",
-   "source": "toss",
-   "postedAt": 1792465200,
    "endAt": "2026-10-21T00:00:00+09:00"
   },
   {
@@ -1541,20 +1541,6 @@
    "source": "toss",
    "postedAt": 1792250098,
    "endAt": "2026-10-19T00:00:00+09:00"
-  },
-  {
-   "id": "2622437583",
-   "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
-   "price": 5300,
-   "originalPrice": 17900,
-   "discount": 70,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-07/067eacd5-4948-41dd-b3f2-469cb11c8c05.jpeg",
-   "link": "https://toss.shopping/_m/7EOdQhA8",
-   "source": "toss",
-   "postedAt": 1792223769,
-   "endAt": null
   }
  ]
 }
