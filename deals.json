@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792468832,
+ "updated": 1792470648,
  "deals": [
+  {
+   "id": "378876361",
+   "name": "퀴진드마망 순수 커트러리, 실버, 숟가락 4개 + 젓가락 4개",
+   "price": 6990,
+   "originalPrice": 26500,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-20/3123efed-b415-4208-bd66-c9ed3a3b5548.jpeg",
+   "link": "https://toss.shopping/_m/hUPFqCr2",
+   "source": "toss",
+   "postedAt": 1792470648,
+   "endAt": "2026-10-21T00:00:00+09:00"
+  },
+  {
+   "id": "2324550175",
+   "name": "앙쥬 24K 골드 필오프팩, 1+1 구성, 총 2개",
+   "price": 8400,
+   "originalPrice": 31800,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-24/8e0dd849-c24b-4694-96fc-8c5f5300e213.jpeg",
+   "link": "https://toss.shopping/_m/tfVrCs6x",
+   "source": "toss",
+   "postedAt": 1792470645,
+   "endAt": "2026-10-21T00:00:00+09:00"
+  },
+  {
+   "id": "2018529201",
+   "name": "GC녹십자웰빙 알파CD 스파클링 제로, 레몬맛, 500ml, 24개",
+   "price": 19100,
+   "originalPrice": 72000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NGY2MGM3/QUxwMjhiVkxMMHdCYldtdVZqTGFNLzRIclkvc3p3VDRGTmdVMkxtdlFDZmg.png",
+   "link": "https://toss.shopping/_m/745UTrpt",
+   "source": "toss",
+   "postedAt": 1792470642,
+   "endAt": "2026-10-21T00:00:00+09:00"
+  },
+  {
+   "id": "2635793179",
+   "name": "한경희 BLDC 저소음 타이머 무선 탁상용 선풍기, GF-MFL508, 프릴화이트, 1개",
+   "price": 18460,
+   "originalPrice": 69900,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-28/663ac4af-4b4c-45d9-ac7d-e842bfe38184.jpeg",
+   "link": "https://toss.shopping/_m/zGQTrKZl",
+   "source": "toss",
+   "postedAt": 1792470639,
+   "endAt": "2026-10-21T00:00:00+09:00"
+  },
+  {
+   "id": "211830215",
+   "name": "초임계 알티지 오메가3 루테인지아잔틴, 1100mg, 30캡슐, 3개",
+   "price": 17290,
+   "originalPrice": 65700,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YzE3ZDQ2/QUxTZXIxVG0wbEg0RjlaM2kxV3ZqalJOcWVIaitXVWVDKzhCY1hhL1VJcTU.png",
+   "link": "https://toss.shopping/_m/jGjVYxz3",
+   "source": "toss",
+   "postedAt": 1792470636,
+   "endAt": "2026-10-21T00:00:00+09:00"
+  },
   {
    "id": "2611357751",
    "name": "휴플러스 온열 찜질기, HPG-400B, 650x330x10mm, 베이지, 1개",
@@ -1428,34 +1498,6 @@
    "link": "https://toss.shopping/_m/HOlt5tBj",
    "source": "toss",
    "postedAt": 1792213726,
-   "endAt": null
-  },
-  {
-   "id": "745986009",
-   "name": "청정원 스파게티소스, 토마토, 600g, 2개 + 로제, 600g, 1개 + 머쉬룸투움바, 150g, 2개",
-   "price": 12740,
-   "originalPrice": 28880,
-   "discount": 55,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-08/fa40a7de-da07-4658-9846-fb8047edddb1.jpeg",
-   "link": "https://toss.shopping/_m/Z6lM8exD",
-   "source": "toss",
-   "postedAt": 1792209788,
-   "endAt": null
-  },
-  {
-   "id": "2391094925",
-   "name": "대한다업 결명자차, 1.2g, 100개입, 1개",
-   "price": 4500,
-   "originalPrice": 8100,
-   "discount": 44,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NzU1NzJm/QUwwMFpNNDA4VEp6MmRsWnl6anhKblQ4Yk1aTW1PSEd6ck9Nd3pUSE9aMmI.png",
-   "link": "https://toss.shopping/_m/bIM61uHe",
-   "source": "toss",
-   "postedAt": 1792209762,
    "endAt": null
   }
  ]
