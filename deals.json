@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792508500,
+ "updated": 1792510307,
  "deals": [
+  {
+   "id": "284581211",
+   "name": "일감생활 밸런스 발가락 링, 1쌍",
+   "price": 4920,
+   "originalPrice": 29000,
+   "discount": 83,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/product/554597/0e4fb9da-e6f9-43d1-8df5-245c107951b3.jpeg",
+   "link": "https://toss.shopping/_m/NJ1fc9Sz",
+   "source": "toss",
+   "postedAt": 1792510307,
+   "endAt": "2026-10-22T00:00:00+09:00"
+  },
+  {
+   "id": "2651298393",
+   "name": "제주 서귀포 감귤, 특품, 대과, 5kg, 1박스",
+   "price": 8690,
+   "originalPrice": 54900,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-31/86a2246c-f034-4d82-b1b7-1fcb60db2dea.png",
+   "link": "https://toss.shopping/_m/ZKzepiHd",
+   "source": "toss",
+   "postedAt": 1792510304,
+   "endAt": "2026-10-22T00:00:00+09:00"
+  },
   {
    "id": "95071359",
    "name": "휴플러스 무선 온열 눈마사지기, 화이트, 1개",
@@ -1540,76 +1568,6 @@
    "link": "https://toss.shopping/_m/F30d19V9",
    "source": "toss",
    "postedAt": 1792251914,
-   "endAt": "2026-10-19T00:00:00+09:00"
-  },
-  {
-   "id": "2072854129",
-   "name": "이어맥 팬톤 커널형 블루투스 이어폰, TWS PTBT-300, 베이지, 1개",
-   "price": 6700,
-   "originalPrice": 49900,
-   "discount": 86,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MWQ5ZWUx/TTI2M2pCayttWnVucHRLU2pCc2FXK1NNVzl2aDRXZGgzSVFyZS9iMm5LUT0.png",
-   "link": "https://toss.shopping/_m/9gFS5rhn",
-   "source": "toss",
-   "postedAt": 1792250110,
-   "endAt": "2026-10-19T00:00:00+09:00"
-  },
-  {
-   "id": "2339661523",
-   "name": "랑펠로 스텐 믹싱볼 3종, 실버, 16cm, 1개 + 20cm, 1개 + 24cm, 1개, 1세트",
-   "price": 8520,
-   "originalPrice": 89000,
-   "discount": 90,
-   "grade": "무지성급",
-   "category": "주방용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NzVmNjIz/QUxCMjJrc3JuRm0wMTJ1dlM1UzIxR0lybkN1VlYybklTc3EvTmJVMWtOcEs.png",
-   "link": "https://toss.shopping/_m/32a1owGs",
-   "source": "toss",
-   "postedAt": 1792250107,
-   "endAt": "2026-10-19T00:00:00+09:00"
-  },
-  {
-   "id": "94980013",
-   "name": "유한메디카 초임계 rTG 오메가3 엔 탑 식물성 캡슐, 60캡슐, 2개",
-   "price": 14410,
-   "originalPrice": 167800,
-   "discount": 91,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YzdlZmUx/QU9xV1Y1d21scHpXeGVXNGxmZ1UwUzJIcGQ0ODhDYzhoNFBSamhzdmxpUG8.png",
-   "link": "https://toss.shopping/_m/bYkIaM73",
-   "source": "toss",
-   "postedAt": 1792250104,
-   "endAt": "2026-10-19T00:00:00+09:00"
-  },
-  {
-   "id": "2310852455",
-   "name": "앙쥬 모이스처 알로에 폼클렌징, 100ml, 10개",
-   "price": 8390,
-   "originalPrice": 100000,
-   "discount": 91,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-25/0f2c8f13-0664-482b-b301-7ac54c902d94.png",
-   "link": "https://toss.shopping/_m/VQzaeQVt",
-   "source": "toss",
-   "postedAt": 1792250101,
-   "endAt": "2026-10-19T00:00:00+09:00"
-  },
-  {
-   "id": "2522206531",
-   "name": "순수스토리 데일리 루틴 알파CD, 3g, 14포, 6개",
-   "price": 13100,
-   "originalPrice": 180000,
-   "discount": 92,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-16/4aaed9db-12b2-4fec-a96d-23cf5b43277e.jpeg",
-   "link": "https://toss.shopping/_m/rdGwy3L4",
-   "source": "toss",
-   "postedAt": 1792250098,
    "endAt": "2026-10-19T00:00:00+09:00"
   }
  ]
