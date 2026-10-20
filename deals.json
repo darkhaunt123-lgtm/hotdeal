@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792461594,
+ "updated": 1792461630,
  "deals": [
+  {
+   "id": "1113227935",
+   "name": "꼬기다 스틱 닭가슴살, 5종혼합, 100g, 30개",
+   "price": 31870,
+   "originalPrice": 99000,
+   "discount": 67,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDIyODk1/QU94QnhTczZuREpoak53T1IxS0d5Rnd4T1NHODNpTXBpY1MrWGdNQnk4QjI.png",
+   "link": "https://toss.shopping/_m/NJp8RRn2",
+   "source": "toss",
+   "postedAt": 1792461630,
+   "endAt": null
+  },
   {
    "id": "2375254633",
    "name": "필립스 슬림 보조배터리, DLP1812PB, 10000mAh, PD 20W, 블랙, 1개",
@@ -42,20 +56,6 @@
    "link": "https://toss.shopping/_m/Pwy1bV93",
    "source": "toss",
    "postedAt": 1792461588,
-   "endAt": null
-  },
-  {
-   "id": "1113227935",
-   "name": "꼬기다 스틱 닭가슴살, 5종혼합, 100g, 30개",
-   "price": 31870,
-   "originalPrice": 99000,
-   "discount": 67,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDIyODk1/QU94QnhTczZuREpoak53T1IxS0d5Rnd4T1NHODNpTXBpY1MrWGdNQnk4QjI.png",
-   "link": "https://toss.shopping/_m/NJp8RRn2",
-   "source": "toss",
-   "postedAt": 1792461586,
    "endAt": null
   },
   {
