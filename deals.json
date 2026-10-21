@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792543685,
+ "updated": 1792543705,
  "deals": [
+  {
+   "id": "128469191",
+   "name": "피죤 드릴펑, 1L, 3개 + 2L, 1개",
+   "price": 8660,
+   "originalPrice": 25900,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-02-20/8967c0a1-3e5f-4929-a496-26d84cacbef8.jpeg",
+   "link": "https://toss.shopping/_m/xn7ymhso",
+   "source": "toss",
+   "postedAt": 1792543705,
+   "endAt": null
+  },
   {
    "id": "43252057",
    "name": "스파클 생수, 무라벨, 2L, 30개",
