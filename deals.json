@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792543726,
+ "updated": 1792543801,
  "deals": [
+  {
+   "id": "cp9680061738",
+   "name": "[대박급] 켈로그 첵스초코 딸기 크런치, 350g, 1개",
+   "price": 5800,
+   "originalPrice": null,
+   "discount": 0,
+   "grade": "특가",
+   "category": "기타",
+   "thumbnail": null,
+   "link": "https://link.coupang.com/a/h089xLvmlE",
+   "source": "coupang",
+   "postedAt": 1792543801,
+   "endAt": null
+  },
   {
    "id": "1606006515",
    "name": "이씨네김치 이씨네 전라도 포기김치, 3kg, 1개",
