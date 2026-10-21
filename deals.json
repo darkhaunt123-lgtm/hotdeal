@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792622842,
+ "updated": 1792624652,
  "deals": [
+  {
+   "id": "639782013",
+   "name": "동국제약 마데카 더마 마스크 인텐시브 리프팅 포뮬러, 10매, 3개",
+   "price": 17390,
+   "originalPrice": 60000,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-15/ad0d85f5-e8a7-48fd-9b8e-b125bf2aa203.jpeg",
+   "link": "https://toss.shopping/_m/JMjc3DSp",
+   "source": "toss",
+   "postedAt": 1792624652,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
+  {
+   "id": "2534412495",
+   "name": "자석 고정클립, 실버, 3개입, 2세트",
+   "price": 7800,
+   "originalPrice": 27800,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "가구/홈데코",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NDY1MTM5/U3VjM3Rwcno2bWtwUEw2V3ozbXJTZVdrVkI2WFZVMUxOcUdxbWxWSzFXMD0.png",
+   "link": "https://toss.shopping/_m/PiXffKuj",
+   "source": "toss",
+   "postedAt": 1792624649,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
+  {
+   "id": "2657287169",
+   "name": "Earnest F&B 미니 약과도넛, 황치즈맛, 개별포장, 400g, 20개입, 1개",
+   "price": 8390,
+   "originalPrice": 31600,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-16/841be7fe-e7dc-4e67-b490-eba4bdb26ac0.jpeg",
+   "link": "https://toss.shopping/_m/3ew6rT87",
+   "source": "toss",
+   "postedAt": 1792624646,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
   {
    "id": "2463826411",
    "name": "고기중독 한입삼겹살, 500g, 2개",
