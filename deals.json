@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792543705,
+ "updated": 1792543726,
  "deals": [
+  {
+   "id": "1606006515",
+   "name": "이씨네김치 이씨네 전라도 포기김치, 3kg, 1개",
+   "price": 12050,
+   "originalPrice": 28000,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmViYTM0/TDJ4Q0JxeG1BRGUzUEM5eUJPMnA0Z0M5WjI3U3NjRnZINE51cFFjT1ZxVT0.png",
+   "link": "https://toss.shopping/_m/1C2VUXMp",
+   "source": "toss",
+   "postedAt": 1792543726,
+   "endAt": null
+  },
   {
    "id": "128469191",
    "name": "피죤 드릴펑, 1L, 3개 + 2L, 1개",
