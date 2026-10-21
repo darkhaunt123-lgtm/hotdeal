@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792561042,
+ "updated": 1792595003,
  "deals": [
+  {
+   "id": "63321",
+   "name": "유한메디카 고함량 마그네슘 엔 탑 400 맥스, 90정, 3개",
+   "price": 18310,
+   "originalPrice": 143700,
+   "discount": 87,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZjMxMGM2/QVB3bHdIcER4azdXUGx2L2gwUDVEOEgwTFBSKythZVljVndVWjRmdVVSeDQ.png",
+   "link": "https://toss.shopping/_m/3apNMwHx",
+   "source": "toss",
+   "postedAt": 1792595003,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
+  {
+   "id": "525474375",
+   "name": "연세 눈건강 간건강 골드, 30캡슐, 3박스",
+   "price": 12500,
+   "originalPrice": 98000,
+   "discount": 87,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-28/0cd18bd3-97c9-4106-9ff2-55a02451c8ef.jpeg",
+   "link": "https://toss.shopping/_m/n1p7oiY4",
+   "source": "toss",
+   "postedAt": 1792595000,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
+  {
+   "id": "852862047",
+   "name": "유한메디카 두뇌 엔 탑 PS 포스파티딜세린 인지력 케어, 1000mg, 60정, 4개",
+   "price": 40960,
+   "originalPrice": 351600,
+   "discount": 88,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDFmMWNj/QUx5VzQ5TFpTWUQ0SDRsZENSeEp1T0h1amRFdllQSU8wK00yaDVhalVuMXI.png",
+   "link": "https://toss.shopping/_m/l6rdQijr",
+   "source": "toss",
+   "postedAt": 1792594997,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
+  {
+   "id": "94980015",
+   "name": "유한메디카 초임계 rTG 오메가3 엔 탑 식물성 캡슐, 60캡슐, 3개",
+   "price": 25130,
+   "originalPrice": 251700,
+   "discount": 90,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/YTQ3YTBk/QUxVbmU1VFJiUFFwdlNWWWJyRWxlUE5QQlg4ZXZwT3UwY0RaaDVRdTBuRnQ.png",
+   "link": "https://toss.shopping/_m/3eWRnml2",
+   "source": "toss",
+   "postedAt": 1792594994,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
+  {
+   "id": "1130712335",
+   "name": "보라톡스 제로슈가 파비플로라 알파CD 보라워터, 500ml, 24개",
+   "price": 19900,
+   "originalPrice": 200000,
+   "discount": 90,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-03/31bd8534-8c21-4808-9c9a-ed08fc5efd4a.jpeg",
+   "link": "https://toss.shopping/_m/BB3Fye0v",
+   "source": "toss",
+   "postedAt": 1792594991,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
   {
    "id": "2605058187",
    "name": "애슐리 주먹밥 체험팩, 7가지맛, 100g, 7개",
@@ -1513,20 +1583,6 @@
    "source": "toss",
    "postedAt": 1792337369,
    "endAt": "2026-10-20T00:00:00+09:00"
-  },
-  {
-   "id": "324376189",
-   "name": "던킨 아메리카노, 400ml, 12개",
-   "price": 9500,
-   "originalPrice": 19960,
-   "discount": 52,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MzQ3NTgz/RzRkQ2o4OTQ3M2h3dzFUbnE0N3l0OVp3TFU1ZzQ5YXhtNDRwVDBSeDFyRT0.png",
-   "link": "https://toss.shopping/_m/XDe6XH1v",
-   "source": "toss",
-   "postedAt": 1792314017,
-   "endAt": null
   }
  ]
 }
