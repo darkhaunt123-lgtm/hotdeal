@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792621016,
+ "updated": 1792621025,
  "deals": [
+  {
+   "id": "2163898343",
+   "name": "발이 편한 카바 밴딩 중목 양말, 여성용, 블랙, 10켤레",
+   "price": 4600,
+   "originalPrice": 20000,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTdhZGIx/QU9Yd3N3RXhqMDVUaWg4emhjUjRJSVJScTUxNnFoUUNOZi91QUlRaTQ5OTY.png",
+   "link": "https://toss.shopping/_m/R2HgRk76",
+   "source": "toss",
+   "postedAt": 1792621025,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
+  {
+   "id": "515512547",
+   "name": "헬로바이오 무가당 자연발효 그릭요거트 스타터, 3g, 5포, 4개",
+   "price": 8900,
+   "originalPrice": 39900,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-12-31/2fb4b87f-517b-4d7a-a1be-4686f09eec81.jpeg",
+   "link": "https://toss.shopping/_m/hwyYMVHD",
+   "source": "toss",
+   "postedAt": 1792621022,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
+  {
+   "id": "1056552319",
+   "name": "위니즈 퓨전 프로쉴드 5중날 질레트 호환용 면도기날 세트, 면도기 1개 + 면도날 4개입",
+   "price": 6400,
+   "originalPrice": 27900,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjYyNmQ4/QU1NY3Q4TjJTMHA4SGFlOHVPS2NsMC9KMFV1QlBHNWl3OCtCdkR5TnNVUEQ.png",
+   "link": "https://toss.shopping/_m/hA96KRXu",
+   "source": "toss",
+   "postedAt": 1792621019,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
   {
    "id": "2645648075",
    "name": "왕혜문 퓨어보이차 100, 1300일 발효, 라이트, 카테킨, 10g, 20포, 3박스",
