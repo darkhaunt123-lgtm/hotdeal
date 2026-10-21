@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792624652,
+ "updated": 1792624658,
  "deals": [
+  {
+   "id": "1503699563",
+   "name": "발이 편한 카바 밴딩 중목 양말, 여성용, 색상혼합, 20켤레",
+   "price": 9200,
+   "originalPrice": 30000,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTRlNjBj/QU9Yd3N3RXhqMDVUaWg4emhjUjRJSVJScTUxNnFoUUNOZi91QUlRaTQ5OTY.png",
+   "link": "https://toss.shopping/_m/dLfUzfE4",
+   "source": "toss",
+   "postedAt": 1792624658,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
+  {
+   "id": "144632625",
+   "name": "여성 모달 삼각 팬티, L (95), 7종, 1세트",
+   "price": 11770,
+   "originalPrice": 39900,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzk4OWFi/QU5sQmVlMU1UazN0bk1lMmpUUExYaEhtR1VoelRHQ0JrdG1NWFNmQmx2bmc.png",
+   "link": "https://toss.shopping/_m/F6GGCDVy",
+   "source": "toss",
+   "postedAt": 1792624655,
+   "endAt": "2026-10-23T00:00:00+09:00"
+  },
   {
    "id": "639782013",
    "name": "동국제약 마데카 더마 마스크 인텐시브 리프팅 포뮬러, 10매, 3개",
