@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792542748,
+ "updated": 1792543685,
  "deals": [
+  {
+   "id": "43252057",
+   "name": "스파클 생수, 무라벨, 2L, 30개",
+   "price": 11810,
+   "originalPrice": 25000,
+   "discount": 52,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-18/268e4c6a-1595-43e9-9c1b-f101e5774429.jpeg",
+   "link": "https://toss.shopping/_m/ns0C0z3c",
+   "source": "toss",
+   "postedAt": 1792543685,
+   "endAt": null
+  },
   {
    "id": "78414135",
    "name": "행복레시피 캐릭터자수발목양말, 10켤레, 1세트",
