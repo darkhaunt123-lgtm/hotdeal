@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792540923,
+ "updated": 1792540932,
  "deals": [
+  {
+   "id": "2650811419",
+   "name": "초경량 대용량 보스턴 백팩 9900, 블랙, 대, 1팩",
+   "price": 8904,
+   "originalPrice": 39900,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-07/c357bd5a-d2e3-4378-bd07-607ccd908b56.jpeg",
+   "link": "https://toss.shopping/_m/vPa3Hcry",
+   "source": "toss",
+   "postedAt": 1792540932,
+   "endAt": "2026-10-22T00:00:00+09:00"
+  },
+  {
+   "id": "2031392865",
+   "name": "플리츠 상하의 세트, 블랙, FREE, 1개",
+   "price": 6910,
+   "originalPrice": 32900,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-05-19/372d2414-962f-40d5-bc28-891c0b5913ab.jpeg",
+   "link": "https://toss.shopping/_m/z6G8zcQf",
+   "source": "toss",
+   "postedAt": 1792540929,
+   "endAt": "2026-10-22T00:00:00+09:00"
+  },
+  {
+   "id": "745809767",
+   "name": "종근당 홍침원 골드 프리미엄 선물세트, 1박스 + 쇼핑백",
+   "price": 21500,
+   "originalPrice": 100000,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MTVkMTdk/QU1meDVXL3A3Zk12SG5IZlBDL056V2t1Y2RrOE5wVGE0VzlSUEg2TFZDZkQ.png",
+   "link": "https://toss.shopping/_m/1BaDc98A",
+   "source": "toss",
+   "postedAt": 1792540926,
+   "endAt": "2026-10-22T00:00:00+09:00"
+  },
   {
    "id": "2137491061",
    "name": "U자 변기솔, 랜덤, 2개",
