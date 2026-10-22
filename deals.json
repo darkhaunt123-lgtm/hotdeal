@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792624658,
+ "updated": 1792627215,
  "deals": [
+  {
+   "id": "2261088399",
+   "name": "오브쿡스 스텐304 리파인 케틀팟, 2L, 1개",
+   "price": 19710,
+   "originalPrice": 38000,
+   "discount": 48,
+   "grade": "초대박",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZDI0MWFj/RFI3eFBwcVJsMloyYm01cFEyK1ZIcHl4VG9kcFZtbjVyVWFzM3BiY0Z6TT0.png",
+   "link": "https://toss.shopping/_m/teWTiRpo",
+   "source": "toss",
+   "postedAt": 1792627215,
+   "endAt": null
+  },
   {
    "id": "1503699563",
    "name": "발이 편한 카바 밴딩 중목 양말, 여성용, 색상혼합, 20켤레",
