@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792644246,
+ "updated": 1792644308,
  "deals": [
+  {
+   "id": "475445997",
+   "name": "빚고을 찹쌀떡, 35g, 30개입, 1개",
+   "price": 9800,
+   "originalPrice": 15900,
+   "discount": 38,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmEyMDI0/QUlJOGlXREdoaXducUZwaTBXT080aHFHNUZaSlFrYTFISldxQmpFZVF3MSs.png",
+   "link": "https://toss.shopping/_m/lFE26Pd3",
+   "source": "toss",
+   "postedAt": 1792644308,
+   "endAt": null
+  },
   {
    "id": "558774829",
    "name": "윙잇 정통 인계동 해장국, 600g, 5개",
