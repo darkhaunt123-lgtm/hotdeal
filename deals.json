@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792642292,
+ "updated": 1792644246,
  "deals": [
+  {
+   "id": "558774829",
+   "name": "윙잇 정통 인계동 해장국, 600g, 5개",
+   "price": 19900,
+   "originalPrice": 46000,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ODJjMjdi/Zjk4T0RXMiszRHdaaDVqalRKUXVML3Mybk9iK08zNDI0em5nSCtBU2dOZz0.png",
+   "link": "https://toss.shopping/_m/P0wuYYOp",
+   "source": "toss",
+   "postedAt": 1792644246,
+   "endAt": null
+  },
+  {
+   "id": "2339088491",
+   "name": "고추명가 초간편 제육볶음, 1kg, 1개",
+   "price": 9240,
+   "originalPrice": 18500,
+   "discount": 50,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-05-21/a79b41d3-23c6-4377-b42c-d588024f475c.jpeg",
+   "link": "https://toss.shopping/_m/t7ag3IVA",
+   "source": "toss",
+   "postedAt": 1792644230,
+   "endAt": null
+  },
   {
    "id": "2642328995",
    "name": "디어커스 원데이 수세미 에코컷, 그레이, 100매, 2팩",
