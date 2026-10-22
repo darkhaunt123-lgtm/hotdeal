@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792627215,
+ "updated": 1792642292,
  "deals": [
+  {
+   "id": "2642328995",
+   "name": "디어커스 원데이 수세미 에코컷, 그레이, 100매, 2팩",
+   "price": 4990,
+   "originalPrice": 19800,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-01/19916d86-d81d-4cb4-9e47-d542de9647e1.png",
+   "link": "https://toss.shopping/_m/9x7KTq06",
+   "source": "toss",
+   "postedAt": 1792642292,
+   "endAt": null
+  },
+  {
+   "id": "165557055",
+   "name": "변기세정제 라이트, 50g, 20개",
+   "price": 4660,
+   "originalPrice": 13900,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmQ3M2Iy/U1RZcVc0MmhOdlNTVkNwYm1TVE5tNTIwelpsbTNMV0xabG1YSzJaa2FtWT0.png",
+   "link": "https://toss.shopping/_m/ZgVzbWIn",
+   "source": "toss",
+   "postedAt": 1792642282,
+   "endAt": null
+  },
   {
    "id": "2261088399",
    "name": "오브쿡스 스텐304 리파인 케틀팟, 2L, 1개",
@@ -126,20 +154,6 @@
    "link": "https://toss.shopping/_m/DehQMOBe",
    "source": "toss",
    "postedAt": 1792622835,
-   "endAt": "2026-10-23T00:00:00+09:00"
-  },
-  {
-   "id": "2642328995",
-   "name": "디어커스 원데이 수세미 에코컷, 그레이, 100매, 2팩",
-   "price": 4990,
-   "originalPrice": 19800,
-   "discount": 74,
-   "grade": "무지성급",
-   "category": "주방용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-01/19916d86-d81d-4cb4-9e47-d542de9647e1.png",
-   "link": "https://toss.shopping/_m/9x7KTq06",
-   "source": "toss",
-   "postedAt": 1792622832,
    "endAt": "2026-10-23T00:00:00+09:00"
   },
   {
@@ -1470,62 +1484,6 @@
    "link": "https://toss.shopping/_m/5jyWeNgr",
    "source": "toss",
    "postedAt": 1792390561,
-   "endAt": null
-  },
-  {
-   "id": "166431743",
-   "name": "익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
-   "price": 11890,
-   "originalPrice": 35000,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-12/3a39b71e-9914-4874-8cb6-dcdf4d610943.png",
-   "link": "https://toss.shopping/_m/5Zvyq6Z",
-   "source": "toss",
-   "postedAt": 1792381106,
-   "endAt": null
-  },
-  {
-   "id": "1990871539",
-   "name": "연세우유 세브란스 A2 프로틴, 초콜릿, 190ml, 32개",
-   "price": 33800,
-   "originalPrice": 42900,
-   "discount": 21,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-12/7af8a6ad-b7f6-4ee8-9e56-5c9ad4245d87.jpeg",
-   "link": "https://toss.shopping/_m/BxL07xgx",
-   "source": "toss",
-   "postedAt": 1792381057,
-   "endAt": null
-  },
-  {
-   "id": "1440413957",
-   "name": "올리타리아 엑스트라버진 올리브 오일, 250ml, 4개",
-   "price": 17900,
-   "originalPrice": 51000,
-   "discount": 64,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmFhZTNm/QU41cksxTWpsdXl0M1ZpWFV5VGphYXo3bnA3WlZHbDVacXFubnBsVldIOW0.png",
-   "link": "https://toss.shopping/_m/deUoqPze",
-   "source": "toss",
-   "postedAt": 1792381049,
-   "endAt": null
-  },
-  {
-   "id": "2625185613",
-   "name": "한촌설렁탕 국물 6종 세트, 500g, 6개, 1세트",
-   "price": 16900,
-   "originalPrice": 39900,
-   "discount": 57,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-21/ab38d43f-623f-4c8b-99e1-1f7fe3b35a15.png",
-   "link": "https://toss.shopping/_m/np3uSfU1",
-   "source": "toss",
-   "postedAt": 1792381040,
    "endAt": null
   }
  ]
