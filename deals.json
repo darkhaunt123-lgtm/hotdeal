@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792689566,
+ "updated": 1792691370,
  "deals": [
+  {
+   "id": "513805055",
+   "name": "이장네푸드 진한 들기름, 350ml, 4개",
+   "price": 22900,
+   "originalPrice": 106000,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NWNiMTM3/QU0vYytQTWJubnh4R0p5ZWRaU3Y4ODVyMENjT1c5RE0rVnVZZmJWYm1PMzU.png",
+   "link": "https://toss.shopping/_m/RqcdjbUf",
+   "source": "toss",
+   "postedAt": 1792691370,
+   "endAt": "2026-10-24T00:00:00+09:00"
+  },
   {
    "id": "2214185555",
    "name": "팬톤 25W GaN 듀얼포트 PPS 초고속 PD 충전기, RCE-2521ACLKR, 그레이, 2개",
