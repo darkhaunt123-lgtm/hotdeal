@@ -1,7 +1,77 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792657603,
+ "updated": 1792682300,
  "deals": [
+  {
+   "id": "54176857",
+   "name": "유한메디카 당케어 엔 탑 혈당&유산균, 350mg, 30캡슐, 12개",
+   "price": 49820,
+   "originalPrice": 502800,
+   "discount": 90,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MjZkOWQ4/V0piekJ1UVJiUkVQS2NUdXpHdVIwc1laR3o3bHM3VGh3NVJ0c1dPVWxrND0.png",
+   "link": "https://toss.shopping/_m/ZpWWR2Ia",
+   "source": "toss",
+   "postedAt": 1792682300,
+   "endAt": "2026-10-24T00:00:00+09:00"
+  },
+  {
+   "id": "163043639",
+   "name": "크리스찬딘 포 옴므 오드퍼퓸, 클린코튼, 50ml, 1개",
+   "price": 7900,
+   "originalPrice": 80000,
+   "discount": 90,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OWUyNTEy/T05hN1ZHdGFhMURMVkM5ZmJoWTIxSlBscFR1WnFaOUtnK1JzRzRXazA2VT0.png",
+   "link": "https://toss.shopping/_m/5RBtYRhC",
+   "source": "toss",
+   "postedAt": 1792682297,
+   "endAt": "2026-10-24T00:00:00+09:00"
+  },
+  {
+   "id": "432105997",
+   "name": "동의삼 프리미엄 데일리 산삼배양근스틱, 10g, 30포, 1개",
+   "price": 12600,
+   "originalPrice": 199000,
+   "discount": 93,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDJkNzQ2/QUovTXM4TjR0cjNJRzhSN1A5blV4c2JlTkxsU1pyem5Gc2NVWWp1dVVKU3Q.png",
+   "link": "https://toss.shopping/_m/vHjG8ljn",
+   "source": "toss",
+   "postedAt": 1792682294,
+   "endAt": "2026-10-24T00:00:00+09:00"
+  },
+  {
+   "id": "2068831639",
+   "name": "자이글 온 오투스페이스, ZAOP-A21, 무선, 음이온, 화이트, 1개",
+   "price": 14600,
+   "originalPrice": 299000,
+   "discount": 95,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmY0Nzc1/Y3c1enBJNTVLYWJPT0pUR2F4a3RPTXpHak9kekdUR09qR2ZscDNPY3h6az0.png",
+   "link": "https://toss.shopping/_m/jVXG1aI5",
+   "source": "toss",
+   "postedAt": 1792682291,
+   "endAt": "2026-10-24T00:00:00+09:00"
+  },
+  {
+   "id": "2477090173",
+   "name": "남성 스포츠 양말, 블랙 2개 + 화이트 2개 + 그레이 2개, FREE(250mm-280mm), 1세트",
+   "price": 10500,
+   "originalPrice": 399000,
+   "discount": 97,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-13/566eef06-e153-4072-85a2-69ded77b2741.jpeg",
+   "link": "https://toss.shopping/_m/pBrwp6dx",
+   "source": "toss",
+   "postedAt": 1792682288,
+   "endAt": "2026-10-24T00:00:00+09:00"
+  },
   {
    "id": "2511369785",
    "name": "햅푸드 구운계란, 대란, 30구, 2개",
@@ -1526,20 +1596,6 @@
    "link": "https://link.coupang.com/a/hZzeuHKsx2",
    "source": "coupang",
    "postedAt": 1792461586,
-   "endAt": null
-  },
-  {
-   "id": "173582909",
-   "name": "클래파 BLDC 무선청소기 스테이션 자동먼지비움, CVC-S230, 화이트, 1개",
-   "price": 118990,
-   "originalPrice": 278000,
-   "discount": 57,
-   "grade": "초대박",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MzI3N2Qx/SXpOVW04M01LbVV5czVYYnpVeGFwREtUclV2VlpGcTJxMXZNcVdkVUVVbz0.png",
-   "link": "https://toss.shopping/_m/PK4kbYUj",
-   "source": "toss",
-   "postedAt": 1792399552,
    "endAt": null
   }
  ]
