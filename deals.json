@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792644308,
+ "updated": 1792648867,
  "deals": [
+  {
+   "id": "2656401683",
+   "name": "팜보스 씨없는 청도 햇 반시, 30과 이상, 2.5kg, 1박스",
+   "price": 6900,
+   "originalPrice": 16900,
+   "discount": 59,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-15/6ea15a6f-c00a-4935-8662-d9e309dc9851.jpeg",
+   "link": "https://toss.shopping/_m/3LZlsSuD",
+   "source": "toss",
+   "postedAt": 1792648867,
+   "endAt": null
+  },
   {
    "id": "475445997",
    "name": "빚고을 찹쌀떡, 35g, 30개입, 1개",
