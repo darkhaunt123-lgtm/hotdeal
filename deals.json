@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792777045,
+ "updated": 1792777051,
  "deals": [
+  {
+   "id": "1320800487",
+   "name": "비기온 맛밤, 30g, 30개",
+   "price": 18480,
+   "originalPrice": 66000,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDkyYmNh/QU0zWVZ1UEIySS9oTlZSMTNIRFMwbW9WNDB3MkZnbW1FYjBpYldmenZIQ08.png",
+   "link": "https://toss.shopping/_m/vmKG1vCe",
+   "source": "toss",
+   "postedAt": 1792777051,
+   "endAt": "2026-10-25T00:00:00+09:00"
+  },
+  {
+   "id": "10283163",
+   "name": "이씨네 전라도 겉절이, 2kg, 1개",
+   "price": 8320,
+   "originalPrice": 29900,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/c5144cbd-cfc0-4303-843c-1941d29bf5ef.jpg",
+   "link": "https://toss.shopping/_m/tDHSrKYb",
+   "source": "toss",
+   "postedAt": 1792777048,
+   "endAt": "2026-10-25T00:00:00+09:00"
+  },
   {
    "id": "445863053",
    "name": "ACRO 코어핏 오픈형 이어링 블루투스 이어폰, AE-101, 아이보리, 1개",
