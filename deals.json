@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792775234,
+ "updated": 1792777045,
  "deals": [
+  {
+   "id": "445863053",
+   "name": "ACRO 코어핏 오픈형 이어링 블루투스 이어폰, AE-101, 아이보리, 1개",
+   "price": 12980,
+   "originalPrice": 49800,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MGE4YTdj/ZWJabTNyMnptMlZrbk8yYm01QzIyVzRZM0ptNmNTRnB6UERic2JkbGVvWT0.png",
+   "link": "https://toss.shopping/_m/X0AaEPt9",
+   "source": "toss",
+   "postedAt": 1792777045,
+   "endAt": "2026-10-25T00:00:00+09:00"
+  },
+  {
+   "id": "146737593",
+   "name": "왕의떡 프리미엄 고급떡 진 선물세트, 1.4kg, 1세트",
+   "price": 18580,
+   "originalPrice": 69900,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-03/e7826166-4eec-41c1-9b04-f3979e765200.jpeg",
+   "link": "https://toss.shopping/_m/Jh9q3kS5",
+   "source": "toss",
+   "postedAt": 1792777042,
+   "endAt": "2026-10-25T00:00:00+09:00"
+  },
+  {
+   "id": "525669803",
+   "name": "네이처바이 알로에 에센스 마스크팩, 100개입, 1세트",
+   "price": 13200,
+   "originalPrice": 50000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-02/387be3ab-6425-4464-8b70-d7431389b44c.jpeg",
+   "link": "https://toss.shopping/_m/dmTr7Rh3",
+   "source": "toss",
+   "postedAt": 1792777039,
+   "endAt": "2026-10-25T00:00:00+09:00"
+  },
   {
    "id": "2017407985",
    "name": "배스킨라빈스 베리베리 스트로베리 우유 190ml, 48개",
