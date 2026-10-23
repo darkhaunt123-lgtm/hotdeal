@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792771602,
+ "updated": 1792773409,
  "deals": [
+  {
+   "id": "2656397611",
+   "name": "제주 감귤, 특품, 중과, 5kg, 1박스",
+   "price": 10950,
+   "originalPrice": 55900,
+   "discount": 80,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-15/4b32b766-a6b7-4f08-ab2d-37c3e350759c.png",
+   "link": "https://toss.shopping/_m/dBo0CCEe",
+   "source": "toss",
+   "postedAt": 1792773409,
+   "endAt": "2026-10-25T00:00:00+09:00"
+  },
+  {
+   "id": "82229823",
+   "name": "포스파티딜세린 징코 PS, 60캡슐, 4박스",
+   "price": 55300,
+   "originalPrice": 300000,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-24/c91f8f6f-84aa-4e6d-8fb0-1a9c976a6258.jpeg",
+   "link": "https://toss.shopping/_m/lwQH2elc",
+   "source": "toss",
+   "postedAt": 1792773406,
+   "endAt": "2026-10-25T00:00:00+09:00"
+  },
   {
    "id": "154774271",
    "name": "쉬젤 러반 스테인레스 IH 양수냄비 20cm",
