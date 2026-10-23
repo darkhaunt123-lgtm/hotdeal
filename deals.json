@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792773409,
+ "updated": 1792773418,
  "deals": [
+  {
+   "id": "2625255849",
+   "name": "일양약품 우리가족 멀티비타민 츄어블, 60정, 2개",
+   "price": 6500,
+   "originalPrice": 30000,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-23/710346bd-e4bc-4303-86ad-bc00c2e54660.png",
+   "link": "https://toss.shopping/_m/1ImOKiqC",
+   "source": "toss",
+   "postedAt": 1792773418,
+   "endAt": "2026-10-25T00:00:00+09:00"
+  },
+  {
+   "id": "2236329791",
+   "name": "도무스 에어 글라스 오븐 올인원 바스켓 2종, 블랙, 1세트",
+   "price": 60640,
+   "originalPrice": 298000,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MmE4ODA0/TFBibGM3ZldLa3VXOFNOZWVoa3F1N0tIYk81YUowYWorTGlYcmtVSmFKRT0.png",
+   "link": "https://toss.shopping/_m/1yfIl75q",
+   "source": "toss",
+   "postedAt": 1792773415,
+   "endAt": "2026-10-25T00:00:00+09:00"
+  },
+  {
+   "id": "109281497",
+   "name": "하루견과 The오리지널, 20g, 100봉",
+   "price": 41920,
+   "originalPrice": 200000,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-06-19/4800bbaf-5c16-46fa-ad7c-dce26078088c.jpeg",
+   "link": "https://toss.shopping/_m/1MrvRFnm",
+   "source": "toss",
+   "postedAt": 1792773412,
+   "endAt": "2026-10-25T00:00:00+09:00"
+  },
   {
    "id": "2656397611",
    "name": "제주 감귤, 특품, 중과, 5kg, 1박스",
