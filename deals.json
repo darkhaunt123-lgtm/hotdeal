@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792719808,
+ "updated": 1792719816,
  "deals": [
+  {
+   "id": "2431229129",
+   "name": "국내산 세척사과, 2kg, 1박스",
+   "price": 7900,
+   "originalPrice": 25000,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-07/a632e06d-22bc-4d02-a12a-6a532bc5197a.png",
+   "link": "https://toss.shopping/_m/tKqt1JDy",
+   "source": "toss",
+   "postedAt": 1792719816,
+   "endAt": null
+  },
+  {
+   "id": "11080803",
+   "name": "테오푸드 오뎅도리탕, 1.2kg, 1개",
+   "price": 12780,
+   "originalPrice": 38900,
+   "discount": 67,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MGM5NzM3/VG05aDhEK21NT1lxSEZxeVUrNm44WlVZbjJ6WGFoVkRzcXN0aG9vOUJncz0.png",
+   "link": "https://toss.shopping/_m/xfWSESH",
+   "source": "toss",
+   "postedAt": 1792719815,
+   "endAt": null
+  },
+  {
+   "id": "2084336377",
+   "name": "욜로 두바이 쫀득 쿠키, 40g, 10개",
+   "price": 19500,
+   "originalPrice": 29900,
+   "discount": 34,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-05-22/eea97fa3-d7a3-42d7-9be7-d4e24157fd23.jpeg",
+   "link": "https://toss.shopping/_m/PBMPeATk",
+   "source": "toss",
+   "postedAt": 1792719813,
+   "endAt": null
+  },
   {
    "id": "1606006517",
    "name": "이씨네김치 이씨네 전라도 포기김치, 5kg, 1개",
