@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792691382,
+ "updated": 1792719808,
  "deals": [
+  {
+   "id": "1606006517",
+   "name": "이씨네김치 이씨네 전라도 포기김치, 5kg, 1개",
+   "price": 16280,
+   "originalPrice": 45000,
+   "discount": 63,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmViYTM0/TDJ4Q0JxeG1BRGUzUEM5eUJPMnA0Z0M5WjI3U3NjRnZINE51cFFjT1ZxVT0.png",
+   "link": "https://toss.shopping/_m/5Gcwnbro",
+   "source": "toss",
+   "postedAt": 1792719808,
+   "endAt": null
+  },
   {
    "id": "2651298397",
    "name": "제주 서귀포 감귤, 특품, 로얄과, 10kg, 1박스",
