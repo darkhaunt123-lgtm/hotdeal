@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792739843,
+ "updated": 1792739881,
  "deals": [
+  {
+   "id": "cp164112049",
+   "name": "해태제과 맛동산, 38g, 20개",
+   "price": 9660,
+   "originalPrice": null,
+   "discount": 0,
+   "grade": "특가",
+   "category": "기타",
+   "thumbnail": null,
+   "link": "https://link.coupang.com/a/h4UGFVUHOS",
+   "source": "coupang",
+   "postedAt": 1792739881,
+   "endAt": null
+  },
   {
    "id": "2139180681",
    "name": "경추 안마기, 가성비 저주파 마사지기, 블루블랙, 1개",
