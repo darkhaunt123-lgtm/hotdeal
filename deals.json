@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792811714,
+ "updated": 1792822149,
  "deals": [
+  {
+   "id": "cp7455864274",
+   "name": "쿠쿠 미니 믹서기",
+   "price": 19000,
+   "originalPrice": null,
+   "discount": 0,
+   "grade": "특가",
+   "category": "기타",
+   "thumbnail": null,
+   "link": "https://link.coupang.com/a/h6uFBjk2ZU",
+   "source": "coupang",
+   "postedAt": 1792822149,
+   "endAt": null
+  },
   {
    "id": "651526161",
    "name": "스파클 생수, 무라벨, 500ml, 80개",
@@ -1471,20 +1485,6 @@
    "source": "toss",
    "postedAt": 1792594991,
    "endAt": "2026-10-23T00:00:00+09:00"
-  },
-  {
-   "id": "2605058187",
-   "name": "애슐리 주먹밥 체험팩, 7가지맛, 100g, 7개",
-   "price": 9990,
-   "originalPrice": 19750,
-   "discount": 49,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-12/c775957b-aaa8-4b3e-9e00-aabef8c2a89f.jpeg",
-   "link": "https://toss.shopping/_m/tephsFo9",
-   "source": "toss",
-   "postedAt": 1792561042,
-   "endAt": null
   }
  ]
 }
