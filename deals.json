@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792860929,
+ "updated": 1792862733,
  "deals": [
+  {
+   "id": "476572239",
+   "name": "배스킨라빈스 데일리 후르츠 워터 피치요거트, 레인보우샤베트, 120ml, 24개입, 2박스",
+   "price": 12590,
+   "originalPrice": 48000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-12-23/200fdeda-226f-4567-862e-7c53eeb9f3a6.jpeg",
+   "link": "https://toss.shopping/_m/RBFEw5rs",
+   "source": "toss",
+   "postedAt": 1792862733,
+   "endAt": "2026-10-26T00:00:00+09:00"
+  },
   {
    "id": "1471480165",
    "name": "펩시 클리어 스퀘어 데스크 선풍기 PEP-ZERO33, 블랙, 1개",
