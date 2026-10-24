@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792828230,
+ "updated": 1792828476,
  "deals": [
+  {
+   "id": "127588345",
+   "name": "국내산 횟감 활 흰다리새우, 1kg, 1팩",
+   "price": 16600,
+   "originalPrice": 48900,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-01/4ec0f8db-7c02-43a6-be5c-c3397638207a.png",
+   "link": "https://toss.shopping/_m/LyerQi1g",
+   "source": "toss",
+   "postedAt": 1792828476,
+   "endAt": null
+  },
   {
    "id": "271918131",
    "name": "시원밥상 배추김치, 5kg, 1박스",
