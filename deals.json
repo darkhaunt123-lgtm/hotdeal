@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792950160,
+ "updated": 1792950163,
  "deals": [
+  {
+   "id": "1414687549",
+   "name": "헬로 바이오 생유산균 19 프로바이오틱스, 30캡슐, 6개",
+   "price": 16600,
+   "originalPrice": 51900,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-06/9b518bf9-a962-4a6a-b6d3-3ab944c59886.jpeg",
+   "link": "https://toss.shopping/_m/1yMRH9Nk",
+   "source": "toss",
+   "postedAt": 1792950163,
+   "endAt": "2026-10-27T00:00:00+09:00"
+  },
   {
    "id": "438304075",
    "name": "종표 쫄깃 국수, 1.5kg, 1개",
