@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792897875,
+ "updated": 1792909733,
  "deals": [
+  {
+   "id": "828735177",
+   "name": "휴플러스 목 어깨 베개 마사지기, CORDZERO-P80, 화이트, 1개",
+   "price": 33060,
+   "originalPrice": 200000,
+   "discount": 83,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjAwM2Rm/QUk1VG0xTnA1bXpzbnh2MU85YWJwbHRjYkduTXQ1UFdvU3RZMnkyY3RMbFc.png",
+   "link": "https://toss.shopping/_m/RWQ2juer",
+   "source": "toss",
+   "postedAt": 1792909733,
+   "endAt": null
+  },
   {
    "id": "2401205415",
    "name": "썬리지 호주산 네이블 오렌지, 중과, 3.5kg, 1박스",
@@ -336,20 +350,6 @@
    "link": "https://toss.shopping/_m/VzDq2dFx",
    "source": "toss",
    "postedAt": 1792857291,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "828735177",
-   "name": "휴플러스 목 어깨 베개 마사지기, CORDZERO-P80, 화이트, 1개",
-   "price": 33060,
-   "originalPrice": 200000,
-   "discount": 83,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjAwM2Rm/QUk1VG0xTnA1bXpzbnh2MU85YWJwbHRjYkduTXQ1UFdvU3RZMnkyY3RMbFc.png",
-   "link": "https://toss.shopping/_m/RWQ2juer",
-   "source": "toss",
-   "postedAt": 1792857288,
    "endAt": "2026-10-26T00:00:00+09:00"
   },
   {
@@ -1442,90 +1442,6 @@
    "link": "https://toss.shopping/_m/HPY33Jqj",
    "source": "toss",
    "postedAt": 1792657603,
-   "endAt": null
-  },
-  {
-   "id": "2656401683",
-   "name": "팜보스 씨없는 청도 햇 반시, 30과 이상, 2.5kg, 1박스",
-   "price": 6900,
-   "originalPrice": 16900,
-   "discount": 59,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-15/6ea15a6f-c00a-4935-8662-d9e309dc9851.jpeg",
-   "link": "https://toss.shopping/_m/3LZlsSuD",
-   "source": "toss",
-   "postedAt": 1792648867,
-   "endAt": null
-  },
-  {
-   "id": "475445997",
-   "name": "빚고을 찹쌀떡, 35g, 30개입, 1개",
-   "price": 9800,
-   "originalPrice": 15900,
-   "discount": 38,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmEyMDI0/QUlJOGlXREdoaXducUZwaTBXT080aHFHNUZaSlFrYTFISldxQmpFZVF3MSs.png",
-   "link": "https://toss.shopping/_m/lFE26Pd3",
-   "source": "toss",
-   "postedAt": 1792644308,
-   "endAt": null
-  },
-  {
-   "id": "558774829",
-   "name": "윙잇 정통 인계동 해장국, 600g, 5개",
-   "price": 19900,
-   "originalPrice": 46000,
-   "discount": 56,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ODJjMjdi/Zjk4T0RXMiszRHdaaDVqalRKUXVML3Mybk9iK08zNDI0em5nSCtBU2dOZz0.png",
-   "link": "https://toss.shopping/_m/P0wuYYOp",
-   "source": "toss",
-   "postedAt": 1792644246,
-   "endAt": null
-  },
-  {
-   "id": "2339088491",
-   "name": "고추명가 초간편 제육볶음, 1kg, 1개",
-   "price": 9240,
-   "originalPrice": 18500,
-   "discount": 50,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-05-21/a79b41d3-23c6-4377-b42c-d588024f475c.jpeg",
-   "link": "https://toss.shopping/_m/t7ag3IVA",
-   "source": "toss",
-   "postedAt": 1792644230,
-   "endAt": null
-  },
-  {
-   "id": "2642328995",
-   "name": "디어커스 원데이 수세미 에코컷, 그레이, 100매, 2팩",
-   "price": 4990,
-   "originalPrice": 19800,
-   "discount": 74,
-   "grade": "무지성급",
-   "category": "주방용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-01/19916d86-d81d-4cb4-9e47-d542de9647e1.png",
-   "link": "https://toss.shopping/_m/9x7KTq06",
-   "source": "toss",
-   "postedAt": 1792642292,
-   "endAt": null
-  },
-  {
-   "id": "165557055",
-   "name": "변기세정제 라이트, 50g, 20개",
-   "price": 4660,
-   "originalPrice": 13900,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmQ3M2Iy/U1RZcVc0MmhOdlNTVkNwYm1TVE5tNTIwelpsbTNMV0xabG1YSzJaa2FtWT0.png",
-   "link": "https://toss.shopping/_m/ZgVzbWIn",
-   "source": "toss",
-   "postedAt": 1792642282,
    "endAt": null
   }
  ]
