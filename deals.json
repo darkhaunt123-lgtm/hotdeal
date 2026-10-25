@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1792942890,
+ "updated": 1792942896,
  "deals": [
+  {
+   "id": "180038237",
+   "name": "BENAF 포인트 레이어드 맨투맨 BJ3LT009, 네이비, FFF, 1개",
+   "price": 27800,
+   "originalPrice": 154000,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjBiZGE3/SFhiZVhQWCtYMzBmd2FBZytndC85MGdmL29LZitQbFcvQVVCWGcvd2Vxaz0.png",
+   "link": "https://toss.shopping/_m/L3GuRKH9",
+   "source": "toss",
+   "postedAt": 1792942896,
+   "endAt": "2026-10-27T00:00:00+09:00"
+  },
+  {
+   "id": "135551727",
+   "name": "부산 원조 상천 사각어묵, 2kg, 1개",
+   "price": 11510,
+   "originalPrice": 43900,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YzI2OTM3/UDNrdjdieXcvMzhVRXJLazlyakpHNUVJQjh1MWVWU1k4bnBmdm1oUUFGQT0.png",
+   "link": "https://toss.shopping/_m/5cvQvf7A",
+   "source": "toss",
+   "postedAt": 1792942893,
+   "endAt": "2026-10-27T00:00:00+09:00"
+  },
   {
    "id": "2666493861",
    "name": "나누담 간편 핑크 직사각 밀폐용기, 480ml, 12개 + 750ml, 10개, 1세트",
