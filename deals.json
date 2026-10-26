@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793029456,
+ "updated": 1793029465,
  "deals": [
+  {
+   "id": "91564771",
+   "name": "비로르 액화방지 원터치 요리용 부탄가스 토치, 화이트, 1개",
+   "price": 6050,
+   "originalPrice": 20400,
+   "discount": 80,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDRmOTU5/QVBjejJabG1aaWJNeXpuTE9Tek1abWJabVNNdzF0bG1aaTIyMHhzempCek0.png",
+   "link": "https://toss.shopping/_m/Hgr1xN8n",
+   "source": "toss",
+   "postedAt": 1793029465,
+   "endAt": "2026-10-28T00:00:00+09:00"
+  },
+  {
+   "id": "230802279",
+   "name": "투웨이 집업 가디건 C25CCD901, 그레이, FREE, 1개",
+   "price": 17980,
+   "originalPrice": 98000,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/product/76887481/8937f70a-16d4-4e6b-a57e-6a04cf54feb1.jpg",
+   "link": "https://toss.shopping/_m/rSPL646h",
+   "source": "toss",
+   "postedAt": 1793029462,
+   "endAt": "2026-10-28T00:00:00+09:00"
+  },
+  {
+   "id": "230802283",
+   "name": "투웨이 집업 가디건 C25CCD901, 네이비, FREE, 1개",
+   "price": 17890,
+   "originalPrice": 98000,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/product/76887481/8937f70a-16d4-4e6b-a57e-6a04cf54feb1.jpg",
+   "link": "https://toss.shopping/_m/rtFxY6Sa",
+   "source": "toss",
+   "postedAt": 1793029459,
+   "endAt": "2026-10-28T00:00:00+09:00"
+  },
   {
    "id": "230802281",
    "name": "투웨이 집업 가디건 C25CCD901, 베이지, FREE, 1개",
