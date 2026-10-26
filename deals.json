@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793002137,
+ "updated": 1793002200,
  "deals": [
+  {
+   "id": "2644745939",
+   "name": "한우 1++ 국거리, 200g, 5개",
+   "price": 22320,
+   "originalPrice": 39900,
+   "discount": 44,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-03/528fb8d4-ff4c-4fcc-9e78-6bb8b78a313f.jpeg",
+   "link": "https://toss.shopping/_m/N166NoA9",
+   "source": "toss",
+   "postedAt": 1793002200,
+   "endAt": null
+  },
   {
    "id": "82189401",
    "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
@@ -56,20 +70,6 @@
    "link": "https://toss.shopping/_m/R1l3Nnd2",
    "source": "toss",
    "postedAt": 1792994117,
-   "endAt": null
-  },
-  {
-   "id": "2644745939",
-   "name": "한우 1++ 국거리, 200g, 5개",
-   "price": 22320,
-   "originalPrice": 39900,
-   "discount": 44,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-03/528fb8d4-ff4c-4fcc-9e78-6bb8b78a313f.jpeg",
-   "link": "https://toss.shopping/_m/N166NoA9",
-   "source": "toss",
-   "postedAt": 1792994115,
    "endAt": null
   },
   {
