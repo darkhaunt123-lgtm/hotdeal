@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793033091,
+ "updated": 1793033097,
  "deals": [
+  {
+   "id": "667275061",
+   "name": "뉴트리모션 올인원 데일리 멀티비타민 트리플팩, 30개입, 3박스",
+   "price": 64620,
+   "originalPrice": 239700,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/Y2U0N2U1/QU5YUUtKY3RFU2FmV1V3YzFtTVB6TENKMUhMdFRBeXpsOFp5OWNMU3RMdG8.png",
+   "link": "https://toss.shopping/_m/zBBgsSih",
+   "source": "toss",
+   "postedAt": 1793033097,
+   "endAt": "2026-10-28T00:00:00+09:00"
+  },
+  {
+   "id": "85614109",
+   "name": "리벤스 소프트 클린 화장실 비데티슈, 60매, 10팩",
+   "price": 8990,
+   "originalPrice": 35900,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-23/91711844-c186-4a04-8152-17872222d75b.jpeg",
+   "link": "https://toss.shopping/_m/rcTtAGWe",
+   "source": "toss",
+   "postedAt": 1793033094,
+   "endAt": "2026-10-28T00:00:00+09:00"
+  },
   {
    "id": "70947",
    "name": "코렐 트리버드 타원접시, 특대, 2개, 1세트",
