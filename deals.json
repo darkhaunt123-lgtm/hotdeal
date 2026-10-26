@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793027649,
+ "updated": 1793029456,
  "deals": [
+  {
+   "id": "230802281",
+   "name": "투웨이 집업 가디건 C25CCD901, 베이지, FREE, 1개",
+   "price": 17980,
+   "originalPrice": 98000,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/product/76887481/8937f70a-16d4-4e6b-a57e-6a04cf54feb1.jpg",
+   "link": "https://toss.shopping/_m/DvsPXkN5",
+   "source": "toss",
+   "postedAt": 1793029456,
+   "endAt": "2026-10-28T00:00:00+09:00"
+  },
+  {
+   "id": "222933941",
+   "name": "다모아 두피 브러쉬 마사지기, 1개",
+   "price": 39600,
+   "originalPrice": 209000,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-05/757d97ec-7390-42cb-bd86-d3a61d30b4d0.jpeg",
+   "link": "https://toss.shopping/_m/N6uvWjJ9",
+   "source": "toss",
+   "postedAt": 1793029453,
+   "endAt": "2026-10-28T00:00:00+09:00"
+  },
   {
    "id": "2672098171",
    "name": "바나바로 혈당케어, 1000mg, 60정, 1개",
@@ -1358,76 +1386,6 @@
    "link": "https://toss.shopping/_m/f0x91Fxn",
    "source": "toss",
    "postedAt": 1792771589,
-   "endAt": "2026-10-25T00:00:00+09:00"
-  },
-  {
-   "id": "100622007",
-   "name": "베네베딩 포그리 밴드형 베개커버, 베이비블루, 50x70cm, 2장",
-   "price": 9300,
-   "originalPrice": 56000,
-   "discount": 83,
-   "grade": "무지성급",
-   "category": "가구/홈데코",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-02/33092e80-633f-452e-9f4a-6c8119517348.jpeg",
-   "link": "https://toss.shopping/_m/dtiko3Ex",
-   "source": "toss",
-   "postedAt": 1792769785,
-   "endAt": "2026-10-25T00:00:00+09:00"
-  },
-  {
-   "id": "151413443",
-   "name": "센텔라시카 클렌징오일, 200ml, 1개",
-   "price": 10990,
-   "originalPrice": 51000,
-   "discount": 83,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-12/5b6672e6-c542-41da-a92a-ab96b5afe1e9.jpeg",
-   "link": "https://toss.shopping/_m/faIizfVl",
-   "source": "toss",
-   "postedAt": 1792769782,
-   "endAt": "2026-10-25T00:00:00+09:00"
-  },
-  {
-   "id": "95078121",
-   "name": "베네베딩 보드레잠 베개솜, 화이트, 40x60cm, 2개",
-   "price": 7550,
-   "originalPrice": 48000,
-   "discount": 84,
-   "grade": "무지성급",
-   "category": "가구/홈데코",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-21/ab0ed1d5-2ff9-499a-a766-eb36157fdf7e.jpeg",
-   "link": "https://toss.shopping/_m/pzJ9PlId",
-   "source": "toss",
-   "postedAt": 1792769779,
-   "endAt": "2026-10-25T00:00:00+09:00"
-  },
-  {
-   "id": "56375739",
-   "name": "프룻프룻 건조 능이버섯, 100g, 1개",
-   "price": 16020,
-   "originalPrice": 119900,
-   "discount": 86,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/Yjg1OGFi/YzFvbSt0NWdma1RQeFBvbXpOVDZCUWJEZGJZM1pkdVRmbUREaWxBamhVRT0.png",
-   "link": "https://toss.shopping/_m/ppEW6CDC",
-   "source": "toss",
-   "postedAt": 1792769776,
-   "endAt": "2026-10-25T00:00:00+09:00"
-  },
-  {
-   "id": "852862051",
-   "name": "유한메디카 두뇌 엔 탑 PS 포스파티딜세린 인지력 케어, 1000mg, 60정, 6개",
-   "price": 57060,
-   "originalPrice": 527400,
-   "discount": 89,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ODNhZTY2/QUs2VzQ4YmRTd3VCdkRGSEN4eHBlUE9ISWRjdWVQT3M4dU9NcDVUaDFubHA.png",
-   "link": "https://toss.shopping/_m/dms6Hli8",
-   "source": "toss",
-   "postedAt": 1792769773,
    "endAt": "2026-10-25T00:00:00+09:00"
   }
  ]
