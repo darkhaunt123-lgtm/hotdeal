@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793114988,
+ "updated": 1793116813,
  "deals": [
+  {
+   "id": "468562511",
+   "name": "뉴센트리 MBP엔 소연골 콘드로이친 1200, 600mg, 60정, 4개",
+   "price": 22140,
+   "originalPrice": 140000,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-12-22/8ae4f798-d169-4f9d-9e68-5c3c14772d1c.jpeg",
+   "link": "https://toss.shopping/_m/PIyrSkgw",
+   "source": "toss",
+   "postedAt": 1793116813,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
+  {
+   "id": "2123448925",
+   "name": "드림이음 눈건강 프리미엄 루테인 골드 베타카로틴, 30정, 3개",
+   "price": 9500,
+   "originalPrice": 60000,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-13/e2b51d3a-1ba1-4d48-9b44-70ed831967ab.jpeg",
+   "link": "https://toss.shopping/_m/lxzaJpXt",
+   "source": "toss",
+   "postedAt": 1793116801,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
   {
    "id": "37386375",
    "name": "유한메디카 징코 플러스 엔 탑 혈행 기억력 케어, 60정, 6개",
@@ -1358,62 +1386,6 @@
    "link": "https://toss.shopping/_m/r5IiJ9kx",
    "source": "toss",
    "postedAt": 1792859101,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "2661536617",
-   "name": "크린포유 쉼의온도 그래핀솜 기능성 사계절 침구 차렵이불 패드 세트, 다크그레이, 슈퍼싱글, 1세트",
-   "price": 26200,
-   "originalPrice": 149000,
-   "discount": 82,
-   "grade": "무지성급",
-   "category": "가구/홈데코",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-22/6049f54e-b2c9-4219-a637-6fcc51708cea.jpeg",
-   "link": "https://toss.shopping/_m/7K2CZqGd",
-   "source": "toss",
-   "postedAt": 1792857297,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "2636700035",
-   "name": "베나프 헤르 체크 오버 셔츠 FH3LS002, 베이지, FREE, 1개",
-   "price": 8900,
-   "originalPrice": 55000,
-   "discount": 83,
-   "grade": "무지성급",
-   "category": "패션의류잡화",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-27/e6efb13e-bf92-433d-9933-46bfef9d278a.jpeg",
-   "link": "https://toss.shopping/_m/vsWrupu2",
-   "source": "toss",
-   "postedAt": 1792857294,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "100622011",
-   "name": "베네베딩 포그리 밴드형 베개커버, 레몬크림, 50x70cm, 2장",
-   "price": 9300,
-   "originalPrice": 56000,
-   "discount": 83,
-   "grade": "무지성급",
-   "category": "가구/홈데코",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-02/64441b64-db0f-497c-b41c-1aae37d0ca14.jpeg",
-   "link": "https://toss.shopping/_m/VzDq2dFx",
-   "source": "toss",
-   "postedAt": 1792857291,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "165626197",
-   "name": "한국생활건강연구소 호리온 부스터 식물성 멜라토닌, 800mg, 30정, 4개",
-   "price": 26900,
-   "originalPrice": 200000,
-   "discount": 86,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-24/c4725a5e-1e97-458c-9710-a937093df9d8.jpeg",
-   "link": "https://toss.shopping/_m/7WVn5L8l",
-   "source": "toss",
-   "postedAt": 1792857285,
    "endAt": "2026-10-26T00:00:00+09:00"
   }
  ]
