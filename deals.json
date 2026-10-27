@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793124249,
+ "updated": 1793124274,
  "deals": [
+  {
+   "id": "40626971",
+   "name": "이지드롭 변기크리너 리필, 레몬향, 12개입, 4팩",
+   "price": 15240,
+   "originalPrice": 50000,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-03/5e79e2b8-8460-4aea-aadc-75b96e79cb87.jpeg",
+   "link": "https://toss.shopping/_m/b5QqTtPf",
+   "source": "toss",
+   "postedAt": 1793124274,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
+  {
+   "id": "2278206385",
+   "name": "퓨노센스 포텍트 비건 선크림, 50ml, 1개",
+   "price": 7510,
+   "originalPrice": 24800,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-09/960dcf23-da6b-4dd6-8469-4dff83085bc8.png",
+   "link": "https://toss.shopping/_m/hgEfBoz9",
+   "source": "toss",
+   "postedAt": 1793124262,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
   {
    "id": "2211412713",
    "name": "파비컷플로라 알파CD 맥스, 120정, 6개",
