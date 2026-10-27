@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793120543,
+ "updated": 1793120554,
  "deals": [
+  {
+   "id": "87608693",
+   "name": "쉬젤 워터짐 텀블러, 올리브카키, 1.2L, 1개",
+   "price": 12660,
+   "originalPrice": 50900,
+   "discount": 75,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmRhYTQ2/Ylphd1RNNHJ4NU00VE93eTU0TWZ4TXc1NGp3ZHhnK1I0ZzhZOXpWdzkwZz0.png",
+   "link": "https://toss.shopping/_m/FZoExbNo",
+   "source": "toss",
+   "postedAt": 1793120554,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
   {
    "id": "2202587411",
    "name": "케라시스 두피 쿨링 단백질 샴푸, 지성 비듬, 980ml, 2개",
