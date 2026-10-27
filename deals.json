@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793118678,
+ "updated": 1793118697,
  "deals": [
+  {
+   "id": "275887375",
+   "name": "보랄 리미티드 에디션 5L 에어프라이어, BR E808AF, 아이보리톤, 1개",
+   "price": 33700,
+   "originalPrice": 159000,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ODgyNDRm/QU1sU2FRd0dPTjJtcGRwMjI5Y2pqYmtxSEpZa1NabHJSdHRqaE5vUXpMYkw.png",
+   "link": "https://toss.shopping/_m/bhf7uHcl",
+   "source": "toss",
+   "postedAt": 1793118697,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
+  {
+   "id": "171960023",
+   "name": "에이시크 데일리 스트라이프 니트 티셔츠 C24CTS663, 블루, FREE, 1개",
+   "price": 14500,
+   "originalPrice": 72000,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-11-15/29925a3b-b08d-410b-89b4-752d07787238.jpeg",
+   "link": "https://toss.shopping/_m/z3tFd4uC",
+   "source": "toss",
+   "postedAt": 1793118688,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
   {
    "id": "2658864885",
    "name": "제주 극조생 햇 감귤, 대과, 5kg, 1박스",
