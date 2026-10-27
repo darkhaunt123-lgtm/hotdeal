@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793075054,
+ "updated": 1793089328,
  "deals": [
+  {
+   "id": "199019609",
+   "name": "아침빛바다 어묵만 꼬치어묵, 350g, 3봉",
+   "price": 9260,
+   "originalPrice": 12900,
+   "discount": 28,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YzdkMGFj/V2ZrTjR6T1Q0alprdHNTOGprMGVrMlhNclJ0R2p1Tkpackw2RVlnN09Edz0.png",
+   "link": "https://toss.shopping/_m/vPACrVD9",
+   "source": "toss",
+   "postedAt": 1793089328,
+   "endAt": null
+  },
+  {
+   "id": "2335430413",
+   "name": "이롬 황성주 국산콩두유 무가당 고칼슘, 190ml, 32개",
+   "price": 14560,
+   "originalPrice": 33600,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmJkZjg3/QU50RHROaHRzMXVtczI2OWE1NldLRU5KYVVJWGxyVDE4R1RZbG1rZUpTa0c.png",
+   "link": "https://toss.shopping/_m/Nc6Qc9Jj",
+   "source": "toss",
+   "postedAt": 1793089312,
+   "endAt": null
+  },
+  {
+   "id": "2373707067",
+   "name": "김설희 고기손만두, 420g, 2봉 + 김치손만두, 420g, 2봉",
+   "price": 11070,
+   "originalPrice": 26000,
+   "discount": 57,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-02-18/632cecbf-58fa-4fe3-aeef-3a9dadea44ec.jpeg",
+   "link": "https://toss.shopping/_m/R4vTo3f2",
+   "source": "toss",
+   "postedAt": 1793089300,
+   "endAt": null
+  },
   {
    "id": "2089518011",
    "name": "멕시카나 닭강정, 매콤달콤 500g 2개 + 마늘간장 500g 1개, 3개",
@@ -1373,48 +1415,6 @@
    "source": "toss",
    "postedAt": 1792855469,
    "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "127588345",
-   "name": "국내산 횟감 활 흰다리새우, 1kg, 1팩",
-   "price": 16600,
-   "originalPrice": 48900,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-01/4ec0f8db-7c02-43a6-be5c-c3397638207a.png",
-   "link": "https://toss.shopping/_m/LyerQi1g",
-   "source": "toss",
-   "postedAt": 1792828476,
-   "endAt": null
-  },
-  {
-   "id": "271918131",
-   "name": "시원밥상 배추김치, 5kg, 1박스",
-   "price": 8790,
-   "originalPrice": 17000,
-   "discount": 48,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjFiOTQy/QUpteG05c2hhWW56dGlSU1RzVDh5TnZvbHJrTHZDTlhLd3JVUHFXMVVNM2M.png",
-   "link": "https://toss.shopping/_m/NPmqLTk2",
-   "source": "toss",
-   "postedAt": 1792828230,
-   "endAt": null
-  },
-  {
-   "id": "cp7455864274",
-   "name": "쿠쿠 미니 믹서기",
-   "price": 19000,
-   "originalPrice": null,
-   "discount": 0,
-   "grade": "특가",
-   "category": "기타",
-   "thumbnail": null,
-   "link": "https://link.coupang.com/a/h6uFBjk2ZU",
-   "source": "coupang",
-   "postedAt": 1792822149,
-   "endAt": null
   }
  ]
 }
