@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793068662,
+ "updated": 1793075054,
  "deals": [
+  {
+   "id": "2089518011",
+   "name": "멕시카나 닭강정, 매콤달콤 500g 2개 + 마늘간장 500g 1개, 3개",
+   "price": 17900,
+   "originalPrice": 30000,
+   "discount": 40,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-11-03/400af32f-7a7e-41a3-a8c2-9ac69af3d272.png",
+   "link": "https://toss.shopping/_m/7SQE9YI8",
+   "source": "toss",
+   "postedAt": 1793075054,
+   "endAt": null
+  },
   {
    "id": "1239471885",
    "name": "맛꾼 메추리알 장조림, 1kg, 2개",
@@ -1400,20 +1414,6 @@
    "link": "https://link.coupang.com/a/h6uFBjk2ZU",
    "source": "coupang",
    "postedAt": 1792822149,
-   "endAt": null
-  },
-  {
-   "id": "651526161",
-   "name": "스파클 생수, 무라벨, 500ml, 80개",
-   "price": 11900,
-   "originalPrice": 24000,
-   "discount": 50,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-09/1ca62748-4d8c-4131-a992-6f968acf7829.jpeg",
-   "link": "https://toss.shopping/_m/782URoV4",
-   "source": "toss",
-   "postedAt": 1792811714,
    "endAt": null
   }
  ]
