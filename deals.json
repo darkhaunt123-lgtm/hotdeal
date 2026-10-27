@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793122380,
+ "updated": 1793122413,
  "deals": [
+  {
+   "id": "2661643749",
+   "name": "대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
+   "price": 5800,
+   "originalPrice": 18900,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDhkMGM1/QU9BT3MwUVJYdmFJVXZGQkJOMnpmcldWQndoNktHL01XR1BjQUx0bGVQQU8.png",
+   "link": "https://toss.shopping/_m/faafzAqd",
+   "source": "toss",
+   "postedAt": 1793122413,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
+  {
+   "id": "148065759",
+   "name": "고기중독 양념 LA갈비, 1kg, 1팩",
+   "price": 14900,
+   "originalPrice": 51000,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-08/c34140cc-2e6f-4e1f-b48e-af9eac2ced63.jpeg",
+   "link": "https://toss.shopping/_m/laltRrLy",
+   "source": "toss",
+   "postedAt": 1793122402,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
+  {
+   "id": "2573081313",
+   "name": "봄마중 황매실청, 1000ml, 6개",
+   "price": 41430,
+   "originalPrice": 150000,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-04/123cf14f-9253-4c93-a816-0fd9f12dd353.jpeg",
+   "link": "https://toss.shopping/_m/TKTMKdhh",
+   "source": "toss",
+   "postedAt": 1793122392,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
   {
    "id": "2279874903",
    "name": "리빙아트 프로벨라 핸들형 스텐 김치통, 4200ml, 1개",
