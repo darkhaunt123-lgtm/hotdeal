@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793120511,
+ "updated": 1793120543,
  "deals": [
+  {
+   "id": "2202587411",
+   "name": "케라시스 두피 쿨링 단백질 샴푸, 지성 비듬, 980ml, 2개",
+   "price": 9800,
+   "originalPrice": 39900,
+   "discount": 75,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-09/f6b9ea92-09d9-4854-889f-acc6de868e8b.png",
+   "link": "https://toss.shopping/_m/L1ODEQvn",
+   "source": "toss",
+   "postedAt": 1793120543,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
+  {
+   "id": "46393937",
+   "name": "다용도 3M 선정리 벨크로, 흰색, 20개",
+   "price": 2600,
+   "originalPrice": 11800,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NzFjZjdm/QUkvQUtQeTV2enNQWmdkdTNrbndXNzhhUDNPSFZNZFVzM0FoSERrU0R2Yzg.png",
+   "link": "https://toss.shopping/_m/1jdrowgh",
+   "source": "toss",
+   "postedAt": 1793120533,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
+  {
+   "id": "2546103057",
+   "name": "뉴트리원 면역앤 생 유산균, 100포, 1개",
+   "price": 13600,
+   "originalPrice": 59900,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MjliYTBj/TlczOVNhNEc2TG5STGsyV09ubmoxajQxMjZ0azJaMDA0dUVXclIrSStYST0.png",
+   "link": "https://toss.shopping/_m/lsto7kTp",
+   "source": "toss",
+   "postedAt": 1793120523,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
   {
    "id": "2636092631",
    "name": "종합전병, 720g, 1개",
