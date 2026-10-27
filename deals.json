@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793116813,
+ "updated": 1793116846,
  "deals": [
+  {
+   "id": "2658809823",
+   "name": "청도반시, 혼합과, 5kg, 1박스",
+   "price": 9330,
+   "originalPrice": 51900,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-26/885558ed-e6f6-44fc-be7b-4a93b4eae74e.png",
+   "link": "https://toss.shopping/_m/57hstzXo",
+   "source": "toss",
+   "postedAt": 1793116846,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
+  {
+   "id": "2673105531",
+   "name": "당도선별 제주 감귤, 12.5brix, 중과, 10kg, 1박스",
+   "price": 13990,
+   "originalPrice": 77900,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-07/0e6c9b61-ce3d-4b9a-b2f7-53c535f5a6cb.png",
+   "link": "https://toss.shopping/_m/VfsopPbv",
+   "source": "toss",
+   "postedAt": 1793116833,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
+  {
+   "id": "2307084003",
+   "name": "식물유래섬유 부드러운 레이온 일회용 베개커버, 화이트, 600x450mm, 20매, 1개",
+   "price": 5120,
+   "originalPrice": 33000,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "가구/홈데코",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-01/4cfd64da-0502-4950-9715-9aba4cbd32dc.jpeg",
+   "link": "https://toss.shopping/_m/Dm66xuWo",
+   "source": "toss",
+   "postedAt": 1793116823,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
   {
    "id": "468562511",
    "name": "뉴센트리 MBP엔 소연골 콘드로이친 1200, 600mg, 60정, 4개",
