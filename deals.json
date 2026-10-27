@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793114978,
+ "updated": 1793114988,
  "deals": [
+  {
+   "id": "37386375",
+   "name": "유한메디카 징코 플러스 엔 탑 혈행 기억력 케어, 60정, 6개",
+   "price": 27660,
+   "originalPrice": 275400,
+   "discount": 89,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Njk5NDE1/QU9ZWElwYjlTYm5KdkRIWGpSeHBOV01lSzc0ZVBOSVk4T0hjNDViamx2aHA.png",
+   "link": "https://toss.shopping/_m/xh6l1ubn",
+   "source": "toss",
+   "postedAt": 1793114988,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
   {
    "id": "2473208783",
    "name": "블로즈 엑소셀 마스크팩, 5매입, 5개",
