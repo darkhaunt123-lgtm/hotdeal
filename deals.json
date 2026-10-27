@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793089328,
+ "updated": 1793114946,
  "deals": [
+  {
+   "id": "1649541659",
+   "name": "예지미인 데일리센스 요실금 기저귀 팬티형, 중형, 10개입, 8팩",
+   "price": 27320,
+   "originalPrice": 400000,
+   "discount": 93,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-23/abbc7492-0ea6-4cf7-9368-c720f97ac2d5.jpeg",
+   "link": "https://toss.shopping/_m/zJEMfEGt",
+   "source": "toss",
+   "postedAt": 1793114946,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
   {
    "id": "199019609",
    "name": "아침빛바다 어묵만 꼬치어묵, 350g, 3봉",
@@ -1344,76 +1358,6 @@
    "link": "https://toss.shopping/_m/7WVn5L8l",
    "source": "toss",
    "postedAt": 1792857285,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "1206282903",
-   "name": "천상비기 마가목 프리미엄 건강즙 선물세트, 60ml, 30포, 1개",
-   "price": 40900,
-   "originalPrice": 368000,
-   "discount": 88,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MjdkNTJh/WDFEMXF4NFVxRDN4L0NxUFZYclRxMGY2UDArcDVialdQd1cvMFY5QVZXZz0.png",
-   "link": "https://toss.shopping/_m/PA0UQ9Da",
-   "source": "toss",
-   "postedAt": 1792855481,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "240280587",
-   "name": "라이프턴 퍼스트 엑스트라버진 올리브오일 캡슐 100, 30캡슐, 6박스",
-   "price": 16500,
-   "originalPrice": 180000,
-   "discount": 90,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-10-10/e03b4240-ae99-4957-ace3-a2c05b52c3bb.jpeg",
-   "link": "https://toss.shopping/_m/NEVO8ooy",
-   "source": "toss",
-   "postedAt": 1792855478,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "1656078339",
-   "name": "클레오르 아놀드파마 린넨 밴딩 데일리 팬츠, 블랙, FREE",
-   "price": 5100,
-   "originalPrice": 79000,
-   "discount": 93,
-   "grade": "무지성급",
-   "category": "패션의류잡화",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-11/47eb7a3b-5950-49c7-8c0b-1a460aa80d94.jpeg",
-   "link": "https://toss.shopping/_m/JFfEGtrh",
-   "source": "toss",
-   "postedAt": 1792855475,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "264318289",
-   "name": "영진약품 초임계 알티지오메가3 퓨어골드, 30.96g, 30캡슐, 4박스",
-   "price": 20340,
-   "originalPrice": 400000,
-   "discount": 94,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZjczMWUx/WjNGdEszYnQzYmZLNGRyeE9lSDB6Ry94QS9UNTBWcHZpN0hKOEc1RVB3cz0.png",
-   "link": "https://toss.shopping/_m/9gD7GSRD",
-   "source": "toss",
-   "postedAt": 1792855472,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "2515148845",
-   "name": "레이데이 24K골드 남성 2종, 에멀젼, 150ml, 1개 + 30ml, 1개 + 토너, 150ml, 1개 + 30ml, 1개",
-   "price": 14960,
-   "originalPrice": 299000,
-   "discount": 94,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NjVmNzVh/TE41NHc3VHVtTTZHT1NjME5mRWs4VnR4YVBOUGlTV0hXQ05OaHVENTVMYz0.png",
-   "link": "https://toss.shopping/_m/Vj9iIwnr",
-   "source": "toss",
-   "postedAt": 1792855469,
    "endAt": "2026-10-26T00:00:00+09:00"
   }
  ]
