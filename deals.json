@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793122413,
+ "updated": 1793124249,
  "deals": [
+  {
+   "id": "2211412713",
+   "name": "파비컷플로라 알파CD 맥스, 120정, 6개",
+   "price": 36720,
+   "originalPrice": 120000,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZTcwOGJk/VkZSd0Q0SFU1OEJnRDNDZWNSei9oOEhEdzk1MkwwM2hIK0E5dkZWY2ptRT0.png",
+   "link": "https://toss.shopping/_m/Do73YA42",
+   "source": "toss",
+   "postedAt": 1793124249,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
+  {
+   "id": "2651778915",
+   "name": "헬로바이오 두뇌 인지력 케어엔 포스파티딜세린 PS 300, 30포, 3개",
+   "price": 24280,
+   "originalPrice": 79900,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-08/e3564756-8ec1-4300-b737-884bd9b5470a.jpeg",
+   "link": "https://toss.shopping/_m/5GabsJNz",
+   "source": "toss",
+   "postedAt": 1793124237,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
+  {
+   "id": "2656271027",
+   "name": "전라도 알타리 총각김치, 3kg, 1개",
+   "price": 12970,
+   "originalPrice": 41880,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-15/6584c797-e740-4ea7-9872-65183f7f5327.png",
+   "link": "https://toss.shopping/_m/Vxl8er7x",
+   "source": "toss",
+   "postedAt": 1793124226,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
   {
    "id": "2661643749",
    "name": "대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
@@ -1359,76 +1401,6 @@
    "source": "toss",
    "postedAt": 1792897875,
    "endAt": null
-  },
-  {
-   "id": "1354289893",
-   "name": "패치큐 나인슬림 패치, 10매입, 1팩",
-   "price": 9500,
-   "originalPrice": 33100,
-   "discount": 71,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-01/2cd3d32d-262c-4dd6-89bb-7909e7ce2c0a.png",
-   "link": "https://toss.shopping/_m/NRh7Db21",
-   "source": "toss",
-   "postedAt": 1792864561,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "9032003",
-   "name": "손바닥 쥐포, 30장, 2봉",
-   "price": 14330,
-   "originalPrice": 42800,
-   "discount": 71,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ODE5YTc1/QUlZczhIbnZmTWpGSnZSYTFCTEc2T1NxTkk5STNjVXdQSnk0OFhwa1FVK0Q.png",
-   "link": "https://toss.shopping/_m/HowvYcFC",
-   "source": "toss",
-   "postedAt": 1792864558,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "2317495193",
-   "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 2개",
-   "price": 14310,
-   "originalPrice": 49800,
-   "discount": 71,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MTU1NzAz/U1U1bEppY21rTnZjMnlNa2dTVGt5VXRrQ1pZY2xpSmJ0bHZkQjdKYkFMdz0.png",
-   "link": "https://toss.shopping/_m/DACw8ccx",
-   "source": "toss",
-   "postedAt": 1792864555,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "9031999",
-   "name": "손바닥 쥐포, 30장, 1봉",
-   "price": 8730,
-   "originalPrice": 22900,
-   "discount": 71,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-04-17/a2a179d1-82aa-47ad-8eae-852258f5bacf.jpeg",
-   "link": "https://toss.shopping/_m/dLxocNwt",
-   "source": "toss",
-   "postedAt": 1792864552,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "141908729",
-   "name": "서가 메탈 고속충전 케이블, C타입, 핑크, 1.5m, 2개",
-   "price": 2970,
-   "originalPrice": 10900,
-   "discount": 72,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDFhYTZk/QUt1RGp0dXpabkY2anJzZWczNlo0R1FDUk90RkFmejU0T3dvQXd2b0NRTWY.png",
-   "link": "https://toss.shopping/_m/rtyoDBFs",
-   "source": "toss",
-   "postedAt": 1792864549,
-   "endAt": "2026-10-26T00:00:00+09:00"
   }
  ]
 }
