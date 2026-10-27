@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793118697,
+ "updated": 1793120511,
  "deals": [
+  {
+   "id": "2636092631",
+   "name": "종합전병, 720g, 1개",
+   "price": 6760,
+   "originalPrice": 29900,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZTllZmFh/ZGVXcG4xRDRuY2FaQjh0V1RPb1hraDZPYmVMeG92WWJ6RTU1SmFLcnhGbz0.png",
+   "link": "https://toss.shopping/_m/lKoXDW92",
+   "source": "toss",
+   "postedAt": 1793120511,
+   "endAt": "2026-10-29T00:00:00+09:00"
+  },
   {
    "id": "275887375",
    "name": "보랄 리미티드 에디션 5L 에어프라이어, BR E808AF, 아이보리톤, 1개",
@@ -1358,76 +1372,6 @@
    "link": "https://toss.shopping/_m/RBFEw5rs",
    "source": "toss",
    "postedAt": 1792862733,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "1471480165",
-   "name": "펩시 클리어 스퀘어 데스크 선풍기 PEP-ZERO33, 블랙, 1개",
-   "price": 9600,
-   "originalPrice": 39900,
-   "discount": 75,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZWU0OWQ3/RDVrVlNpeVp0am5TWitobFRTdExoaVdXdnJsc050SllvdGJLbEgxQUpTcz0.png",
-   "link": "https://toss.shopping/_m/3CNKZT2v",
-   "source": "toss",
-   "postedAt": 1792860929,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "2636693339",
-   "name": "여성용 캐릭터 자수 발목 양말, FREE(220-250mm), 10켤레, 1세트",
-   "price": 12000,
-   "originalPrice": 42400,
-   "discount": 76,
-   "grade": "무지성급",
-   "category": "패션의류잡화",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-28/3aaf4dfd-5fdc-4066-90e2-f40e5705ba16.jpeg",
-   "link": "https://toss.shopping/_m/NoSQis3r",
-   "source": "toss",
-   "postedAt": 1792860926,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "7495179",
-   "name": "남성 포시즌 베이직 중목양말, 블랙, FREE, 10켤레, 1세트",
-   "price": 6990,
-   "originalPrice": 30000,
-   "discount": 76,
-   "grade": "무지성급",
-   "category": "패션의류잡화",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjM3MzNl/QUs2em9VeFduMjB3bVdGeTc3YlRmYTFOM2xvejBzUXJtZTVXcWxOVnROVnM.png",
-   "link": "https://toss.shopping/_m/xJH4D6Cj",
-   "source": "toss",
-   "postedAt": 1792860923,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "193293927",
-   "name": "자동차 하이브리드 와이퍼, 650mm + 400mm, 1세트",
-   "price": 4680,
-   "originalPrice": 19800,
-   "discount": 76,
-   "grade": "무지성급",
-   "category": "자동차용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTMzZTVl/QU0vbC80M1VHVUE3VFhKMDhqZVB5M0YxNHNvSGhRNTAvUDFZZzRFQ01YK3E.png",
-   "link": "https://toss.shopping/_m/hfaO03ze",
-   "source": "toss",
-   "postedAt": 1792860920,
-   "endAt": "2026-10-26T00:00:00+09:00"
-  },
-  {
-   "id": "1093819371",
-   "name": "포레스티 국내제조 땅콩버터, 무첨가, 무가당, 무설탕, 450g, 2개",
-   "price": 11870,
-   "originalPrice": 50000,
-   "discount": 76,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-05-28/d3fd1ad9-465d-4067-8306-daad600ecb29.jpeg",
-   "link": "https://toss.shopping/_m/fgglRZF9",
-   "source": "toss",
-   "postedAt": 1792860917,
    "endAt": "2026-10-26T00:00:00+09:00"
   }
  ]
