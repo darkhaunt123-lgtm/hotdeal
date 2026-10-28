@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793179831,
+ "updated": 1793199979,
  "deals": [
+  {
+   "id": "12583897",
+   "name": "대원제약 눈건강 파워 루테인 골드, 500mg, 30캡슐, 4개",
+   "price": 12900,
+   "originalPrice": 100000,
+   "discount": 87,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/product/680671/4508f5ff-4514-4ac4-9992-2ed7c288a3aa.jpg",
+   "link": "https://toss.shopping/_m/JLmOK7Pe",
+   "source": "toss",
+   "postedAt": 1793199979,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
   {
    "id": "124966371",
    "name": "빙그레 아카페라 심플리, 디카페인 아메리카노, 400ml, 20개",
