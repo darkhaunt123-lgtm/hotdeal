@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793201849,
+ "updated": 1793201883,
  "deals": [
+  {
+   "id": "1266995407",
+   "name": "휴플러스 두피 EMS 마사지기, CORDZERO-DP111, 실버, 1개",
+   "price": 42600,
+   "originalPrice": 209000,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-02-09/b4bf802c-a729-4ae5-b013-4e05884e66c6.jpeg",
+   "link": "https://toss.shopping/_m/HkGLkqlm",
+   "source": "toss",
+   "postedAt": 1793201883,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
+  {
+   "id": "2556076707",
+   "name": "곰팡이 제거 발포 세탁조 클리너, 220g, 2박스",
+   "price": 10310,
+   "originalPrice": 49900,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Zjk1ZTkw/TXNhWmVHd1BGbXpibGtqMjVoMDlaa3I0WVljZWVFOWNlQ2VIM3JraHVDRT0.png",
+   "link": "https://toss.shopping/_m/Jrfp4r06",
+   "source": "toss",
+   "postedAt": 1793201871,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
+  {
+   "id": "210243315",
+   "name": "휴비딕 무릎보호대, HS-2, 모던 그레이, 2개",
+   "price": 12660,
+   "originalPrice": 64900,
+   "discount": 80,
+   "grade": "무지성급",
+   "category": "스포츠/레져",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-20/d50ce242-fde6-45fd-8b96-1ab445ae941b.jpeg",
+   "link": "https://toss.shopping/_m/D2MeiZBi",
+   "source": "toss",
+   "postedAt": 1793201860,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
   {
    "id": "11240263",
    "name": "김애경 기모 고무장갑, 5개",
