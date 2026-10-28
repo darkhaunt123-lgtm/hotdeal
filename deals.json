@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793229780,
+ "updated": 1793229800,
  "deals": [
+  {
+   "id": "2578047277",
+   "name": "쏘울너츠 100프로 땅콩버터 슈퍼크런치, 500g, 1개",
+   "price": 5330,
+   "originalPrice": 15000,
+   "discount": 64,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-14/36ad27f8-1368-4f79-be66-e882adcc8b47.jpeg",
+   "link": "https://toss.shopping/_m/diHOA1Ea",
+   "source": "toss",
+   "postedAt": 1793229800,
+   "endAt": null
+  },
+  {
+   "id": "124956497",
+   "name": "서가팜 난각번호1번 무항생제 유정란, 40구, 1박스",
+   "price": 18230,
+   "originalPrice": 31900,
+   "discount": 42,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-16/1cffe221-dc7d-4842-a15f-5025e87e4959.jpeg",
+   "link": "https://toss.shopping/_m/Nxtn5Jzo",
+   "source": "toss",
+   "postedAt": 1793229790,
+   "endAt": null
+  },
   {
    "id": "1274153153",
    "name": "드리온 PD25W GaN PPS C타입 2포트 초고속 충전기, 버터옐로, CtoC 케이블 포함, 1개",
