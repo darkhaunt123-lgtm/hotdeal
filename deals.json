@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793209314,
+ "updated": 1793229750,
  "deals": [
+  {
+   "id": "2637400321",
+   "name": "한우물 햄야채 볶음밥, 210g, 10개",
+   "price": 10160,
+   "originalPrice": 26000,
+   "discount": 60,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-22/67854af3-a012-4ef9-ba29-705eb38ef9ed.png",
+   "link": "https://toss.shopping/_m/9ry4ziHu",
+   "source": "toss",
+   "postedAt": 1793229750,
+   "endAt": null
+  },
   {
    "id": "2667047129",
    "name": "여수 돌산 갓김치, 3kg, 1개",
@@ -1443,76 +1457,6 @@
    "source": "toss",
    "postedAt": 1792994117,
    "endAt": null
-  },
-  {
-   "id": "1414687549",
-   "name": "헬로 바이오 생유산균 19 프로바이오틱스, 30캡슐, 6개",
-   "price": 16600,
-   "originalPrice": 51900,
-   "discount": 68,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-06/9b518bf9-a962-4a6a-b6d3-3ab944c59886.jpeg",
-   "link": "https://toss.shopping/_m/1yMRH9Nk",
-   "source": "toss",
-   "postedAt": 1792950163,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "438304075",
-   "name": "종표 쫄깃 국수, 1.5kg, 1개",
-   "price": 6140,
-   "originalPrice": 12900,
-   "discount": 68,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MGQxMWZk/V3RjZU5tMW0rUFRoejJIMkJhemxpSDZjRmgvQ1BQcTVxOUFKWGxWRFMyaz0.png",
-   "link": "https://toss.shopping/_m/L6s7hZtc",
-   "source": "toss",
-   "postedAt": 1792950160,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "103952747",
-   "name": "농산물마루 국내산 아삭아삭 신선한 미니오이, 2kg, 1박스",
-   "price": 7600,
-   "originalPrice": 24900,
-   "discount": 69,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-05-17/f659e451-368f-47a4-a380-4eb5aefc4474.png",
-   "link": "https://toss.shopping/_m/7JM30by9",
-   "source": "toss",
-   "postedAt": 1792950156,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "2636466755",
-   "name": "일양약품 멜라 피디알엔 리페어 액티브 크림, 30g, 2개",
-   "price": 9600,
-   "originalPrice": 31800,
-   "discount": 69,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-28/89488a35-e17a-4d70-9d9f-dda9ca37cec4.png",
-   "link": "https://toss.shopping/_m/xWQbgSq7",
-   "source": "toss",
-   "postedAt": 1792950153,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "1551525783",
-   "name": "크리스탈 생수, 무라벨, 2L, 12개",
-   "price": 5350,
-   "originalPrice": 18000,
-   "discount": 70,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDJhODJl/QU9QSjloNDhKM0I3amlaRHpGTDB4dmxMNjk3bXZCbXZFYTlSdUZ0V3RFYnQ.png",
-   "link": "https://toss.shopping/_m/j8NaVnu2",
-   "source": "toss",
-   "postedAt": 1792950150,
-   "endAt": "2026-10-27T00:00:00+09:00"
   }
  ]
 }
