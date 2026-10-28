@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793205600,
+ "updated": 1793207412,
  "deals": [
+  {
+   "id": "2650469941",
+   "name": "닥터방기원 비어이스트 맥주효모 탈모샴푸, 1000ml, 2개 + 랩 탈모샴푸 8ml 샤쉐 3매 증정",
+   "price": 16130,
+   "originalPrice": 60000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-02/820366cc-7f05-4fc9-8029-f4b739153007.png",
+   "link": "https://toss.shopping/_m/hlDYkUNu",
+   "source": "toss",
+   "postedAt": 1793207412,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
   {
    "id": "301787883",
    "name": "헬로바이오 알파CD 원데이핏 알파시글로덱스트린, 3g, 14포, 12개",
@@ -1442,76 +1456,6 @@
    "link": "https://toss.shopping/_m/B9vMXf2w",
    "source": "toss",
    "postedAt": 1792948333,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "1120877087",
-   "name": "드네드 딥 코어 밸런스 토너, 200ml, 1개",
-   "price": 8210,
-   "originalPrice": 34000,
-   "discount": 75,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-29/9835650f-c1b4-477c-b85a-19008fe53668.jpeg",
-   "link": "https://toss.shopping/_m/pWi3Embd",
-   "source": "toss",
-   "postedAt": 1792946529,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "2636738805",
-   "name": "의령농산 국내산 가정용 청양고추, 1kg, 1박스",
-   "price": 4950,
-   "originalPrice": 19900,
-   "discount": 75,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-27/bce6f67c-efde-480d-8137-bc13cf03c5ac.jpeg",
-   "link": "https://toss.shopping/_m/PlIvE1CD",
-   "source": "toss",
-   "postedAt": 1792946526,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "11878905",
-   "name": "비욘드오리진 효소N 곡물발효효소, 3g, 100포, 1박스",
-   "price": 14000,
-   "originalPrice": 60000,
-   "discount": 76,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/product/582461/c01d7147-460b-4f6f-b31f-b2959e9d6309.jpg",
-   "link": "https://toss.shopping/_m/z3ndXOmx",
-   "source": "toss",
-   "postedAt": 1792946522,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "2641870733",
-   "name": "과일꾼 제주 극조생 감귤, 로얄과, 3kg, 1박스",
-   "price": 8720,
-   "originalPrice": 38900,
-   "discount": 77,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-20/3d9798f4-0c1e-4614-ba47-f091bb6aa7be.jpeg",
-   "link": "https://toss.shopping/_m/rYVqW2ns",
-   "source": "toss",
-   "postedAt": 1792946519,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "215194531",
-   "name": "철이네 제주 노지 감귤, 특상품, 로얄과, 5kg, 1박스",
-   "price": 8430,
-   "originalPrice": 40000,
-   "discount": 78,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-06/ff52cc0f-0912-4a3a-98eb-ddf698d4fb32.jpeg",
-   "link": "https://toss.shopping/_m/JJ3V9eto",
-   "source": "toss",
-   "postedAt": 1792946516,
    "endAt": "2026-10-27T00:00:00+09:00"
   }
  ]
