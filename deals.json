@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793229750,
+ "updated": 1793229780,
  "deals": [
+  {
+   "id": "1274153153",
+   "name": "드리온 PD25W GaN PPS C타입 2포트 초고속 충전기, 버터옐로, CtoC 케이블 포함, 1개",
+   "price": 4810,
+   "originalPrice": 7100,
+   "discount": 32,
+   "grade": "대박",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-26/4c84bf84-9d97-40c6-8b1e-ffd0699b1683.jpeg",
+   "link": "https://toss.shopping/_m/lPwEtDkm",
+   "source": "toss",
+   "postedAt": 1793229780,
+   "endAt": null
+  },
+  {
+   "id": "96401127",
+   "name": "대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
+   "price": 8400,
+   "originalPrice": 15000,
+   "discount": 44,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MTY3NDRj/QUxoMEhrbTJjWk16MGN6THpuT3g1elRqUFBOTXdldzQ4Nnp4UERscDRkdFQ.png",
+   "link": "https://toss.shopping/_m/Z8Vx2Zyt",
+   "source": "toss",
+   "postedAt": 1793229770,
+   "endAt": null
+  },
+  {
+   "id": "90143353",
+   "name": "풀무원 샘물 생수, 무라벨, 2L, 12개",
+   "price": 4960,
+   "originalPrice": 10600,
+   "discount": 53,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTVkZmRk/QU9TY2h3MWFQSHljNWNOYWNWdlRaa2U5YjdXemhqd2N6RkMwNlRvajBGYkY.png",
+   "link": "https://toss.shopping/_m/JW1Zqb5g",
+   "source": "toss",
+   "postedAt": 1793229762,
+   "endAt": null
+  },
   {
    "id": "2637400321",
    "name": "한우물 햄야채 볶음밥, 210g, 10개",
