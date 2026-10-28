@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793159669,
+ "updated": 1793179819,
  "deals": [
+  {
+   "id": "2439287011",
+   "name": "베니하루카 꿀고구마, 랜덤과, 10kg, 1박스",
+   "price": 14900,
+   "originalPrice": 40900,
+   "discount": 63,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-08/eec02df4-319c-445f-8fa0-120396b199fd.png",
+   "link": "https://toss.shopping/_m/J5VOddJj",
+   "source": "toss",
+   "postedAt": 1793179819,
+   "endAt": null
+  },
+  {
+   "id": "2287417559",
+   "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
+   "price": 15010,
+   "originalPrice": 34900,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
+   "link": "https://toss.shopping/_m/jXwcalAs",
+   "source": "toss",
+   "postedAt": 1793179805,
+   "endAt": null
+  },
   {
    "id": "275887375",
    "name": "보랄 리미티드 에디션 5L 에어프라이어, BR E808AF, 아이보리톤, 1개",
@@ -1401,20 +1429,6 @@
    "source": "toss",
    "postedAt": 1792941067,
    "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "828735177",
-   "name": "휴플러스 목 어깨 베개 마사지기, CORDZERO-P80, 화이트, 1개",
-   "price": 33060,
-   "originalPrice": 200000,
-   "discount": 83,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjAwM2Rm/QUk1VG0xTnA1bXpzbnh2MU85YWJwbHRjYkduTXQ1UFdvU3RZMnkyY3RMbFc.png",
-   "link": "https://toss.shopping/_m/RWQ2juer",
-   "source": "toss",
-   "postedAt": 1792909733,
-   "endAt": null
   }
  ]
 }
