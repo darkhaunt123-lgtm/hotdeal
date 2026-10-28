@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793203718,
+ "updated": 1793203742,
  "deals": [
+  {
+   "id": "921198899",
+   "name": "SKY 5단 음파 전동 칫솔, ST10, 칫솔모 4개입, 샴페인화이트, 2개",
+   "price": 19000,
+   "originalPrice": 79800,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTU4YzJj/QVB5RHl4eVQrb3NqZkl1ckRKTjJMb21iWkNwYmJaZVZWSXRrVkx2K0JaVlU.png",
+   "link": "https://toss.shopping/_m/5vwZrvc7",
+   "source": "toss",
+   "postedAt": 1793203742,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
+  {
+   "id": "2317810447",
+   "name": "프로프룻 전라도 총각김치, 3kg, 1박스",
+   "price": 13920,
+   "originalPrice": 59900,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MjMzZTkx/QUxXOXNlS3ZhUklmSzFQMmFzTFUzT0MwUnY3R1YxSkRVWmhvSS9wMDh1MlY.png",
+   "link": "https://toss.shopping/_m/7e3GnaX",
+   "source": "toss",
+   "postedAt": 1793203729,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
   {
    "id": "2666033871",
    "name": "제주 노지 조생 감귤, 중대과, 10kg, 1박스",
