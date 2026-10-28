@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793199979,
+ "updated": 1793200013,
  "deals": [
+  {
+   "id": "2601493267",
+   "name": "앙쥬 에코 프레쉬 알로에 수딩젤, 펌프형, 1000ml, 2개",
+   "price": 8740,
+   "originalPrice": 50000,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-11/848c169c-b0b4-4969-9952-b013d74ac252.png",
+   "link": "https://toss.shopping/_m/Tm7caQbl",
+   "source": "toss",
+   "postedAt": 1793200013,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
+  {
+   "id": "9642371",
+   "name": "국내산 로메인상추, 2kg, 1박스",
+   "price": 7500,
+   "originalPrice": 48900,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NTE1Nzky/VE1ocHZDUk1NTDYvS2M3TDJMYm1TZUpaTFdhck5ORzJqQUhxWDVWN0pWcz0.png",
+   "link": "https://toss.shopping/_m/r9jPHtc6",
+   "source": "toss",
+   "postedAt": 1793200003,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
+  {
+   "id": "115211963",
+   "name": "유한메디카 코엔자임 Q10 엔 탑 높은 혈압 케어, 60캡슐, 4개",
+   "price": 29750,
+   "originalPrice": 203600,
+   "discount": 85,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/OGJlOTEy/QU0yVHBwYlhTVUhwUElYMktYVEpzT0Y4ajdnYzRQTm53NmN3RDVhcmxyQnA.png",
+   "link": "https://toss.shopping/_m/xfDdSMd1",
+   "source": "toss",
+   "postedAt": 1793199991,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
   {
    "id": "12583897",
    "name": "대원제약 눈건강 파워 루테인 골드, 500mg, 30캡슐, 4개",
