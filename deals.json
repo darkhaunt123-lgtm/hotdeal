@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793207412,
+ "updated": 1793207445,
  "deals": [
+  {
+   "id": "2634417003",
+   "name": "정원삼 6년근 고려홍삼정 365스틱 GOLD 30포 +쇼핑백, 30포, 2박스",
+   "price": 28100,
+   "originalPrice": 99800,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-24/3c62d024-4a67-406d-8a8f-9ca1d58ff41d.jpeg",
+   "link": "https://toss.shopping/_m/9EP2Die3",
+   "source": "toss",
+   "postedAt": 1793207445,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
+  {
+   "id": "2206835171",
+   "name": "쟈니베어 자국없는 투명 양면 테이프, 30mm x 5M, 3개, 1박스",
+   "price": 4440,
+   "originalPrice": 15800,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-08/3aa9c7f7-a232-40c8-b81f-a1c850f984c8.png",
+   "link": "https://toss.shopping/_m/jZeKjdoB",
+   "source": "toss",
+   "postedAt": 1793207435,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
+  {
+   "id": "2557023571",
+   "name": "산들에담다 통영 손질 활 바다장어, 대, 3kg, 1박스",
+   "price": 28650,
+   "originalPrice": 99900,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/OTIzZDIz/R3huYXZQQXg0L2xrYk1aSjU1RVBCNTVCMmVHUk5ydnRjY1R3SHBvTkJYST0.png",
+   "link": "https://toss.shopping/_m/VBMwYBs4",
+   "source": "toss",
+   "postedAt": 1793207425,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
   {
    "id": "2650469941",
    "name": "닥터방기원 비어이스트 맥주효모 탈모샴푸, 1000ml, 2개 + 랩 탈모샴푸 8ml 샤쉐 3매 증정",
