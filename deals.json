@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793207455,
+ "updated": 1793209280,
  "deals": [
+  {
+   "id": "143626031",
+   "name": "지그비 더블 라인 마이크로 치실 더블민트, 369개입, 8cm, 1세트",
+   "price": 9070,
+   "originalPrice": 29900,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OWUyOGJk/QUpZM3JYa3hubDRXNWNUb2wwME1jZHJzVUk2V25GenduV3hTcmxRd2pWL3A.png",
+   "link": "https://toss.shopping/_m/RfBEK3Tf",
+   "source": "toss",
+   "postedAt": 1793209280,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
+  {
+   "id": "2163303921",
+   "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
+   "price": 8720,
+   "originalPrice": 28800,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-05-20/cd8c9328-da99-40ea-a335-e890e3270a29.png",
+   "link": "https://toss.shopping/_m/dKDVnAyd",
+   "source": "toss",
+   "postedAt": 1793209268,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
   {
    "id": "2666992619",
    "name": "주프레쉬 햇 나주배, 5kg, 1박스",
@@ -1442,76 +1470,6 @@
    "link": "https://toss.shopping/_m/j8NaVnu2",
    "source": "toss",
    "postedAt": 1792950150,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "1339179985",
-   "name": "센토 프라임 바이브 딥클린 듀얼 초미세 탄력모 칫솔, 20개입, 2개",
-   "price": 14990,
-   "originalPrice": 53000,
-   "discount": 71,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MjI4ZjQy/ZWVONjJZNDFjTkN1Z1Y5VStnWHFENEErcUt1cFVLOVVCZEFVSzFRcWQrND0.png",
-   "link": "https://toss.shopping/_m/btpkaCh8",
-   "source": "toss",
-   "postedAt": 1792948346,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "2667757723",
-   "name": "SVEN 가열식 가습기, 2.2L, SVH-HD2200WS, 화이트, 1개",
-   "price": 55040,
-   "originalPrice": 199000,
-   "discount": 72,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-23/0f7b09dd-b048-4301-8161-44c632b4873f.jpeg",
-   "link": "https://toss.shopping/_m/9eb47dC4",
-   "source": "toss",
-   "postedAt": 1792948343,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "844537447",
-   "name": "신발 뒤꿈치 까짐 방지 보호 쿠션 패드, 혼합, 1cm, 20세트, 1세트",
-   "price": 7010,
-   "originalPrice": 25900,
-   "discount": 72,
-   "grade": "무지성급",
-   "category": "패션의류잡화",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ODQ2YTZm/QUlrT3BUUzBkclpHVXRGR3FYR00xS3ZlNU01bXFrYW8zQ3JjYXR0ckd5bHI.png",
-   "link": "https://toss.shopping/_m/TtUnZQuD",
-   "source": "toss",
-   "postedAt": 1792948340,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "2642891995",
-   "name": "아델 클래식 숄더백, 클래식블랙, ONE SIZE, 1개",
-   "price": 15600,
-   "originalPrice": 59900,
-   "discount": 73,
-   "grade": "무지성급",
-   "category": "패션의류잡화",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-02/0a3edacb-cc52-428d-a0df-95a074cd89fa.jpeg",
-   "link": "https://toss.shopping/_m/LzCNmuKz",
-   "source": "toss",
-   "postedAt": 1792948337,
-   "endAt": "2026-10-27T00:00:00+09:00"
-  },
-  {
-   "id": "128454791",
-   "name": "MTC B5 시카 카밍 토너, 200ml, 1개",
-   "price": 8600,
-   "originalPrice": 35000,
-   "discount": 75,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmQzYzA4/QUpDWExkZ1c1c3NMSmQyVFdzMHFWT2RZcU42UlRWS2RLNWhpOVJicHhaSjM.png",
-   "link": "https://toss.shopping/_m/B9vMXf2w",
-   "source": "toss",
-   "postedAt": 1792948333,
    "endAt": "2026-10-27T00:00:00+09:00"
   }
  ]
