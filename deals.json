@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793209280,
+ "updated": 1793209314,
  "deals": [
+  {
+   "id": "2667047129",
+   "name": "여수 돌산 갓김치, 3kg, 1개",
+   "price": 15340,
+   "originalPrice": 47760,
+   "discount": 67,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-29/82a417a6-49eb-497a-be0d-b1c3b643494c.png",
+   "link": "https://toss.shopping/_m/Bgb9RxCz",
+   "source": "toss",
+   "postedAt": 1793209314,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
+  {
+   "id": "2610932011",
+   "name": "담양전씨 비법양념 LA갈비, 1kg, 2팩",
+   "price": 26650,
+   "originalPrice": 82900,
+   "discount": 67,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-14/8cf9b6af-d593-473f-b844-80b1ba8a8806.jpeg",
+   "link": "https://toss.shopping/_m/xCUK7TIs",
+   "source": "toss",
+   "postedAt": 1793209303,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
+  {
+   "id": "1338685195",
+   "name": "세플로 뿌리볼륨 헤어집게핀 2종, 소프트라벤더, 1세트",
+   "price": 5570,
+   "originalPrice": 17500,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-23/c0df6e20-fc53-491c-a1ee-bff8bd74e648.png",
+   "link": "https://toss.shopping/_m/Ztv7N0Xl",
+   "source": "toss",
+   "postedAt": 1793209292,
+   "endAt": "2026-10-30T00:00:00+09:00"
+  },
   {
    "id": "143626031",
    "name": "지그비 더블 라인 마이크로 치실 더블민트, 369개입, 8cm, 1세트",
