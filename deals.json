@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793124274,
+ "updated": 1793159669,
  "deals": [
+  {
+   "id": "275887375",
+   "name": "보랄 리미티드 에디션 5L 에어프라이어, BR E808AF, 아이보리톤, 1개",
+   "price": 33700,
+   "originalPrice": 159000,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ODgyNDRm/QU1sU2FRd0dPTjJtcGRwMjI5Y2pqYmtxSEpZa1NabHJSdHRqaE5vUXpMYkw.png",
+   "link": "https://toss.shopping/_m/bhf7uHcl",
+   "source": "toss",
+   "postedAt": 1793159669,
+   "endAt": null
+  },
   {
    "id": "40626971",
    "name": "이지드롭 변기크리너 리필, 레몬향, 12개입, 4팩",
@@ -210,20 +224,6 @@
    "link": "https://toss.shopping/_m/lKoXDW92",
    "source": "toss",
    "postedAt": 1793120511,
-   "endAt": "2026-10-29T00:00:00+09:00"
-  },
-  {
-   "id": "275887375",
-   "name": "보랄 리미티드 에디션 5L 에어프라이어, BR E808AF, 아이보리톤, 1개",
-   "price": 33700,
-   "originalPrice": 159000,
-   "discount": 78,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ODgyNDRm/QU1sU2FRd0dPTjJtcGRwMjI5Y2pqYmtxSEpZa1NabHJSdHRqaE5vUXpMYkw.png",
-   "link": "https://toss.shopping/_m/bhf7uHcl",
-   "source": "toss",
-   "postedAt": 1793118697,
    "endAt": "2026-10-29T00:00:00+09:00"
   },
   {
@@ -1414,20 +1414,6 @@
    "link": "https://toss.shopping/_m/RWQ2juer",
    "source": "toss",
    "postedAt": 1792909733,
-   "endAt": null
-  },
-  {
-   "id": "2401205415",
-   "name": "썬리지 호주산 네이블 오렌지, 중과, 3.5kg, 1박스",
-   "price": 7900,
-   "originalPrice": 21900,
-   "discount": 63,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MzY1N2Nl/QU83WjVuWXpuREV6ek56ejQ2SFpCam5uTk0yWm1jeFl5U1ppTTdFMXhuczc.png",
-   "link": "https://toss.shopping/_m/L5YmCvxy",
-   "source": "toss",
-   "postedAt": 1792897875,
    "endAt": null
   }
  ]
