@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793229800,
+ "updated": 1793229845,
  "deals": [
+  {
+   "id": "2649266699",
+   "name": "앤라인 무지 아우터 후드집업, 블랙 L 남 FREE 1개 + 그레이 L 남 FREE 1개, 2개",
+   "price": 22550,
+   "originalPrice": 49800,
+   "discount": 54,
+   "grade": "초대박",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-06/2f05e4a2-7ac7-42bb-9fce-c271e23e50f0.png",
+   "link": "https://toss.shopping/_m/ZUds00tD",
+   "source": "toss",
+   "postedAt": 1793229845,
+   "endAt": null
+  },
   {
    "id": "2578047277",
    "name": "쏘울너츠 100프로 땅콩버터 슈퍼크런치, 500g, 1개",
