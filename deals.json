@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793286823,
+ "updated": 1793286847,
  "deals": [
+  {
+   "id": "2261813091",
+   "name": "숨 소원에디션 포켓미니 물티슈, 8매, 10팩",
+   "price": 3990,
+   "originalPrice": 11900,
+   "discount": 66,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmY5YTQy/QUlieHpzWnA2emE4T25PNGV6TU1ieUhIbHBiaHpPblB5NWJCelNreFBISTI.png",
+   "link": "https://toss.shopping/_m/75aNSNUe",
+   "source": "toss",
+   "postedAt": 1793286847,
+   "endAt": "2026-10-31T00:00:00+09:00"
+  },
+  {
+   "id": "2643465475",
+   "name": "탐나유 햇밤 알밤, 2kg, 1개",
+   "price": 8440,
+   "originalPrice": 29900,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-11/9bb755c2-0773-40a6-890a-1b36ad35810c.jpeg",
+   "link": "https://toss.shopping/_m/ZGAVZGYf",
+   "source": "toss",
+   "postedAt": 1793286834,
+   "endAt": "2026-10-31T00:00:00+09:00"
+  },
   {
    "id": "1732090571",
    "name": "썬키스트 피스타치오 오리지널, 190ml, 24개",
@@ -1470,62 +1498,6 @@
    "link": "https://toss.shopping/_m/5F8iCGD9",
    "source": "toss",
    "postedAt": 1793027649,
-   "endAt": "2026-10-28T00:00:00+09:00"
-  },
-  {
-   "id": "37386363",
-   "name": "유한메디카 징코 플러스 엔 탑 혈행 기억력 케어, 60정, 4개",
-   "price": 20920,
-   "originalPrice": 183600,
-   "discount": 88,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTM2ZTk1/QU9aV2FwYjlTUUg1SFluVURSeUpvV04rRDU4ZTRQWVkwK054WjVhamRueHA.png",
-   "link": "https://toss.shopping/_m/TwmVmBn3",
-   "source": "toss",
-   "postedAt": 1793027646,
-   "endAt": "2026-10-28T00:00:00+09:00"
-  },
-  {
-   "id": "54176823",
-   "name": "유한메디카 당케어 엔 탑 혈당&유산균, 350mg, 30캡슐, 3개",
-   "price": 14330,
-   "originalPrice": 125700,
-   "discount": 88,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/OWViMjQx/WHBhRFJMWTBMekdlSmJ4dHVHV3c4TGNsZWo0OXBYVEIxaFpOa1dxU2trND0.png",
-   "link": "https://toss.shopping/_m/LDhT6evy",
-   "source": "toss",
-   "postedAt": 1793027643,
-   "endAt": "2026-10-28T00:00:00+09:00"
-  },
-  {
-   "id": "63385",
-   "name": "유한메디카 바나바 엔 탑 혈당케어, 60정, 3개",
-   "price": 14230,
-   "originalPrice": 125700,
-   "discount": 88,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmJkZGI3/UENRY2FkdTBQaHZZSmFaUzJoYmsrQnloZXp4ZUpaeW12SHhqaHFIU0hVaz0.png",
-   "link": "https://toss.shopping/_m/3UDGqZpy",
-   "source": "toss",
-   "postedAt": 1793027639,
-   "endAt": "2026-10-28T00:00:00+09:00"
-  },
-  {
-   "id": "109827819",
-   "name": "레이데이 마데카 재생크림, 40ml, 3개",
-   "price": 8160,
-   "originalPrice": 75000,
-   "discount": 89,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-05-30/8051fbfa-7068-4023-940a-f6937917d578.png",
-   "link": "https://toss.shopping/_m/rFKsIKnd",
-   "source": "toss",
-   "postedAt": 1793027636,
    "endAt": "2026-10-28T00:00:00+09:00"
   }
  ]
