@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793229845,
+ "updated": 1793238586,
  "deals": [
+  {
+   "id": "cp8174473713",
+   "name": "코카콜라 제로, 215ml, 12개",
+   "price": 8280,
+   "originalPrice": null,
+   "discount": 23,
+   "grade": "대박",
+   "category": "기타",
+   "thumbnail": null,
+   "link": "https://link.coupang.com/a/ieuErsILTw",
+   "source": "coupang",
+   "postedAt": 1793238586,
+   "endAt": null
+  },
   {
    "id": "2649266699",
    "name": "앤라인 무지 아우터 후드집업, 블랙 L 남 FREE 1개 + 그레이 L 남 FREE 1개, 2개",
