@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793238586,
+ "updated": 1793247513,
  "deals": [
+  {
+   "id": "2287417559",
+   "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
+   "price": 16400,
+   "originalPrice": 34900,
+   "discount": 53,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
+   "link": "https://toss.shopping/_m/jXwcalAs",
+   "source": "toss",
+   "postedAt": 1793247513,
+   "endAt": null
+  },
   {
    "id": "cp8174473713",
    "name": "코카콜라 제로, 215ml, 12개",
@@ -560,20 +574,6 @@
    "link": "https://toss.shopping/_m/J5VOddJj",
    "source": "toss",
    "postedAt": 1793179819,
-   "endAt": null
-  },
-  {
-   "id": "2287417559",
-   "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
-   "price": 15010,
-   "originalPrice": 34900,
-   "discount": 56,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-15/a8bbce69-1c12-4b6f-915a-53a9bbc47f2f.jpeg",
-   "link": "https://toss.shopping/_m/jXwcalAs",
-   "source": "toss",
-   "postedAt": 1793179805,
    "endAt": null
   },
   {
