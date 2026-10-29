@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793247513,
+ "updated": 1793256333,
  "deals": [
+  {
+   "id": "1734060583",
+   "name": "양계장사람들 계란, 대란, 90구, 1개",
+   "price": 23700,
+   "originalPrice": 35900,
+   "discount": 33,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-30/7c8f94f2-d55a-4d97-809a-1d69b091bd23.png",
+   "link": "https://toss.shopping/_m/h5Fp84h8",
+   "source": "toss",
+   "postedAt": 1793256333,
+   "endAt": null
+  },
   {
    "id": "2287417559",
    "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
@@ -1512,48 +1526,6 @@
    "link": "https://toss.shopping/_m/fMexD3Yj",
    "source": "toss",
    "postedAt": 1793002137,
-   "endAt": null
-  },
-  {
-   "id": "2489849499",
-   "name": "제주 흑돼지 고추장불고기, 2.4kg, 1개",
-   "price": 16300,
-   "originalPrice": 35800,
-   "discount": 54,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NDVhYzFj/T01ZeXozbmQwd2F6Q011c25XbXZsRmt0RDlEb29oMVJvciswRVVsUVgzUT0.png",
-   "link": "https://toss.shopping/_m/TnUIef6m",
-   "source": "toss",
-   "postedAt": 1792994120,
-   "endAt": null
-  },
-  {
-   "id": "2389669001",
-   "name": "순수식품 rTG 알티지 오메가3 식물성캡슐, 1018mg, 60캡슐, 3박스",
-   "price": 22140,
-   "originalPrice": 60000,
-   "discount": 63,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-02/f439bbc6-50f9-4d81-a14a-6c010f492b5f.jpeg",
-   "link": "https://toss.shopping/_m/jSf6KNWD",
-   "source": "toss",
-   "postedAt": 1792994119,
-   "endAt": null
-  },
-  {
-   "id": "417658091",
-   "name": "마주 총각김치, 2kg, 1박스",
-   "price": 8950,
-   "originalPrice": 19300,
-   "discount": 53,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YWMwZmJl/QUxBUkROK0llSnZKKytlbG9RZ0VVSklSWjFIWkZhTytHa1MrdXIwdG1tUjY.png",
-   "link": "https://toss.shopping/_m/R1l3Nnd2",
-   "source": "toss",
-   "postedAt": 1792994117,
    "endAt": null
   }
  ]
