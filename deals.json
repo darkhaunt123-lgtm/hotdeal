@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793333366,
+ "updated": 1793345385,
  "deals": [
+  {
+   "id": "cp6792297030",
+   "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러",
+   "price": 22050,
+   "originalPrice": null,
+   "discount": 0,
+   "grade": "특가",
+   "category": "기타",
+   "thumbnail": null,
+   "link": "https://link.coupang.com/a/igxRd5ayUm",
+   "source": "coupang",
+   "postedAt": 1793345385,
+   "endAt": null
+  },
   {
    "id": "cp8636208020",
    "name": "오뚜기 라이트 앤 조이 당을줄인 논산딸기쨈",
@@ -1148,20 +1162,6 @@
    "link": "https://toss.shopping/_m/R4vTo3f2",
    "source": "toss",
    "postedAt": 1793089300,
-   "endAt": null
-  },
-  {
-   "id": "2089518011",
-   "name": "멕시카나 닭강정, 매콤달콤 500g 2개 + 마늘간장 500g 1개, 3개",
-   "price": 17900,
-   "originalPrice": 30000,
-   "discount": 40,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-11-03/400af32f-7a7e-41a3-a8c2-9ac69af3d272.png",
-   "link": "https://toss.shopping/_m/7SQE9YI8",
-   "source": "toss",
-   "postedAt": 1793075054,
    "endAt": null
   }
  ]
