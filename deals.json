@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793345385,
+ "updated": 1793373394,
  "deals": [
+  {
+   "id": "34905251",
+   "name": "ELLE 스와로브스키 이터너티 반지, 크리스탈, 10호, 1개",
+   "price": 14735,
+   "originalPrice": 108000,
+   "discount": 86,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTE5Mjlh/QUp5WG1uRnliTm5Nb2JRdlRFK1oyak8wWnFIUzI5WS9EV1U1d0hJMndEK0Q.png",
+   "link": "https://toss.shopping/_m/n7JofWg8",
+   "source": "toss",
+   "postedAt": 1793373394,
+   "endAt": "2026-11-01T00:00:00+09:00"
+  },
   {
    "id": "cp6792297030",
    "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러",
@@ -1121,48 +1135,6 @@
    "source": "toss",
    "postedAt": 1793114946,
    "endAt": "2026-10-29T00:00:00+09:00"
-  },
-  {
-   "id": "199019609",
-   "name": "아침빛바다 어묵만 꼬치어묵, 350g, 3봉",
-   "price": 9260,
-   "originalPrice": 12900,
-   "discount": 28,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YzdkMGFj/V2ZrTjR6T1Q0alprdHNTOGprMGVrMlhNclJ0R2p1Tkpackw2RVlnN09Edz0.png",
-   "link": "https://toss.shopping/_m/vPACrVD9",
-   "source": "toss",
-   "postedAt": 1793089328,
-   "endAt": null
-  },
-  {
-   "id": "2335430413",
-   "name": "이롬 황성주 국산콩두유 무가당 고칼슘, 190ml, 32개",
-   "price": 14560,
-   "originalPrice": 33600,
-   "discount": 56,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmJkZjg3/QU50RHROaHRzMXVtczI2OWE1NldLRU5KYVVJWGxyVDE4R1RZbG1rZUpTa0c.png",
-   "link": "https://toss.shopping/_m/Nc6Qc9Jj",
-   "source": "toss",
-   "postedAt": 1793089312,
-   "endAt": null
-  },
-  {
-   "id": "2373707067",
-   "name": "김설희 고기손만두, 420g, 2봉 + 김치손만두, 420g, 2봉",
-   "price": 11070,
-   "originalPrice": 26000,
-   "discount": 57,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-02-18/632cecbf-58fa-4fe3-aeef-3a9dadea44ec.jpeg",
-   "link": "https://toss.shopping/_m/R4vTo3f2",
-   "source": "toss",
-   "postedAt": 1793089300,
-   "endAt": null
   }
  ]
 }
