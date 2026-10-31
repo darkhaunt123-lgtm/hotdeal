@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793459950,
+ "updated": 1793459983,
  "deals": [
+  {
+   "id": "2536370261",
+   "name": "맛팜 신 곱창볶음, 250g, 2개",
+   "price": 8900,
+   "originalPrice": 24400,
+   "discount": 63,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/YWIzZjU3/QU92cGNPRXZIT2VhRUdPZlVxZXk4TXRLUDA4azAySkN6YXhEYldlVnpwTkk.png",
+   "link": "https://toss.shopping/_m/3GkjxBTg",
+   "source": "toss",
+   "postedAt": 1793459983,
+   "endAt": "2026-11-02T00:00:00+09:00"
+  },
+  {
+   "id": "1054395435",
+   "name": "당연구소 병아리콩과자 콩튀, 30g, 10봉",
+   "price": 8120,
+   "originalPrice": 23800,
+   "discount": 65,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MmE5MjM4/QU5OR0Nsa0p1ZFN6OW1ZOUpOd2NTdGloMGFVMmVpOWE0WXorcEJrVFVGUG0.png",
+   "link": "https://toss.shopping/_m/L01JNE5q",
+   "source": "toss",
+   "postedAt": 1793459973,
+   "endAt": "2026-11-02T00:00:00+09:00"
+  },
+  {
+   "id": "164454503",
+   "name": "네모라인 빨아쓰는 엠보극세사 경추베개솜, 화이트, 40x60cm, 2개",
+   "price": 7840,
+   "originalPrice": 24900,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "가구/홈데코",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-08-15/85c07ae8-be0f-4cb2-add0-096ec3089857.jpeg",
+   "link": "https://toss.shopping/_m/hOc7UlmB",
+   "source": "toss",
+   "postedAt": 1793459961,
+   "endAt": "2026-11-02T00:00:00+09:00"
+  },
   {
    "id": "119672207",
    "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
