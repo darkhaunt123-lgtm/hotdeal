@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793513626,
+ "updated": 1793546511,
  "deals": [
+  {
+   "id": "2653093475",
+   "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+   "price": 8290,
+   "originalPrice": 59800,
+   "discount": 86,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-23/9072bbae-8462-4cc2-ab82-8c9b161d4680.png",
+   "link": "https://toss.shopping/_m/tS5rgaM9",
+   "source": "toss",
+   "postedAt": 1793546511,
+   "endAt": "2026-11-03T00:00:00+09:00"
+  },
   {
    "id": "cp8969766092",
    "name": "오랄비 왁스 치실, 50m, 2개입, 3개",
@@ -155,90 +169,6 @@
    "source": "toss",
    "postedAt": 1793288682,
    "endAt": "2026-10-31T00:00:00+09:00"
-  },
-  {
-   "id": "151328025",
-   "name": "마들 춘천 닭갈비, 500g, 2개",
-   "price": 11900,
-   "originalPrice": 30000,
-   "discount": 60,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZWI1YTBi/WkZtSGJyWlNBa3ozSjZSY25aR3hNeWR3eGhOcGFMeHpoUzVOWTVEaTBjWT0.png",
-   "link": "https://toss.shopping/_m/To1jSHto",
-   "source": "toss",
-   "postedAt": 1793286861,
-   "endAt": "2026-10-31T00:00:00+09:00"
-  },
-  {
-   "id": "2261813091",
-   "name": "숨 소원에디션 포켓미니 물티슈, 8매, 10팩",
-   "price": 3990,
-   "originalPrice": 11900,
-   "discount": 66,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmY5YTQy/QUlieHpzWnA2emE4T25PNGV6TU1ieUhIbHBiaHpPblB5NWJCelNreFBISTI.png",
-   "link": "https://toss.shopping/_m/75aNSNUe",
-   "source": "toss",
-   "postedAt": 1793286847,
-   "endAt": "2026-10-31T00:00:00+09:00"
-  },
-  {
-   "id": "2643465475",
-   "name": "탐나유 햇밤 알밤, 2kg, 1개",
-   "price": 8440,
-   "originalPrice": 29900,
-   "discount": 71,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-11/9bb755c2-0773-40a6-890a-1b36ad35810c.jpeg",
-   "link": "https://toss.shopping/_m/ZGAVZGYf",
-   "source": "toss",
-   "postedAt": 1793286834,
-   "endAt": "2026-10-31T00:00:00+09:00"
-  },
-  {
-   "id": "1732090571",
-   "name": "썬키스트 피스타치오 오리지널, 190ml, 24개",
-   "price": 7440,
-   "originalPrice": 27900,
-   "discount": 73,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-24/882abf9c-10f1-4e01-a38a-19af063b1257.jpeg",
-   "link": "https://toss.shopping/_m/7DqaG1hc",
-   "source": "toss",
-   "postedAt": 1793286823,
-   "endAt": "2026-10-31T00:00:00+09:00"
-  },
-  {
-   "id": "1993815407",
-   "name": "에코브릭 약산성 블랙 샴푸바, 100g, 2개",
-   "price": 9100,
-   "originalPrice": 51000,
-   "discount": 82,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-21/e8d3c0b9-babf-4f4f-8cb2-4a2bebffea2d.jpeg",
-   "link": "https://toss.shopping/_m/V7xhnTdq",
-   "source": "toss",
-   "postedAt": 1793286810,
-   "endAt": "2026-10-31T00:00:00+09:00"
-  },
-  {
-   "id": "1734060583",
-   "name": "양계장사람들 계란, 대란, 90구, 1개",
-   "price": 23700,
-   "originalPrice": 35900,
-   "discount": 33,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-30/7c8f94f2-d55a-4d97-809a-1d69b091bd23.png",
-   "link": "https://toss.shopping/_m/h5Fp84h8",
-   "source": "toss",
-   "postedAt": 1793256333,
-   "endAt": null
   }
  ]
 }
