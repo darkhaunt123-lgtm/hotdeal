@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793548392,
+ "updated": 1793548436,
  "deals": [
+  {
+   "id": "12658657",
+   "name": "대원제약 파워 쏘팔메토, 1,000mg, 30캡슐, 4박스",
+   "price": 18600,
+   "originalPrice": 33900,
+   "discount": 45,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTU3MTQz/QU1mQi9QUmN5YXQwcmEyQlBNczh4RHpiTkk4OGJhRWsrVzVSZElGL2dmdEQ.png",
+   "link": "https://toss.shopping/_m/rCffBgIe",
+   "source": "toss",
+   "postedAt": 1793548436,
+   "endAt": "2026-11-03T00:00:00+09:00"
+  },
+  {
+   "id": "158111043",
+   "name": "애슐리 오리지널 통살치킨, 500g, 2개",
+   "price": 12040,
+   "originalPrice": 22800,
+   "discount": 47,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YWQ2YTQ2/QUlySmxxRW1jMkJQMEk4TUhkWkg4aVZQdkJDUkdyWERnNzVuMm15dnV6VlE.png",
+   "link": "https://toss.shopping/_m/fKqzA0Yt",
+   "source": "toss",
+   "postedAt": 1793548424,
+   "endAt": "2026-11-03T00:00:00+09:00"
+  },
   {
    "id": "1273424633",
    "name": "티젠 콤부차 요구르트맛, 5g, 30개입, 2박스",
