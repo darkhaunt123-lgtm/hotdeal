@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793546511,
+ "updated": 1793546542,
  "deals": [
+  {
+   "id": "1361912361",
+   "name": "팬톤 ANC 노이즈캔슬링 터치스크린 오토 페어링 아이폰 호환 C타입 충전 무선 블루투스 이어폰 BT350A, 베이지, 1개",
+   "price": 17990,
+   "originalPrice": 99000,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MWJlM2Y0/QUxhMG5PWkxTV1k3dEpmemhWbTBtalJMUnV6T3RPdHgrNWU1eHlOTFZEaTg.png",
+   "link": "https://toss.shopping/_m/vAHzvtbr",
+   "source": "toss",
+   "postedAt": 1793546542,
+   "endAt": "2026-11-03T00:00:00+09:00"
+  },
+  {
+   "id": "172992737",
+   "name": "코오롱제약 맥주효모 비오틴 10000, 500mg, 60정, 3박스",
+   "price": 13900,
+   "originalPrice": 81000,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZGIzMzk2/RGhLdDFQbkcxcVBYQ1UwTkpXbFNlOVQ3TDVSZmhBNUxhbGF0dHVoVVVraz0.png",
+   "link": "https://toss.shopping/_m/x72ey8Ee",
+   "source": "toss",
+   "postedAt": 1793546532,
+   "endAt": "2026-11-03T00:00:00+09:00"
+  },
+  {
+   "id": "68720461",
+   "name": "디베네 노스텔지어 파스텔 캐리어, 18인치, 그린, 1개",
+   "price": 27600,
+   "originalPrice": 199000,
+   "discount": 86,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NmM2OWNk/QVA5NmpPc1lvL2RxLzV3Q0orZFU3dnpWYXBWS0t1VXF0VlVLOVVPUEhFM2M.png",
+   "link": "https://toss.shopping/_m/V57tCMKD",
+   "source": "toss",
+   "postedAt": 1793546521,
+   "endAt": "2026-11-03T00:00:00+09:00"
+  },
   {
    "id": "2653093475",
    "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
