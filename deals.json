@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793548366,
+ "updated": 1793548392,
  "deals": [
+  {
+   "id": "1273424633",
+   "name": "티젠 콤부차 요구르트맛, 5g, 30개입, 2박스",
+   "price": 14870,
+   "originalPrice": 42000,
+   "discount": 64,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/ml-vision/smart-crop/d54fb008-d2ad-4a2e-8d4a-3c687b852b6c.jpg",
+   "link": "https://toss.shopping/_m/ZjDgAfe1",
+   "source": "toss",
+   "postedAt": 1793548392,
+   "endAt": "2026-11-03T00:00:00+09:00"
+  },
+  {
+   "id": "11583845",
+   "name": "산해직송 국내산 전라도 파김치, 3kg, 1팩",
+   "price": 22865,
+   "originalPrice": 70000,
+   "discount": 67,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YTc3Y2Y2/QUoxSFBMQ1l5YkdHampjMFp1TVc0eG5neWR6ZEFBcTFHd0dQWUFZSFA4Uk0.png",
+   "link": "https://toss.shopping/_m/LiIfS5ye",
+   "source": "toss",
+   "postedAt": 1793548381,
+   "endAt": "2026-11-03T00:00:00+09:00"
+  },
   {
    "id": "1157385337",
    "name": "페페브루노 엑스트라버진 올리브오일, 250ml, 4개",
