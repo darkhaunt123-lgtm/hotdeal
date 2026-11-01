@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793548436,
+ "updated": 1793550270,
  "deals": [
+  {
+   "id": "2419197079",
+   "name": "필립스 전기면도날, SkinIQ 5000/7000 호환, 호환용, 1개",
+   "price": 16600,
+   "originalPrice": 25000,
+   "discount": 33,
+   "grade": "대박",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmZhZTI0/QUp6SmFMWWNuSjJNckdOS2NaVGx2R3pwYy9XVzdYTmFhL1BKcGJDazFNcko.png",
+   "link": "https://toss.shopping/_m/7a1AuhMt",
+   "source": "toss",
+   "postedAt": 1793550270,
+   "endAt": "2026-11-03T00:00:00+09:00"
+  },
+  {
+   "id": "7652079",
+   "name": "가성비가브랜드다 냄새줄인 락스, 2.1L, 6개",
+   "price": 8810,
+   "originalPrice": 14900,
+   "discount": 40,
+   "grade": "초대박",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-02-26/c3609d68-35bb-420d-a96e-6030a6ff7f5d.jpeg",
+   "link": "https://toss.shopping/_m/bjCDK0vD",
+   "source": "toss",
+   "postedAt": 1793550256,
+   "endAt": "2026-11-03T00:00:00+09:00"
+  },
   {
    "id": "12658657",
    "name": "대원제약 파워 쏘팔메토, 1,000mg, 30캡슐, 4박스",
