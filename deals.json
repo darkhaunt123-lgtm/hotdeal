@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793635105,
+ "updated": 1793636928,
  "deals": [
+  {
+   "id": "778996279",
+   "name": "타이글 7중 효소 액상 세탁세제, 라벤더향, 일반 드럼 겸용, 실내건조, 2.5L, 4개",
+   "price": 12250,
+   "originalPrice": 40000,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-02-09/7904919d-85aa-467d-a7a4-49a9432e9338.jpeg",
+   "link": "https://toss.shopping/_m/dZ22TIY4",
+   "source": "toss",
+   "postedAt": 1793636928,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "2309142767",
+   "name": "디포아 스포츠 헤어밴드, 블랙 FREE 2개 + 그레이 FREE 2개, 4개",
+   "price": 4500,
+   "originalPrice": 14900,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "스포츠/레져",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-22/9b2c9830-195a-46a9-a136-89b722d1dc6b.jpeg",
+   "link": "https://toss.shopping/_m/rtxbfoNu",
+   "source": "toss",
+   "postedAt": 1793636918,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "190531959",
    "name": "디네르 에클라 드 레브 니치향수, 50ml, 1개",
