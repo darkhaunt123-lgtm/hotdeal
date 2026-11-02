@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793633246,
+ "updated": 1793635059,
  "deals": [
+  {
+   "id": "128185381",
+   "name": "곰도리 온열안대 오리지널 케어 플러스, 40매입, 1개",
+   "price": 6300,
+   "originalPrice": 39800,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-12/820d235f-fa3d-4016-b8b9-51cf650041a6.png",
+   "link": "https://toss.shopping/_m/5OUkYhVa",
+   "source": "toss",
+   "postedAt": 1793635059,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "852588337",
    "name": "유한메디카 리포좀 비타민C 엔 탑 항산화 면역 케어, 60정, 2개",
