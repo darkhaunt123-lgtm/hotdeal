@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793642525,
+ "updated": 1793642557,
  "deals": [
+  {
+   "id": "17553773",
+   "name": "대왕오징어 장족 200g, 2개",
+   "price": 16710,
+   "originalPrice": 25800,
+   "discount": 35,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/M2M2NjQz/QUxNclJrZGNmeWpnRGZ6L082Q0NzQ1dUZlhkQVRlUTlnTmFZMHE5cUE0MTU.png",
+   "link": "https://toss.shopping/_m/t7A0DqTo",
+   "source": "toss",
+   "postedAt": 1793642557,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "2278714993",
+   "name": "동원 보성홍차 아이스티 제로 4종(복숭아+레몬+머스캣+애플), 500ml, 24개",
+   "price": 15310,
+   "originalPrice": 25500,
+   "discount": 39,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ODM3NmJi/YVp5Y2laOWp6KzFlYytmbXhydHlkamFjWW5Zem5IeldQeFNubVNkVTN5az0.png",
+   "link": "https://toss.shopping/_m/lpm9VIWq",
+   "source": "toss",
+   "postedAt": 1793642542,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "1102378599",
    "name": "엘제이 여성 인견 팬티, 스킨, 2XL, 5개",
