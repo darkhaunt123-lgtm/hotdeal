@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793550270,
+ "updated": 1793595059,
  "deals": [
+  {
+   "id": "cp9509930958",
+   "name": "햇반 백미밥, 210g, 72개",
+   "price": 55800,
+   "originalPrice": null,
+   "discount": 0,
+   "grade": "특가",
+   "category": "기타",
+   "thumbnail": null,
+   "link": "https://link.coupang.com/a/illdXPwhCC",
+   "source": "coupang",
+   "postedAt": 1793595059,
+   "endAt": null
+  },
   {
    "id": "2419197079",
    "name": "필립스 전기면도날, SkinIQ 5000/7000 호환, 호환용, 1개",
@@ -294,20 +308,6 @@
    "link": "https://link.coupang.com/a/igxRd5ayUm",
    "source": "coupang",
    "postedAt": 1793345385,
-   "endAt": null
-  },
-  {
-   "id": "cp8636208020",
-   "name": "오뚜기 라이트 앤 조이 당을줄인 논산딸기쨈",
-   "price": 2490,
-   "originalPrice": null,
-   "discount": 0,
-   "grade": "특가",
-   "category": "기타",
-   "thumbnail": null,
-   "link": "https://link.coupang.com/a/igjxSbR8gK",
-   "source": "coupang",
-   "postedAt": 1793333366,
    "endAt": null
   }
  ]
