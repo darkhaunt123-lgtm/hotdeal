@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793635093,
+ "updated": 1793635105,
  "deals": [
+  {
+   "id": "190531959",
+   "name": "디네르 에클라 드 레브 니치향수, 50ml, 1개",
+   "price": 36690,
+   "originalPrice": 119900,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-10/959a1616-30a8-41d4-9f21-d5d7c99af8dc.jpeg",
+   "link": "https://toss.shopping/_m/tYFbZY0w",
+   "source": "toss",
+   "postedAt": 1793635105,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "2566955185",
    "name": "냉동 삶은 홍찰옥수수, 특대, 20개",
