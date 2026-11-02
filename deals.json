@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793638822,
+ "updated": 1793640653,
  "deals": [
+  {
+   "id": "2515175001",
+   "name": "양념 치마살, 300g, 2개",
+   "price": 10900,
+   "originalPrice": 25000,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NDU1Zjkw/U1NneHhUaGx6UXpuMmhsb2Q1eEM1Qmd6RWpYRVk2VWFJY051MHA0UE5hcz0.png",
+   "link": "https://toss.shopping/_m/dLi3Y3sn",
+   "source": "toss",
+   "postedAt": 1793640653,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "93853137",
+   "name": "산해직송 간장 연어장, 300g, 2개",
+   "price": 17375,
+   "originalPrice": 41000,
+   "discount": 57,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/product/29739713/239f3491-67a1-4022-a1b4-795c0310ed8f.jpeg",
+   "link": "https://toss.shopping/_m/9hP1dZqh",
+   "source": "toss",
+   "postedAt": 1793640644,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "2362157987",
+   "name": "국내산 활 흰다리새우 횟감가능, 1kg, 1박스",
+   "price": 18660,
+   "originalPrice": 43900,
+   "discount": 57,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YWIzZmI4/UURuaG5DUzBlOUUreFkrVGxzeExadVcxTW1vL0dMT0dlUHRlaXdqSldXMD0.png",
+   "link": "https://toss.shopping/_m/5NOLYBRA",
+   "source": "toss",
+   "postedAt": 1793640636,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "82090281",
    "name": "디지지 쿼드M 차량용 맥세이프 호환 마운트 차양용 거치대, 쿼드M, 블랙, 1개",
