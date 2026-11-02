@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793636928,
+ "updated": 1793636963,
  "deals": [
+  {
+   "id": "2279756881",
+   "name": "스크래치 제로 두툼 마법수세미, 20개입, 1팩",
+   "price": 10410,
+   "originalPrice": 29900,
+   "discount": 65,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-17/745badae-a0ad-4f42-8d32-ad54587dc1ca.jpeg",
+   "link": "https://toss.shopping/_m/DNBKUM4A",
+   "source": "toss",
+   "postedAt": 1793636963,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "2611583259",
+   "name": "GNM 종합비타민미네랄15, 30정, 3개",
+   "price": 9470,
+   "originalPrice": 30000,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-14/e5476e63-d86e-4d98-b81d-dcb22f96b90d.jpeg",
+   "link": "https://toss.shopping/_m/vQuENGhC",
+   "source": "toss",
+   "postedAt": 1793636950,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "152110173",
+   "name": "천년참기름, 350ml, 2개",
+   "price": 12500,
+   "originalPrice": 39900,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmM0NGQ3/QUk1Zzc5WWd6M1U1VnhEeTM5K1lpc3NBZStWVTc4UWF1MVU0Mlp0Vk9POTA.png",
+   "link": "https://toss.shopping/_m/fM8xy9b2",
+   "source": "toss",
+   "postedAt": 1793636939,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "778996279",
    "name": "타이글 7중 효소 액상 세탁세제, 라벤더향, 일반 드럼 겸용, 실내건조, 2.5L, 4개",
