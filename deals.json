@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793636963,
+ "updated": 1793638796,
  "deals": [
+  {
+   "id": "82247629",
+   "name": "남성 드로즈 팬티 세트, 2XL, 블랙, 1개 + 네이비, 1개 + 차콜, 1개, 3개",
+   "price": 10250,
+   "originalPrice": 22800,
+   "discount": 63,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YmNhMzEz/ZGcyZWFjNkVqMElaNDdqRE1zU3hKbUdTclZPdDA5V2JhSlRZZHQ1bVI0dz0.png",
+   "link": "https://toss.shopping/_m/HFs2Bmzs",
+   "source": "toss",
+   "postedAt": 1793638796,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "2557944583",
+   "name": "배스킨라빈스 패션푸르트 워터젤리, 100ml, 20개",
+   "price": 10600,
+   "originalPrice": 29800,
+   "discount": 64,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-18/c15411d1-c447-4b35-a129-e08369fe16da.png",
+   "link": "https://toss.shopping/_m/NgNgbLVt",
+   "source": "toss",
+   "postedAt": 1793638784,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "111059033",
+   "name": "ACRO 스마트 디지털 체중계, ibody-100, 화이트, 1개",
+   "price": 12340,
+   "originalPrice": 34900,
+   "discount": 64,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDE5NTlk/SE53WHhQclVlTFFMRlBIVXVWeVB4RGdjK0R4bm1XZWI4am53T1kvRG5PYz0.png",
+   "link": "https://toss.shopping/_m/d0eevcl7",
+   "source": "toss",
+   "postedAt": 1793638774,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "2279756881",
    "name": "스크래치 제로 두툼 마법수세미, 20개입, 1팩",
