@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793635059,
+ "updated": 1793635093,
  "deals": [
+  {
+   "id": "2566955185",
+   "name": "냉동 삶은 홍찰옥수수, 특대, 20개",
+   "price": 13400,
+   "originalPrice": 49800,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-03/c90260c4-8abf-47f1-9fdb-7960eb309bfa.png",
+   "link": "https://toss.shopping/_m/Tir8VzTa",
+   "source": "toss",
+   "postedAt": 1793635093,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "151364773",
+   "name": "코렐 코닝웨어 스누피 레터 도자기 식기세트, 1인용, 혼합, 7P, 1세트",
+   "price": 25110,
+   "originalPrice": 109000,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/OGI3Mjlj/QVArYkRQRGdBWElnUjhuSUpQbmJEZWV5VERmRkpmTGRKMkdiSjJENEgxbU4.png",
+   "link": "https://toss.shopping/_m/9yD7Me4r",
+   "source": "toss",
+   "postedAt": 1793635082,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "2241044333",
+   "name": "에이지랩 스네일 뮤신 브라이트닝 선크림, 70ml, 4개",
+   "price": 15370,
+   "originalPrice": 100000,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-15/d8340b85-20dc-47dd-8c7e-2ffe7faed2dc.jpeg",
+   "link": "https://toss.shopping/_m/xRNaTfCu",
+   "source": "toss",
+   "postedAt": 1793635070,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "128185381",
    "name": "곰도리 온열안대 오리지널 케어 플러스, 40매입, 1개",
