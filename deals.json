@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793640677,
+ "updated": 1793642494,
  "deals": [
+  {
+   "id": "2384416695",
+   "name": "세플로 안쪽틈새 변기청소솔, 그레이, 2개",
+   "price": 5430,
+   "originalPrice": 11900,
+   "discount": 54,
+   "grade": "초대박",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-25/b8eb6c69-3fcd-4dc2-a9c5-47bf96ba2687.png",
+   "link": "https://toss.shopping/_m/TLQDNskh",
+   "source": "toss",
+   "postedAt": 1793642494,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "109834949",
    "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
