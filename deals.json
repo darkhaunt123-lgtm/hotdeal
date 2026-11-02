@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793640653,
+ "updated": 1793640677,
  "deals": [
+  {
+   "id": "109834949",
+   "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+   "price": 7900,
+   "originalPrice": 17800,
+   "discount": 55,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
+   "link": "https://toss.shopping/_m/Hd0vpxDe",
+   "source": "toss",
+   "postedAt": 1793640677,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "157416995",
+   "name": "테오푸드 오뎅도리탕, 1.2kg, 2개",
+   "price": 33890,
+   "originalPrice": 77800,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MGM5NzM3/VG05aDhEK21NT1lxSEZxeVUrNm44WlVZbjJ6WGFoVkRzcXN0aG9vOUJncz0.png",
+   "link": "https://toss.shopping/_m/TeL0wmkc",
+   "source": "toss",
+   "postedAt": 1793640667,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "2515175001",
    "name": "양념 치마살, 300g, 2개",
