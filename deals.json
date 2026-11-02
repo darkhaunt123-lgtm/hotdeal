@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793642494,
+ "updated": 1793642525,
  "deals": [
+  {
+   "id": "1102378599",
+   "name": "엘제이 여성 인견 팬티, 스킨, 2XL, 5개",
+   "price": 10210,
+   "originalPrice": 20000,
+   "discount": 48,
+   "grade": "초대박",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTY0M2Uz/QU0ydHNMM2N6Ui9UVDA0TEUyV3JjRGZ3ZWZKMm1aakc1bytMait4U3QzNTE.png",
+   "link": "https://toss.shopping/_m/1S92Y39r",
+   "source": "toss",
+   "postedAt": 1793642525,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "2230998413",
+   "name": "자연별곡 차돌 불맛 짬뽕국밥, 420g, 1개 + 차돌 된장술밥, 420g, 1개",
+   "price": 11460,
+   "originalPrice": 22800,
+   "discount": 49,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NjBkOWEw/VDdTSE9JMTJaN3hUYkUyMGRzdXpiTWwyY3ZtelpwTWJSeXhWY0JOekFJND0.png",
+   "link": "https://toss.shopping/_m/js5hVXDC",
+   "source": "toss",
+   "postedAt": 1793642514,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "2384416695",
    "name": "세플로 안쪽틈새 변기청소솔, 그레이, 2개",
