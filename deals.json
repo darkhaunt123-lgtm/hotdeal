@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793595059,
+ "updated": 1793633223,
  "deals": [
+  {
+   "id": "77671511",
+   "name": "유한메디카 칼슘 마그네슘 엔 탑 비타민D K 망간, 60정, 4개",
+   "price": 20640,
+   "originalPrice": 167600,
+   "discount": 87,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDQ3NjA4/ZGhiREZPMUpvUGxjRFdGcFBHbkI0WG9OM0Q5aTlnN0NrekkvRmpPVzBXaz0.png",
+   "link": "https://toss.shopping/_m/rdsgxhCn",
+   "source": "toss",
+   "postedAt": 1793633223,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "2577805473",
+   "name": "아스파시아 PDRN 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
+   "price": 8110,
+   "originalPrice": 75000,
+   "discount": 89,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-05/1ebd207b-7816-4caa-8b31-ce5d7a84c878.jpeg",
+   "link": "https://toss.shopping/_m/fZyqJdqd",
+   "source": "toss",
+   "postedAt": 1793633213,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
+  {
+   "id": "2636629037",
+   "name": "클라메딕 스킨온 뷰티디바이스, KOR-SKO2701W, 화이트, 1개",
+   "price": 12900,
+   "originalPrice": 139000,
+   "discount": 90,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-27/f3783f4a-8193-43a4-b62d-f9dbe5233de2.jpeg",
+   "link": "https://toss.shopping/_m/RFiZFont",
+   "source": "toss",
+   "postedAt": 1793633203,
+   "endAt": "2026-11-04T00:00:00+09:00"
+  },
   {
    "id": "cp9509930958",
    "name": "햇반 백미밥, 210g, 72개",
@@ -267,48 +309,6 @@
    "source": "toss",
    "postedAt": 1793459939,
    "endAt": "2026-11-02T00:00:00+09:00"
-  },
-  {
-   "id": "199071275",
-   "name": "더마유레카 모이스처 바이오 올인원 로션, 500g, 1개",
-   "price": 6200,
-   "originalPrice": 25900,
-   "discount": 76,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-15/d623c2b1-b2ca-4ea2-a6f5-38bf5bf6b22f.jpeg",
-   "link": "https://toss.shopping/_m/BL7uUdns",
-   "source": "toss",
-   "postedAt": 1793373410,
-   "endAt": "2026-11-01T00:00:00+09:00"
-  },
-  {
-   "id": "34905251",
-   "name": "ELLE 스와로브스키 이터너티 반지, 크리스탈, 10호, 1개",
-   "price": 14735,
-   "originalPrice": 108000,
-   "discount": 86,
-   "grade": "무지성급",
-   "category": "패션의류잡화",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTE5Mjlh/QUp5WG1uRnliTm5Nb2JRdlRFK1oyak8wWnFIUzI5WS9EV1U1d0hJMndEK0Q.png",
-   "link": "https://toss.shopping/_m/n7JofWg8",
-   "source": "toss",
-   "postedAt": 1793373394,
-   "endAt": "2026-11-01T00:00:00+09:00"
-  },
-  {
-   "id": "cp6792297030",
-   "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러",
-   "price": 22050,
-   "originalPrice": null,
-   "discount": 0,
-   "grade": "특가",
-   "category": "기타",
-   "thumbnail": null,
-   "link": "https://link.coupang.com/a/igxRd5ayUm",
-   "source": "coupang",
-   "postedAt": 1793345385,
-   "endAt": null
   }
  ]
 }
