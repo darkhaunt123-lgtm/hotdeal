@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793727585,
+ "updated": 1793727597,
  "deals": [
+  {
+   "id": "146690223",
+   "name": "랑주317 고메버터바 15종 풀세트, 1.5kg, 1세트",
+   "price": 31300,
+   "originalPrice": 45400,
+   "discount": 31,
+   "grade": "대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-07-22/8d13d1b4-b719-410e-b970-ffdf37db2dd8.jpeg",
+   "link": "https://toss.shopping/_m/z4HO9sQk",
+   "source": "toss",
+   "postedAt": 1793727597,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
   {
    "id": "12180961",
    "name": "천연사이다 제로, 250ml, 30개",
