@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793720163,
+ "updated": 1793721988,
  "deals": [
+  {
+   "id": "445863051",
+   "name": "ACRO 코어핏 오픈형 이어링 블루투스 이어폰, AE-101, 블랙, 1개",
+   "price": 15600,
+   "originalPrice": 49800,
+   "discount": 68,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjM2NjE0/QU1KeDUvR3pUdHZNVGFkdlNmbVdOVDZ3bnREMlpsbExZOHhwblk4SzFIS1k.png",
+   "link": "https://toss.shopping/_m/JxSEhn2w",
+   "source": "toss",
+   "postedAt": 1793721988,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "2309142761",
+   "name": "디포아 스포츠 헤어밴드, 블랙, FREE, 4개",
+   "price": 4500,
+   "originalPrice": 14900,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "스포츠/레져",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-22/959810b5-adce-42c4-b3c5-ebe152002880.jpeg",
+   "link": "https://toss.shopping/_m/vQ0gNAgr",
+   "source": "toss",
+   "postedAt": 1793721976,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
   {
    "id": "480591059",
    "name": "서가 25W PD3.0 PPS 2포트 멀티 초고속 충전기, SG-PDC2500A, 화이트, 1개 + 60W PD CtoC 고급형 케이블, 1개",
