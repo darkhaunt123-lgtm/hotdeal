@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793720149,
+ "updated": 1793720163,
  "deals": [
+  {
+   "id": "480591059",
+   "name": "서가 25W PD3.0 PPS 2포트 멀티 초고속 충전기, SG-PDC2500A, 화이트, 1개 + 60W PD CtoC 고급형 케이블, 1개",
+   "price": 7195,
+   "originalPrice": 23900,
+   "discount": 69,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTc1Y2Uw/QUpTSlJrWFBHNWNoVDRHTnNpdm9HTlZCdGRCYXB5ekxvZVExZGg3YVdqaDA.png",
+   "link": "https://toss.shopping/_m/xu95t3M4",
+   "source": "toss",
+   "postedAt": 1793720163,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
   {
    "id": "641029489",
    "name": "청년산삼 강원도 산양삼 실속삼, 100g, 40개",
