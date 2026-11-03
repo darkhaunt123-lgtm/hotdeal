@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793723880,
+ "updated": 1793725718,
  "deals": [
+  {
+   "id": "2324201615",
+   "name": "남성팬티 10장세트, 혼합, 95, 1세트 + 휴대용 속옷 파우치, 2개",
+   "price": 15330,
+   "originalPrice": 32700,
+   "discount": 53,
+   "grade": "초대박",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-05-07/9492c394-c8f8-4a2f-93d7-9fe89d78bcac.png",
+   "link": "https://toss.shopping/_m/B6eDlTse",
+   "source": "toss",
+   "postedAt": 1793725718,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "89448985",
+   "name": "제트언스 오징어 빠삭칩, 80g, 8개",
+   "price": 13010,
+   "originalPrice": 28000,
+   "discount": 53,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZTI1Nzdl/S3A1T0QrYy91cDc0SiswTGs0a1RWZ1NQU0tYbHNLalJDU054RTFvejlYbz0.png",
+   "link": "https://toss.shopping/_m/ry3JuIC9",
+   "source": "toss",
+   "postedAt": 1793725706,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "10459489",
+   "name": "쿠잉 주름펴기 HSI-1500GW , 1개",
+   "price": 15980,
+   "originalPrice": 36000,
+   "discount": 55,
+   "grade": "초대박",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-27/2e5cbe1e-c68e-4bd9-8c42-d2a23103a7c0.jpeg",
+   "link": "https://toss.shopping/_m/B8RAqIH5",
+   "source": "toss",
+   "postedAt": 1793725694,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
   {
    "id": "2545168611",
    "name": "오브제 에어 프레쉬 고체탈취제, 포레스트 에어, 350g, 3개",
