@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793721988,
+ "updated": 1793722021,
  "deals": [
+  {
+   "id": "30402097",
+   "name": "그린비아 영양 케어 구수한맛, 200ml, 36팩",
+   "price": 33840,
+   "originalPrice": 94500,
+   "discount": 64,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OGQxNWEy/VHdiTzFqRDVNK0dITnN3ZVM4NHp3N3g1emp6bmhyUERXRzkrUExheDg4TT0.png",
+   "link": "https://toss.shopping/_m/JL4hM8y9",
+   "source": "toss",
+   "postedAt": 1793722021,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "84393203",
+   "name": "직접푸드 대왕 다이버 바지락, 통통 왕 바지락, 1kg",
+   "price": 8480,
+   "originalPrice": 17000,
+   "discount": 65,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NWY2MmQ0/QUtaTmJNOGJiTWFJTnltWmJZeHlLVmtXUTUrZDQ4c1dzb1dzalpxV0VtSGE.png",
+   "link": "https://toss.shopping/_m/3NW2U2b7",
+   "source": "toss",
+   "postedAt": 1793722010,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "1950895291",
+   "name": "질레트 호환용 신형 프로글라이드 퓨전파워 5중 면도날, 16개",
+   "price": 7000,
+   "originalPrice": 20000,
+   "discount": 65,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzg0OWM0/RG16WmsrMHgyR2ZMVFBrejJ6bXpiQ1EwMmM0bU1WekdwTTU1bXpXVHZNND0.png",
+   "link": "https://toss.shopping/_m/BsAKLNdb",
+   "source": "toss",
+   "postedAt": 1793721999,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
   {
    "id": "445863051",
    "name": "ACRO 코어핏 오픈형 이어링 블루투스 이어폰, AE-101, 블랙, 1개",
