@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793720114,
+ "updated": 1793720149,
  "deals": [
+  {
+   "id": "641029489",
+   "name": "청년산삼 강원도 산양삼 실속삼, 100g, 40개",
+   "price": 60050,
+   "originalPrice": 210000,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-13/00a68e80-ec40-4656-a7a6-a98c6e07a3d4.jpeg",
+   "link": "https://toss.shopping/_m/BSpoCJrs",
+   "source": "toss",
+   "postedAt": 1793720149,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "1923969451",
+   "name": "아침에 좋은빵 통밀식빵, 630g, 2개",
+   "price": 7230,
+   "originalPrice": 27800,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-11/e6997ced-4107-49b3-947c-6213e668d801.jpeg",
+   "link": "https://toss.shopping/_m/FXnvaV3v",
+   "source": "toss",
+   "postedAt": 1793720138,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "1918226167",
+   "name": "귀 지압 패치 no.36, 1200개, 2세트",
+   "price": 3150,
+   "originalPrice": 12900,
+   "discount": 75,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MmJkZGZk/QVBabXpNMDRubk13cHp1cVYyYUVqT296cldZWitldTZnc1oyT1hZRE5FRWg.png",
+   "link": "https://toss.shopping/_m/Xf2hncGz",
+   "source": "toss",
+   "postedAt": 1793720127,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
   {
    "id": "156877077",
    "name": "전통압착 통참깨 참기름, 350ml, 2개",
