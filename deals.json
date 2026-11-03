@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793718256,
+ "updated": 1793718289,
  "deals": [
+  {
+   "id": "83950145",
+   "name": "자연바름 MBP엔 소연골 콘드로이친 1200, 600mg, 60정, 6개",
+   "price": 31900,
+   "originalPrice": 192000,
+   "discount": 83,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MTJmNTEz/QU4vNE9PT3lUYnZKMmZtNlRmZk02Qi9DZE8rUHdRSDkza1VSM1g3RkVkOTg.png",
+   "link": "https://toss.shopping/_m/hjyPNqC8",
+   "source": "toss",
+   "postedAt": 1793718289,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "54176831",
+   "name": "유한메디카 당케어 엔 탑 혈당&유산균, 350mg, 30캡슐, 4개",
+   "price": 17760,
+   "originalPrice": 167600,
+   "discount": 89,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MmI0MWE5/YkpaYnhqWHZzWkdiYVVUNDRldnpoelFjY2o3SmxnM0JIblJQRTIrVXNQdz0.png",
+   "link": "https://toss.shopping/_m/zMLbxkZa",
+   "source": "toss",
+   "postedAt": 1793718277,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "121677905",
+   "name": "일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 6박스",
+   "price": 24900,
+   "originalPrice": 297000,
+   "discount": 91,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MmNlZmZl/QUkyNU12UFNURzJtaG1uT1hvYk1uSFl6MXNOT1RPUm1PRXl3dkRsTU1Jbmg.png",
+   "link": "https://toss.shopping/_m/vw65dqm7",
+   "source": "toss",
+   "postedAt": 1793718267,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
   {
    "id": "376356123",
    "name": "셀큐어 팔-RGD+ 알지디 액티베이터 앰플, 7ml, 4개 + 1ml 4장 증정, 1개",
