@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793723844,
+ "updated": 1793723880,
  "deals": [
+  {
+   "id": "2545168611",
+   "name": "오브제 에어 프레쉬 고체탈취제, 포레스트 에어, 350g, 3개",
+   "price": 17380,
+   "originalPrice": 40000,
+   "discount": 56,
+   "grade": "초대박",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-20/d67f41bf-2d14-4892-9d5a-27473cef3019.jpeg",
+   "link": "https://toss.shopping/_m/BfHmgfdx",
+   "source": "toss",
+   "postedAt": 1793723880,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "1001556275",
+   "name": "만토바 바질 페스토 (제노베제), 190g, 3개",
+   "price": 12700,
+   "originalPrice": 30000,
+   "discount": 57,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-12/c5bd5de1-2080-4cb2-9fa0-edbdb34aaf3b.jpeg",
+   "link": "https://toss.shopping/_m/re5KcFc6",
+   "source": "toss",
+   "postedAt": 1793723868,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "133352183",
+   "name": "온테이블 구운조미감태, 16매, 60g",
+   "price": 9880,
+   "originalPrice": 23000,
+   "discount": 57,
+   "grade": "초대박",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDMyMWZm/QU42NytkdjVyZVkvanM4WnIyZTEzdXM3RlJWc2RzUjNXcGtFMVREa1VhcVY.png",
+   "link": "https://toss.shopping/_m/pVBeudSp",
+   "source": "toss",
+   "postedAt": 1793723858,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
   {
    "id": "176171919",
    "name": "퍼니트 유기농 엑스트라버진 올리브오일 선물세트, 250ml, 2병, 1세트",
