@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793722021,
+ "updated": 1793723844,
  "deals": [
+  {
+   "id": "176171919",
+   "name": "퍼니트 유기농 엑스트라버진 올리브오일 선물세트, 250ml, 2병, 1세트",
+   "price": 16290,
+   "originalPrice": 42800,
+   "discount": 61,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-23/2786ebf9-bf85-4127-a1f0-0f2bd3997bbe.jpeg",
+   "link": "https://toss.shopping/_m/1pR3q4N5",
+   "source": "toss",
+   "postedAt": 1793723844,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
+  {
+   "id": "326928667",
+   "name": "산해직송 쪄서가는 백찰옥수수, 특대, 10개",
+   "price": 9193,
+   "originalPrice": 25000,
+   "discount": 63,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YzI3MjMx/QkJwWUExOEFRQTBjQlZWODFCOGRYWlY4L0E4ZitzQkw5Z0lYeFFnbFREND0.png",
+   "link": "https://toss.shopping/_m/XrPF6mfx",
+   "source": "toss",
+   "postedAt": 1793723832,
+   "endAt": "2026-11-05T00:00:00+09:00"
+  },
   {
    "id": "30402097",
    "name": "그린비아 영양 케어 구수한맛, 200ml, 36팩",
