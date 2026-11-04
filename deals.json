@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793805110,
+ "updated": 1793805143,
  "deals": [
+  {
+   "id": "37388193",
+   "name": "유한메디카 치아엔 탑 덴티 플러스, 60정, 4개",
+   "price": 18860,
+   "originalPrice": 167600,
+   "discount": 88,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDQ4NDIy/QUp0aGRNbnExdW8zbHk3aGt5NmZuajVvODRyUlh5bDlET0hRVm1oVmFLbTM.png",
+   "link": "https://toss.shopping/_m/df19sp9l",
+   "source": "toss",
+   "postedAt": 1793805143,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
+  {
+   "id": "677259603",
+   "name": "닥터킴스 MSM 콘드로이친 1300 마사지크림, 150ml, 3개",
+   "price": 8989,
+   "originalPrice": 84000,
+   "discount": 89,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-21/7f4b0b0d-e79b-43de-a340-cc96302d5225.jpeg",
+   "link": "https://toss.shopping/_m/rzlsll27",
+   "source": "toss",
+   "postedAt": 1793805131,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
+  {
+   "id": "309998493",
+   "name": "경록고 국내산 6년근 흑삼고, 10g, 30포",
+   "price": 19950,
+   "originalPrice": 229000,
+   "discount": 91,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDhlOGM3/QU8vek8vNVhyOVFyMU9uY2kva0Z0bHJxMU93ek85VE9JVHVVL1N2cUFUdmM.png",
+   "link": "https://toss.shopping/_m/Vat9AdVj",
+   "source": "toss",
+   "postedAt": 1793805122,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
   {
    "id": "54177991",
    "name": "식물성 대마종자유 엔 탑 1000 맥스, 1000mg, 60캡슐, 3개",
