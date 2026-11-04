@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793810712,
+ "updated": 1793812544,
  "deals": [
+  {
+   "id": "639956201",
+   "name": "더마올로지 하이드로 베리어 휩 클렌징폼, 230ml, 4개",
+   "price": 10470,
+   "originalPrice": 40000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-11/a5d9bab4-1001-4445-bc8b-a48e5a4eb8be.jpeg",
+   "link": "https://toss.shopping/_m/htlHKmgm",
+   "source": "toss",
+   "postedAt": 1793812544,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
+  {
+   "id": "26758595",
+   "name": "해즈네이처 더패치 토르마린 원적외선 붙이는 파스형 패치, 120매입, 1개",
+   "price": 16160,
+   "originalPrice": 64000,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OWRjZWNm/QVBucFFZbms1Q2tKemJFMDRZUndERG1sR2VSbW91VGtwUjRJbUZzZUZsS1c.png",
+   "link": "https://toss.shopping/_m/bYlrr7b1",
+   "source": "toss",
+   "postedAt": 1793812535,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
+  {
+   "id": "1103868579",
+   "name": "뉴트리너스 리얼 블루베리 퓨레 100퍼센트, 20g, 14포, 12박스",
+   "price": 58420,
+   "originalPrice": 226800,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MzNiMzVj/ZS9PZkc3ZmpVeG1QaytPSmMxd2JJZDVjM09kT3hQeEdEdFNzVmg3Ull2ND0.png",
+   "link": "https://toss.shopping/_m/XYcq5Ivi",
+   "source": "toss",
+   "postedAt": 1793812525,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
   {
    "id": "103364953",
    "name": "플로비즈 자연 커피꽃꿀 대용량꿀, 2kg, 1개",
