@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793812567,
+ "updated": 1793814405,
  "deals": [
+  {
+   "id": "2678205521",
+   "name": "디유 수제 초콜릿 막대과자 만들기 DIY 세트, 화이트스트로베리, 1개",
+   "price": 7990,
+   "originalPrice": 29800,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-12/24d994e1-c431-464c-9c3b-ed67a0509703.jpeg",
+   "link": "https://toss.shopping/_m/tcOKKoDs",
+   "source": "toss",
+   "postedAt": 1793814405,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
+  {
+   "id": "2643465473",
+   "name": "탐나유 햇밤 알밤, 1kg, 1개",
+   "price": 6790,
+   "originalPrice": 25900,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-11/9bb755c2-0773-40a6-890a-1b36ad35810c.jpeg",
+   "link": "https://toss.shopping/_m/ZeWD6QDC",
+   "source": "toss",
+   "postedAt": 1793814389,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
   {
    "id": "733488683",
    "name": "참송이버섯, 정품, 1kg, 1박스",
