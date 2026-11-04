@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793727597,
+ "updated": 1793805110,
  "deals": [
+  {
+   "id": "54177991",
+   "name": "식물성 대마종자유 엔 탑 1000 맥스, 1000mg, 60캡슐, 3개",
+   "price": 17950,
+   "originalPrice": 245700,
+   "discount": 92,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTk5MWQ2/QU1zTWh6YXc5Sm1wM29ja3Rkd2xjZW0rQjU0Y1A0T3IwL0JZdzVhbzBueHA.png",
+   "link": "https://toss.shopping/_m/TbXCst7q",
+   "source": "toss",
+   "postedAt": 1793805110,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
+  {
+   "id": "2651838511",
+   "name": "앙쥬 더 화이트 시그니처 8종세트, 쇼핑백 증정, 500ml, 1세트",
+   "price": 35900,
+   "originalPrice": 699000,
+   "discount": 94,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-08/942e31ec-cc4e-47a5-90d5-23edb6b370ca.jpeg",
+   "link": "https://toss.shopping/_m/fnnlZkCi",
+   "source": "toss",
+   "postedAt": 1793805100,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
   {
    "id": "146690223",
    "name": "랑주317 고메버터바 15종 풀세트, 1.5kg, 1세트",
@@ -1009,20 +1037,6 @@
    "source": "toss",
    "postedAt": 1793546511,
    "endAt": "2026-11-03T00:00:00+09:00"
-  },
-  {
-   "id": "cp8969766092",
-   "name": "오랄비 왁스 치실, 50m, 2개입, 3개",
-   "price": 5900,
-   "originalPrice": null,
-   "discount": 0,
-   "grade": "특가",
-   "category": "기타",
-   "thumbnail": null,
-   "link": "https://link.coupang.com/a/ijMeSaJdNA",
-   "source": "coupang",
-   "postedAt": 1793513626,
-   "endAt": null
   }
  ]
 }
