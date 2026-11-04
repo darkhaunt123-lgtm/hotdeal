@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793814405,
+ "updated": 1793814439,
  "deals": [
+  {
+   "id": "2669125473",
+   "name": "흑돼지 일품삼겹 구이용, 5kg, 1팩",
+   "price": 39735,
+   "originalPrice": 139000,
+   "discount": 71,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-20/7b04afd4-2cee-48aa-b2ff-242c7f95039b.png",
+   "link": "https://toss.shopping/_m/FXk4bRal",
+   "source": "toss",
+   "postedAt": 1793814439,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
+  {
+   "id": "2645463169",
+   "name": "드림이음 루테인 지아잔틴 아스타잔틴 플러스, 30정, 3개",
+   "price": 16460,
+   "originalPrice": 60000,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-07/bb6920cb-57c5-4896-ba74-06221b7a6cd2.jpeg",
+   "link": "https://toss.shopping/_m/njhq1XVp",
+   "source": "toss",
+   "postedAt": 1793814427,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
+  {
+   "id": "7858481",
+   "name": "멀티 방수 폰가방, 블랙, 1개",
+   "price": 5300,
+   "originalPrice": 19000,
+   "discount": 72,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzk3YWJi/TWpUTWtRTloxc1NkTnhBcWRPbFB1ZFZWdDN4VWRGS2g1Tm1GbDNOMmFtZz0.png",
+   "link": "https://toss.shopping/_m/7sa9R1Gt",
+   "source": "toss",
+   "postedAt": 1793814417,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
   {
    "id": "2678205521",
    "name": "디유 수제 초콜릿 막대과자 만들기 DIY 세트, 화이트스트로베리, 1개",
