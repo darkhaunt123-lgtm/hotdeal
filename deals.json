@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793810702,
+ "updated": 1793810712,
  "deals": [
+  {
+   "id": "103364953",
+   "name": "플로비즈 자연 커피꽃꿀 대용량꿀, 2kg, 1개",
+   "price": 14640,
+   "originalPrice": 60000,
+   "discount": 75,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/N2M5ZGNh/WXFmdzhaNWFIUTlodE1Kd3Jvczh6MWtjM3o3bVlmVFVHbytiTC9WUTlkQT0.png",
+   "link": "https://toss.shopping/_m/jgo6Cw02",
+   "source": "toss",
+   "postedAt": 1793810712,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
   {
    "id": "2637781339",
    "name": "마이메이트 스페인산 유기농 엑스트라버진 올리브오일 스틱형, 10ml, 14포, 1개",
