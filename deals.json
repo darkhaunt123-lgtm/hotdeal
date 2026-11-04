@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793812544,
+ "updated": 1793812567,
  "deals": [
+  {
+   "id": "733488683",
+   "name": "참송이버섯, 정품, 1kg, 1박스",
+   "price": 39015,
+   "originalPrice": 150000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTU4ZjE5/QUo2U21hekF3MDhZMjJlTEpCYkdOREliSm95Ylk0WWVOaHVXbkpKTERtTko.png",
+   "link": "https://toss.shopping/_m/D7mrge8x",
+   "source": "toss",
+   "postedAt": 1793812567,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
+  {
+   "id": "2666237991",
+   "name": "쥬비스가 만든 카테킨 450mg, 550mg, 60정, 1박스",
+   "price": 11110,
+   "originalPrice": 42000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-28/6ca7c931-b50e-42a0-b37f-9f73ceaffbd2.jpeg",
+   "link": "https://toss.shopping/_m/dRHwK5hc",
+   "source": "toss",
+   "postedAt": 1793812557,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
   {
    "id": "639956201",
    "name": "더마올로지 하이드로 베리어 휩 클렌징폼, 230ml, 4개",
