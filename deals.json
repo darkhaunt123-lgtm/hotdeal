@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793806976,
+ "updated": 1793806999,
  "deals": [
+  {
+   "id": "212614043",
+   "name": "마찌 기모 안감 깔깔이 패딩 점퍼, 블랙, L, 1개",
+   "price": 12630,
+   "originalPrice": 80000,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-25/3e9a208f-fdae-40f3-b153-0419c5375ec3.jpeg",
+   "link": "https://toss.shopping/_m/F0sJDw41",
+   "source": "toss",
+   "postedAt": 1793806999,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
+  {
+   "id": "142077655",
+   "name": "한국생활건강연구소 호리온 식물성 멜라토닌 2mg, 800mg, 30정, 1개",
+   "price": 7510,
+   "originalPrice": 50000,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-07-29/d47cb95a-6a90-463d-9139-4392934eb433.jpeg",
+   "link": "https://toss.shopping/_m/nbnRf9ld",
+   "source": "toss",
+   "postedAt": 1793806989,
+   "endAt": "2026-11-06T00:00:00+09:00"
+  },
   {
    "id": "468624839",
    "name": "뉴센트리 MBP엔 콘드로이친 1200, 600mg, 60정, 5개",
