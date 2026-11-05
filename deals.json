@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793901262,
+ "updated": 1793901273,
  "deals": [
+  {
+   "id": "2165757257",
+   "name": "뉴리스 5단 온오프 녹물제거 샤워기 헤드, 블랙, 1개 + 필터, 5개, 1세트",
+   "price": 6600,
+   "originalPrice": 25000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-02/fc301957-38eb-4e72-baa5-25a0a55cecd9.jpeg",
+   "link": "https://toss.shopping/_m/bCanfet8",
+   "source": "toss",
+   "postedAt": 1793901273,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "2666311871",
    "name": "동아제약 템포 내추럴순면 입는 오버나이트, 1개입, 10팩, 2개",
