@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793814439,
+ "updated": 1793891967,
  "deals": [
+  {
+   "id": "372466953",
+   "name": "크리스찬딘 포 옴므 오드퍼퓸, 클린코튼, 50ml, 2개",
+   "price": 13850,
+   "originalPrice": 160000,
+   "discount": 91,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-24/64cdbeab-cb8c-471a-b80f-335dd966a714.png",
+   "link": "https://toss.shopping/_m/NQH1Zi2b",
+   "source": "toss",
+   "postedAt": 1793891967,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "2605059059",
+   "name": "한국생활건강연구소 슬림핏밸런스 차전자피 가르시니아, 14개입, 8개",
+   "price": 25900,
+   "originalPrice": 400000,
+   "discount": 93,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-12/77eb0308-2c01-4896-902a-e9bec389e1c5.png",
+   "link": "https://toss.shopping/_m/3WcVQaKp",
+   "source": "toss",
+   "postedAt": 1793891956,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "619573755",
+   "name": "셀트리온 셀린온 리뉴센타 광탄력 스킨케어 3종 세트, 1세트",
+   "price": 48240,
+   "originalPrice": 690000,
+   "discount": 93,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZDA2ZjA2/VzV1VDh6TGpac25UWnJNNFpnNXVUTm1lMmZPa3pNVGhrN0h6MmV6a095WT0.png",
+   "link": "https://toss.shopping/_m/tEg1oAzs",
+   "source": "toss",
+   "postedAt": 1793891945,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "2669125473",
    "name": "흑돼지 일품삼겹 구이용, 5kg, 1팩",
@@ -1247,20 +1289,6 @@
    "source": "toss",
    "postedAt": 1793633203,
    "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "cp9509930958",
-   "name": "햇반 백미밥, 210g, 72개",
-   "price": 55800,
-   "originalPrice": null,
-   "discount": 0,
-   "grade": "특가",
-   "category": "기타",
-   "thumbnail": null,
-   "link": "https://link.coupang.com/a/illdXPwhCC",
-   "source": "coupang",
-   "postedAt": 1793595059,
-   "endAt": null
   }
  ]
 }
