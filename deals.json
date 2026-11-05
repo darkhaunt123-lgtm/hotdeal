@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793899395,
+ "updated": 1793899416,
  "deals": [
+  {
+   "id": "292531461",
+   "name": "[해남땅끝] 베니하루카 꿀밤 한입 햇고구마, 5kg",
+   "price": 10040,
+   "originalPrice": 42000,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-15/5727374d-35b9-4bce-9539-35c7636cd03f.jpeg",
+   "link": "https://toss.shopping/_m/vDA1nU9v",
+   "source": "toss",
+   "postedAt": 1793899416,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "2657232207",
+   "name": "극조생 감귤 햇귤, 로얄과, 5kg, 1개",
+   "price": 9020,
+   "originalPrice": 39900,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-16/592d7cb9-6e89-4db8-81ce-9c105ec1c457.png",
+   "link": "https://toss.shopping/_m/1GouGVNj",
+   "source": "toss",
+   "postedAt": 1793899404,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "67386225",
    "name": "에어투이어 투명 블루투스 이어폰 GSTW-CL-11-IZ, 화이트, 1개",
