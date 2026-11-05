@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793895702,
+ "updated": 1793897529,
  "deals": [
+  {
+   "id": "84023483",
+   "name": "쉬블림로브 캐릭터 홈웨어 세트 GWD0658, FREE, 1개",
+   "price": 6530,
+   "originalPrice": 32900,
+   "discount": 80,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTIyOTZj/QU5RY3BXR240MFVMQ0Rlb09JdklvKzFXVjIxWExXd0lXbWVvcTBQUWk2OTg.png",
+   "link": "https://toss.shopping/_m/VNeXbZ8l",
+   "source": "toss",
+   "postedAt": 1793897529,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "1060440155",
+   "name": "비욘드오리진 효소N 곡물발효효소, 3g, 100포, 3박스",
+   "price": 35500,
+   "originalPrice": 180000,
+   "discount": 80,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NDlmODVm/WTdXdDJaRjYza2JJeG16V3JJMkU2MVp5V3hNeHJGTXRWaTB4WENGV3pNcz0.png",
+   "link": "https://toss.shopping/_m/1LSRlFDC",
+   "source": "toss",
+   "postedAt": 1793897515,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "95071361",
    "name": "휴플러스 무선 온열 눈마사지기, 핑크, 1개",
@@ -1246,76 +1274,6 @@
    "link": "https://toss.shopping/_m/d0eevcl7",
    "source": "toss",
    "postedAt": 1793638774,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "2279756881",
-   "name": "스크래치 제로 두툼 마법수세미, 20개입, 1팩",
-   "price": 10410,
-   "originalPrice": 29900,
-   "discount": 65,
-   "grade": "무지성급",
-   "category": "주방용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-17/745badae-a0ad-4f42-8d32-ad54587dc1ca.jpeg",
-   "link": "https://toss.shopping/_m/DNBKUM4A",
-   "source": "toss",
-   "postedAt": 1793636963,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "2611583259",
-   "name": "GNM 종합비타민미네랄15, 30정, 3개",
-   "price": 9470,
-   "originalPrice": 30000,
-   "discount": 68,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-14/e5476e63-d86e-4d98-b81d-dcb22f96b90d.jpeg",
-   "link": "https://toss.shopping/_m/vQuENGhC",
-   "source": "toss",
-   "postedAt": 1793636950,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "152110173",
-   "name": "천년참기름, 350ml, 2개",
-   "price": 12500,
-   "originalPrice": 39900,
-   "discount": 68,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmM0NGQ3/QUk1Zzc5WWd6M1U1VnhEeTM5K1lpc3NBZStWVTc4UWF1MVU0Mlp0Vk9POTA.png",
-   "link": "https://toss.shopping/_m/fM8xy9b2",
-   "source": "toss",
-   "postedAt": 1793636939,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "778996279",
-   "name": "타이글 7중 효소 액상 세탁세제, 라벤더향, 일반 드럼 겸용, 실내건조, 2.5L, 4개",
-   "price": 12250,
-   "originalPrice": 40000,
-   "discount": 69,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-02-09/7904919d-85aa-467d-a7a4-49a9432e9338.jpeg",
-   "link": "https://toss.shopping/_m/dZ22TIY4",
-   "source": "toss",
-   "postedAt": 1793636928,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "2309142767",
-   "name": "디포아 스포츠 헤어밴드, 블랙 FREE 2개 + 그레이 FREE 2개, 4개",
-   "price": 4500,
-   "originalPrice": 14900,
-   "discount": 69,
-   "grade": "무지성급",
-   "category": "스포츠/레져",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-22/9b2c9830-195a-46a9-a136-89b722d1dc6b.jpeg",
-   "link": "https://toss.shopping/_m/rtxbfoNu",
-   "source": "toss",
-   "postedAt": 1793636918,
    "endAt": "2026-11-04T00:00:00+09:00"
   }
  ]
