@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793893825,
+ "updated": 1793893846,
  "deals": [
+  {
+   "id": "468562513",
+   "name": "뉴센트리 MBP엔 소연골 콘드로이친 1200, 600mg, 60정, 5개",
+   "price": 25665,
+   "originalPrice": 175000,
+   "discount": 85,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-12-22/b87effa5-3a41-4d94-81cd-06219044b20c.jpeg",
+   "link": "https://toss.shopping/_m/PXOBHsU4",
+   "source": "toss",
+   "postedAt": 1793893846,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "572431935",
+   "name": "오앤 이클립스 압력밥솥, ONP-2S35B, 3L, 1개",
+   "price": 29600,
+   "originalPrice": 199000,
+   "discount": 85,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-08/3d4d6d4c-ab93-4138-a561-62f3174718ba.jpeg",
+   "link": "https://toss.shopping/_m/1lBlN31b",
+   "source": "toss",
+   "postedAt": 1793893836,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "1103398885",
    "name": "에이지랩 달팽이 뮤신 올인원 크림, 50g, 3개 + 선크림 증정",
