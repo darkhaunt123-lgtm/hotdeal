@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793893846,
+ "updated": 1793895658,
  "deals": [
+  {
+   "id": "10474971",
+   "name": "세상편한 뱃살 하이웨스트 팬티, 스킨, 1개 + 블랙, 1개 + 핑크, 1개 + 베이지, 1개 + 브라운, 1개",
+   "price": 10400,
+   "originalPrice": 67000,
+   "discount": 84,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NWYzYzI1/SEkvZUJjUFJNRXZPSzdQTi9IRVREWjlqODlTZWNrTU84YUpzOHpPY3pHST0.png",
+   "link": "https://toss.shopping/_m/pa5gtJkd",
+   "source": "toss",
+   "postedAt": 1793895658,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "468562513",
    "name": "뉴센트리 MBP엔 소연골 콘드로이친 1200, 600mg, 60정, 5개",
@@ -1246,76 +1260,6 @@
    "link": "https://toss.shopping/_m/rtxbfoNu",
    "source": "toss",
    "postedAt": 1793636918,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "190531959",
-   "name": "디네르 에클라 드 레브 니치향수, 50ml, 1개",
-   "price": 36690,
-   "originalPrice": 119900,
-   "discount": 69,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-10/959a1616-30a8-41d4-9f21-d5d7c99af8dc.jpeg",
-   "link": "https://toss.shopping/_m/tYFbZY0w",
-   "source": "toss",
-   "postedAt": 1793635105,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "2566955185",
-   "name": "냉동 삶은 홍찰옥수수, 특대, 20개",
-   "price": 13400,
-   "originalPrice": 49800,
-   "discount": 73,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-03/c90260c4-8abf-47f1-9fdb-7960eb309bfa.png",
-   "link": "https://toss.shopping/_m/Tir8VzTa",
-   "source": "toss",
-   "postedAt": 1793635093,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "151364773",
-   "name": "코렐 코닝웨어 스누피 레터 도자기 식기세트, 1인용, 혼합, 7P, 1세트",
-   "price": 25110,
-   "originalPrice": 109000,
-   "discount": 76,
-   "grade": "무지성급",
-   "category": "주방용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/OGI3Mjlj/QVArYkRQRGdBWElnUjhuSUpQbmJEZWV5VERmRkpmTGRKMkdiSjJENEgxbU4.png",
-   "link": "https://toss.shopping/_m/9yD7Me4r",
-   "source": "toss",
-   "postedAt": 1793635082,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "2241044333",
-   "name": "에이지랩 스네일 뮤신 브라이트닝 선크림, 70ml, 4개",
-   "price": 15370,
-   "originalPrice": 100000,
-   "discount": 84,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-10-15/d8340b85-20dc-47dd-8c7e-2ffe7faed2dc.jpeg",
-   "link": "https://toss.shopping/_m/xRNaTfCu",
-   "source": "toss",
-   "postedAt": 1793635070,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "128185381",
-   "name": "곰도리 온열안대 오리지널 케어 플러스, 40매입, 1개",
-   "price": 6300,
-   "originalPrice": 39800,
-   "discount": 84,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-03-12/820d235f-fa3d-4016-b8b9-51cf650041a6.png",
-   "link": "https://toss.shopping/_m/5OUkYhVa",
-   "source": "toss",
-   "postedAt": 1793635059,
    "endAt": "2026-11-04T00:00:00+09:00"
   }
  ]
