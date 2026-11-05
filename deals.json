@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793895658,
+ "updated": 1793895691,
  "deals": [
+  {
+   "id": "168797861",
+   "name": "르까프 여성용 집업 플리스 자켓, 핑크베이지, 105, 1개",
+   "price": 10600,
+   "originalPrice": 59000,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-08-21/afba3f8f-910b-40d1-96b7-c26d8f946a57.jpeg",
+   "link": "https://toss.shopping/_m/ZFTIoMIz",
+   "source": "toss",
+   "postedAt": 1793895691,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "678534881",
+   "name": "퓨어그라운드 미백 주름 보습 코어 리프팅 아이크림, 40ml, 4개",
+   "price": 6880,
+   "originalPrice": 39600,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZGRlMjUy/Tm5KNjBvblloK2wySi9rR3ljbDhtejhqQituQS9QcFdmd01sclo4QldsST0.png",
+   "link": "https://toss.shopping/_m/hhMLDAIz",
+   "source": "toss",
+   "postedAt": 1793895680,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "186225505",
+   "name": "지노바 PureTune 블루투스 무선 이어폰, ANC+ENC 노이즈캔슬링, 블랙, 1개",
+   "price": 22260,
+   "originalPrice": 125900,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NGI1NTE2/QU05RDdlZWpiZjNuTHkzdHQ2Y3MzdVk5UEc2YlhMSHpUTmp3Zm16cjBMbWI.png",
+   "link": "https://toss.shopping/_m/zKuqgzS6",
+   "source": "toss",
+   "postedAt": 1793895669,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "10474971",
    "name": "세상편한 뱃살 하이웨스트 팬티, 스킨, 1개 + 블랙, 1개 + 핑크, 1개 + 베이지, 1개 + 브라운, 1개",
