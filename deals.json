@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793899416,
+ "updated": 1793901227,
  "deals": [
+  {
+   "id": "1959347537",
+   "name": "한경희 4세대 하이엔드퓨어 BLDC 무선 탁상용 선풍기, HAAN-MFL610, 퓨어화이트, 1개",
+   "price": 18430,
+   "originalPrice": 79900,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/MWNjNTc3/QUtHMENGT1lSOWN0M3I5b2x5WGtqM1ozSjlTbmdyYXJlLzFTaDlKY2c0Z0w.png",
+   "link": "https://toss.shopping/_m/pM1NMBtD",
+   "source": "toss",
+   "postedAt": 1793901227,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "292531461",
    "name": "[해남땅끝] 베니하루카 꿀밤 한입 햇고구마, 5kg",
@@ -1246,76 +1260,6 @@
    "link": "https://toss.shopping/_m/TLQDNskh",
    "source": "toss",
    "postedAt": 1793642494,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "109834949",
-   "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-   "price": 7900,
-   "originalPrice": 17800,
-   "discount": 55,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-07-25/7ca9d4c9-fb69-4a3e-bd3d-58c5a6980da7.jpeg",
-   "link": "https://toss.shopping/_m/Hd0vpxDe",
-   "source": "toss",
-   "postedAt": 1793640677,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "157416995",
-   "name": "테오푸드 오뎅도리탕, 1.2kg, 2개",
-   "price": 33890,
-   "originalPrice": 77800,
-   "discount": 56,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MGM5NzM3/VG05aDhEK21NT1lxSEZxeVUrNm44WlVZbjJ6WGFoVkRzcXN0aG9vOUJncz0.png",
-   "link": "https://toss.shopping/_m/TeL0wmkc",
-   "source": "toss",
-   "postedAt": 1793640667,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "2515175001",
-   "name": "양념 치마살, 300g, 2개",
-   "price": 10900,
-   "originalPrice": 25000,
-   "discount": 56,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NDU1Zjkw/U1NneHhUaGx6UXpuMmhsb2Q1eEM1Qmd6RWpYRVk2VWFJY051MHA0UE5hcz0.png",
-   "link": "https://toss.shopping/_m/dLi3Y3sn",
-   "source": "toss",
-   "postedAt": 1793640653,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "93853137",
-   "name": "산해직송 간장 연어장, 300g, 2개",
-   "price": 17375,
-   "originalPrice": 41000,
-   "discount": 57,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/product/29739713/239f3491-67a1-4022-a1b4-795c0310ed8f.jpeg",
-   "link": "https://toss.shopping/_m/9hP1dZqh",
-   "source": "toss",
-   "postedAt": 1793640644,
-   "endAt": "2026-11-04T00:00:00+09:00"
-  },
-  {
-   "id": "2362157987",
-   "name": "국내산 활 흰다리새우 횟감가능, 1kg, 1박스",
-   "price": 18660,
-   "originalPrice": 43900,
-   "discount": 57,
-   "grade": "초대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YWIzZmI4/UURuaG5DUzBlOUUreFkrVGxzeExadVcxTW1vL0dMT0dlUHRlaXdqSldXMD0.png",
-   "link": "https://toss.shopping/_m/5NOLYBRA",
-   "source": "toss",
-   "postedAt": 1793640636,
    "endAt": "2026-11-04T00:00:00+09:00"
   }
  ]
