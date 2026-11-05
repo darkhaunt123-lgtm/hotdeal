@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793895691,
+ "updated": 1793895702,
  "deals": [
+  {
+   "id": "95071361",
+   "name": "휴플러스 무선 온열 눈마사지기, 핑크, 1개",
+   "price": 29600,
+   "originalPrice": 159000,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmVhMGEz/WnMxczgyZVRXWk9UWnBqTW5tUmt6V21Ua3pONW05c2t0a3drMjg1czJ5dz0.png",
+   "link": "https://toss.shopping/_m/Tfyk3f8A",
+   "source": "toss",
+   "postedAt": 1793895702,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "168797861",
    "name": "르까프 여성용 집업 플리스 자켓, 핑크베이지, 105, 1개",
