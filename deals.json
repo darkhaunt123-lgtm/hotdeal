@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793901227,
+ "updated": 1793901262,
  "deals": [
+  {
+   "id": "2666311871",
+   "name": "동아제약 템포 내추럴순면 입는 오버나이트, 1개입, 10팩, 2개",
+   "price": 10010,
+   "originalPrice": 40000,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-29/fa722bbc-74f4-44b0-998f-2265569c870a.jpeg",
+   "link": "https://toss.shopping/_m/LlTJBHI4",
+   "source": "toss",
+   "postedAt": 1793901262,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "1361280755",
+   "name": "미끄럼방지 욕실화, 블랙(남성용), 여성용M사이즈 남성용L사이즈, 1개",
+   "price": 4840,
+   "originalPrice": 20000,
+   "discount": 75,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-12-24/d778705f-6915-4b4e-bd69-fbdd5da0a0bf.jpeg",
+   "link": "https://toss.shopping/_m/jvWxvLND",
+   "source": "toss",
+   "postedAt": 1793901249,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "1361280765",
+   "name": "미끄럼방지 욕실화, 그레이(남성용), 여성용M사이즈 남성용L사이즈, 1개",
+   "price": 4840,
+   "originalPrice": 20000,
+   "discount": 75,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-12-24/d778705f-6915-4b4e-bd69-fbdd5da0a0bf.jpeg",
+   "link": "https://toss.shopping/_m/dl4S8dIp",
+   "source": "toss",
+   "postedAt": 1793901239,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "1959347537",
    "name": "한경희 4세대 하이엔드퓨어 BLDC 무선 탁상용 선풍기, HAAN-MFL610, 퓨어화이트, 1개",
