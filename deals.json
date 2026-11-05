@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793897529,
+ "updated": 1793897561,
  "deals": [
+  {
+   "id": "2429685223",
+   "name": "비타민마을 엑스트라버진 올리브오일&대마종자유 식물성캡슐, 1,000mg, 30정, 5개",
+   "price": 16600,
+   "originalPrice": 79500,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/YTI5NjJj/QUl6RTdBTnhqZ01zaGp1Y3g4SjhZWlE1RTRVUnpvd0tieEo3Mll3QnZ5Wno.png",
+   "link": "https://toss.shopping/_m/lppepVue",
+   "source": "toss",
+   "postedAt": 1793897561,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "2642328999",
+   "name": "디어커스 원데이 수세미 에코컷, 그레이, 100매, 6팩",
+   "price": 11890,
+   "originalPrice": 59400,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-01/91f1bede-df15-4db0-b0d7-b46c8bb8358c.png",
+   "link": "https://toss.shopping/_m/Dgrv7jO4",
+   "source": "toss",
+   "postedAt": 1793897550,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "1411815059",
+   "name": "미끄럼방지캡 포함 길이조절 주방 선반, 화이트, 33-57x24x13.5cm, 2개",
+   "price": 10050,
+   "originalPrice": 50000,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/product/427465/6fa22a26-41bf-45a7-a15a-88216042f4b4.jpg",
+   "link": "https://toss.shopping/_m/tFAIxpGy",
+   "source": "toss",
+   "postedAt": 1793897539,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "84023483",
    "name": "쉬블림로브 캐릭터 홈웨어 세트 GWD0658, FREE, 1개",
