@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793891967,
+ "updated": 1793891990,
  "deals": [
+  {
+   "id": "163071095",
+   "name": "하루하나 유기농 레자몽, 레몬즙+자몽즙, 280g, 7박스",
+   "price": 14990,
+   "originalPrice": 132300,
+   "discount": 88,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/NDQ3NGQ0/QU01REppVndOdHJlT0REZXpoejVKeWRMeVRoNGRNbkhMNnVReHUrT2xDL1I.png",
+   "link": "https://toss.shopping/_m/HNWJeFkx",
+   "source": "toss",
+   "postedAt": 1793891990,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
+  {
+   "id": "11304679",
+   "name": "유한메디카 온가족 멀티비타민 미네랄 엔 탑 원데이 케어, 90정, 2개",
+   "price": 14980,
+   "originalPrice": 163800,
+   "discount": 90,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/M2NkYmYx/ZkhTZGkzY1cyTFI4bFdjK2VIR2Zneld5WHBSOHNXOGNrT0VIYnU4V2tPQT0.png",
+   "link": "https://toss.shopping/_m/TTCvimhm",
+   "source": "toss",
+   "postedAt": 1793891979,
+   "endAt": "2026-11-07T00:00:00+09:00"
+  },
   {
    "id": "372466953",
    "name": "크리스찬딘 포 옴므 오드퍼퓸, 클린코튼, 50ml, 2개",
