@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793986246,
+ "updated": 1793988058,
  "deals": [
+  {
+   "id": "80550123",
+   "name": "페이크 카라 블라우스, 레이스 화이트, 1개",
+   "price": 7215,
+   "originalPrice": 27000,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/product/32742041/35cb2b9f-4022-4d9b-8337-0cd5c76e296d.jpeg",
+   "link": "https://toss.shopping/_m/npdbHcfd",
+   "source": "toss",
+   "postedAt": 1793988058,
+   "endAt": "2026-11-08T00:00:00+09:00"
+  },
   {
    "id": "2652888073",
    "name": "포뷰트 웨트 헤어 폴리쉬 오일, 160ml, 1개",
@@ -1191,62 +1205,6 @@
    "source": "toss",
    "postedAt": 1793805100,
    "endAt": "2026-11-06T00:00:00+09:00"
-  },
-  {
-   "id": "146690223",
-   "name": "랑주317 고메버터바 15종 풀세트, 1.5kg, 1세트",
-   "price": 31300,
-   "originalPrice": 45400,
-   "discount": 31,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-07-22/8d13d1b4-b719-410e-b970-ffdf37db2dd8.jpeg",
-   "link": "https://toss.shopping/_m/z4HO9sQk",
-   "source": "toss",
-   "postedAt": 1793727597,
-   "endAt": "2026-11-05T00:00:00+09:00"
-  },
-  {
-   "id": "12180961",
-   "name": "천연사이다 제로, 250ml, 30개",
-   "price": 10900,
-   "originalPrice": 16500,
-   "discount": 33,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/MDBmM2Vm/QUs0VUxjNzI2MDVuUE1abHZzRzdrbUhqdDU1eE5IbHB5NnRVRmk2N1ZKWng.png",
-   "link": "https://toss.shopping/_m/3pjWDgS9",
-   "source": "toss",
-   "postedAt": 1793727585,
-   "endAt": "2026-11-05T00:00:00+09:00"
-  },
-  {
-   "id": "17553783",
-   "name": "대왕오징어 장족 200g, 3개",
-   "price": 25010,
-   "originalPrice": 38700,
-   "discount": 35,
-   "grade": "대박",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/M2M2NjQz/QUxNclJrZGNmeWpnRGZ6L082Q0NzQ1dUZlhkQVRlUTlnTmFZMHE5cUE0MTU.png",
-   "link": "https://toss.shopping/_m/Xqj9nL6B",
-   "source": "toss",
-   "postedAt": 1793727574,
-   "endAt": "2026-11-05T00:00:00+09:00"
-  },
-  {
-   "id": "711912109",
-   "name": "더마올로지 8중 히알루론산 모이스처 대용량 기능성 수분크림, 1L, 1개",
-   "price": 12990,
-   "originalPrice": 20000,
-   "discount": 35,
-   "grade": "대박",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-23/53dadf58-9f79-4949-94a9-0723b7c2ca92.jpeg",
-   "link": "https://toss.shopping/_m/J0zvYPRp",
-   "source": "toss",
-   "postedAt": 1793727565,
-   "endAt": "2026-11-05T00:00:00+09:00"
   }
  ]
 }
