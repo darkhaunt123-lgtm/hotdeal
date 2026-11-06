@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793982489,
+ "updated": 1793982521,
  "deals": [
+  {
+   "id": "1414263255",
+   "name": "Schtus 전기면도기, KS0272, 블루, 1개",
+   "price": 20071,
+   "originalPrice": 98000,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-06/290ac82a-22e1-471b-b459-c501120a38a4.jpeg",
+   "link": "https://toss.shopping/_m/D9BenCW",
+   "source": "toss",
+   "postedAt": 1793982521,
+   "endAt": "2026-11-08T00:00:00+09:00"
+  },
+  {
+   "id": "2123292341",
+   "name": "베트남 고산지대 자연산 토종 생꿀, 2.4kg, 2병",
+   "price": 50020,
+   "originalPrice": 240000,
+   "discount": 79,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-09-01/7211798a-d0a4-4160-bf9f-33d4d09893c8.jpeg",
+   "link": "https://toss.shopping/_m/lZ2tSsGo",
+   "source": "toss",
+   "postedAt": 1793982510,
+   "endAt": "2026-11-08T00:00:00+09:00"
+  },
+  {
+   "id": "2658088553",
+   "name": "저스트원 파워 핸디 스티머, JO-SI1000M, 1개",
+   "price": 17830,
+   "originalPrice": 99000,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/840/live/product/848867195/84054ef6-3038-4a28-a58a-edceff53dc86.jpg",
+   "link": "https://toss.shopping/_m/B8fcoprd",
+   "source": "toss",
+   "postedAt": 1793982500,
+   "endAt": "2026-11-08T00:00:00+09:00"
+  },
   {
    "id": "1001675647",
    "name": "김정문알로에 큐어 하이드라 수딩 토너, 130ml, 1개 + 에멀젼, 130ml, 1개",
