@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793988091,
+ "updated": 1793988101,
  "deals": [
+  {
+   "id": "320286779",
+   "name": "사리원 닭곰탕, 600g, 10팩",
+   "price": 29900,
+   "originalPrice": 99900,
+   "discount": 70,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjU4MGU2/ZHYzRk5yak5GN094ZkY2emRTeWI4bVVzOGxJK3ROSENlbklISHN0Q01sVT0.png",
+   "link": "https://toss.shopping/_m/BG9rKBiw",
+   "source": "toss",
+   "postedAt": 1793988101,
+   "endAt": "2026-11-08T00:00:00+09:00"
+  },
   {
    "id": "2383531165",
    "name": "자연관 이뮨 멀티비타민&미네랄, 7개입, 1개",
