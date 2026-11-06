@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793984359,
+ "updated": 1793984388,
  "deals": [
+  {
+   "id": "1109054481",
+   "name": "쉬젤 아티 내열용기 혼합 10종, 320ml 3개 + 400ml 3개 + 520ml 2개 + 640ml 2개, 1세트",
+   "price": 19400,
+   "originalPrice": 82600,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NTNlMjc0/YzFrczJhMDAyd3pMT1l6am1PYXlTYVl6cEprMkdkdHNNMmJiWk1rd21jWT0.png",
+   "link": "https://toss.shopping/_m/Vy1Fxn9C",
+   "source": "toss",
+   "postedAt": 1793984388,
+   "endAt": "2026-11-08T00:00:00+09:00"
+  },
+  {
+   "id": "2523489535",
+   "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+   "price": 7900,
+   "originalPrice": 33600,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/Y2VjZDA0/QU0zUE1sbU83WnJNYzlITWJKdE1PMndsdzBsdFdFeHprN1cwNWowT0xJM1Q.png",
+   "link": "https://toss.shopping/_m/JBxPebX4",
+   "source": "toss",
+   "postedAt": 1793984378,
+   "endAt": "2026-11-08T00:00:00+09:00"
+  },
+  {
+   "id": "172992735",
+   "name": "코오롱제약 맥주효모 비오틴 10000 2개월분, 500mg, 60정, 1박스",
+   "price": 5950,
+   "originalPrice": 27000,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/ZGIzMzk2/RGhLdDFQbkcxcVBYQ1UwTkpXbFNlOVQ3TDVSZmhBNUxhbGF0dHVoVVVraz0.png",
+   "link": "https://toss.shopping/_m/dd6XfS7i",
+   "source": "toss",
+   "postedAt": 1793984368,
+   "endAt": "2026-11-08T00:00:00+09:00"
+  },
   {
    "id": "2422858483",
    "name": "팬톤 보조배터리, PTPB-04, 10000mAh, 그레이, 1개",
