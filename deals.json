@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793980676,
+ "updated": 1793982489,
  "deals": [
+  {
+   "id": "1001675647",
+   "name": "김정문알로에 큐어 하이드라 수딩 토너, 130ml, 1개 + 에멀젼, 130ml, 1개",
+   "price": 14990,
+   "originalPrice": 87000,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTMxNTFi/VUEvOWZLK3JMdFZWVlAyNjhIQnZyMWVMUjhldXY3bndWWEJHajFGUXVmQT0.png",
+   "link": "https://toss.shopping/_m/Hx5ECoo7",
+   "source": "toss",
+   "postedAt": 1793982489,
+   "endAt": "2026-11-08T00:00:00+09:00"
+  },
   {
    "id": "2672327065",
    "name": "에버라스트 여성 기모 코듀로이 팬츠, 4종세트, 66, 1세트",
@@ -1176,76 +1190,6 @@
    "link": "https://toss.shopping/_m/XrPF6mfx",
    "source": "toss",
    "postedAt": 1793723832,
-   "endAt": "2026-11-05T00:00:00+09:00"
-  },
-  {
-   "id": "30402097",
-   "name": "그린비아 영양 케어 구수한맛, 200ml, 36팩",
-   "price": 33840,
-   "originalPrice": 94500,
-   "discount": 64,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/OGQxNWEy/VHdiTzFqRDVNK0dITnN3ZVM4NHp3N3g1emp6bmhyUERXRzkrUExheDg4TT0.png",
-   "link": "https://toss.shopping/_m/JL4hM8y9",
-   "source": "toss",
-   "postedAt": 1793722021,
-   "endAt": "2026-11-05T00:00:00+09:00"
-  },
-  {
-   "id": "84393203",
-   "name": "직접푸드 대왕 다이버 바지락, 통통 왕 바지락, 1kg",
-   "price": 8480,
-   "originalPrice": 17000,
-   "discount": 65,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/NWY2MmQ0/QUtaTmJNOGJiTWFJTnltWmJZeHlLVmtXUTUrZDQ4c1dzb1dzalpxV0VtSGE.png",
-   "link": "https://toss.shopping/_m/3NW2U2b7",
-   "source": "toss",
-   "postedAt": 1793722010,
-   "endAt": "2026-11-05T00:00:00+09:00"
-  },
-  {
-   "id": "1950895291",
-   "name": "질레트 호환용 신형 프로글라이드 퓨전파워 5중 면도날, 16개",
-   "price": 7000,
-   "originalPrice": 20000,
-   "discount": 65,
-   "grade": "무지성급",
-   "category": "생활용품",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/Mzg0OWM0/RG16WmsrMHgyR2ZMVFBrejJ6bXpiQ1EwMmM0bU1WekdwTTU1bXpXVHZNND0.png",
-   "link": "https://toss.shopping/_m/BsAKLNdb",
-   "source": "toss",
-   "postedAt": 1793721999,
-   "endAt": "2026-11-05T00:00:00+09:00"
-  },
-  {
-   "id": "445863051",
-   "name": "ACRO 코어핏 오픈형 이어링 블루투스 이어폰, AE-101, 블랙, 1개",
-   "price": 15600,
-   "originalPrice": 49800,
-   "discount": 68,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/YjM2NjE0/QU1KeDUvR3pUdHZNVGFkdlNmbVdOVDZ3bnREMlpsbExZOHhwblk4SzFIS1k.png",
-   "link": "https://toss.shopping/_m/JxSEhn2w",
-   "source": "toss",
-   "postedAt": 1793721988,
-   "endAt": "2026-11-05T00:00:00+09:00"
-  },
-  {
-   "id": "2309142761",
-   "name": "디포아 스포츠 헤어밴드, 블랙, FREE, 4개",
-   "price": 4500,
-   "originalPrice": 14900,
-   "discount": 69,
-   "grade": "무지성급",
-   "category": "스포츠/레져",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-06-22/959810b5-adce-42c4-b3c5-ebe152002880.jpeg",
-   "link": "https://toss.shopping/_m/vQ0gNAgr",
-   "source": "toss",
-   "postedAt": 1793721976,
    "endAt": "2026-11-05T00:00:00+09:00"
   }
  ]
