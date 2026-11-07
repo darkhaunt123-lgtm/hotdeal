@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1794069386,
+ "updated": 1794069417,
  "deals": [
+  {
+   "id": "215867159",
+   "name": "쉬블림로브 파자마 잠옷 상하의 세트, 쁘띠마망, 보라색, FREE, 1세트",
+   "price": 7870,
+   "originalPrice": 32900,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTEyMTZk/QU14VGpGL2I1MDZBZFNkbGJ5YjRkdFJSTHN0Tm5kREUvTERNM21UelBrMHo.png",
+   "link": "https://toss.shopping/_m/7UaRcSic",
+   "source": "toss",
+   "postedAt": 1794069417,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
+  {
+   "id": "688982819",
+   "name": "발이 편한 카바 밴딩 중목 양말, 남성용, 화이트, 20켤레",
+   "price": 7060,
+   "originalPrice": 30000,
+   "discount": 76,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTRlNjBj/QU9Yd3N3RXhqMDVUaWg4emhjUjRJSVJScTUxNnFoUUNOZi91QUlRaTQ5OTY.png",
+   "link": "https://toss.shopping/_m/DdkgnKl3",
+   "source": "toss",
+   "postedAt": 1794069407,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
+  {
+   "id": "11827165",
+   "name": "장흥 표고버섯 선물세트, 백화고 혼합세트 5호, 1박스",
+   "price": 44689,
+   "originalPrice": 200000,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/product/574755/4a9f10ab-31a0-42b7-a6d2-edfa8beae0cd.jpg",
+   "link": "https://toss.shopping/_m/Hw7bEPBu",
+   "source": "toss",
+   "postedAt": 1794069397,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
   {
    "id": "68103",
    "name": "바이마르 히든쉐프 스테인레스 와이드 직사각팬, 1개",
