@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1793988101,
+ "updated": 1794063818,
  "deals": [
+  {
+   "id": "1838035451",
+   "name": "동의삼 6년근 홍삼녹용 원데이스틱, 30포, 3개",
+   "price": 34700,
+   "originalPrice": 477000,
+   "discount": 92,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-21/e48cb5ad-1a3c-4155-a8ae-df48d0e0383a.jpeg",
+   "link": "https://toss.shopping/_m/JJgsVDX5",
+   "source": "toss",
+   "postedAt": 1794063818,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
+  {
+   "id": "1649541657",
+   "name": "예지미인 데일리센스 요실금 기저귀 팬티형, 대형, 9개입, 8팩",
+   "price": 29900,
+   "originalPrice": 400000,
+   "discount": 92,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-04-23/b29bddeb-1589-4cfb-b2d9-3ab0b605ea5a.jpeg",
+   "link": "https://toss.shopping/_m/XiB7fdzy",
+   "source": "toss",
+   "postedAt": 1794063808,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
   {
    "id": "320286779",
    "name": "사리원 닭곰탕, 600g, 10팩",
