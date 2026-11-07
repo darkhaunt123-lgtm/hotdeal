@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1794063818,
+ "updated": 1794063850,
  "deals": [
+  {
+   "id": "108805355",
+   "name": "파스쿠치 인텐시브 썬 쌩얼톤업 비비크림, 50ml, 2개",
+   "price": 6550,
+   "originalPrice": 50000,
+   "discount": 86,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-05-28/563f3810-4dbb-4bff-8170-293412d89d68.jpeg",
+   "link": "https://toss.shopping/_m/RtdWNocq",
+   "source": "toss",
+   "postedAt": 1794063850,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
+  {
+   "id": "161276563",
+   "name": "영진약품 두뇌 인지력 PS 포스파티딜세린 분말, 2g, 90포, 1개",
+   "price": 33900,
+   "originalPrice": 276000,
+   "discount": 87,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NGViMTE5/QVBHOFZ1a1BET3N6ODduajg1dVo4L3Vjd1U4VFlhR1YvTDNoOFB3WjRiak0.png",
+   "link": "https://toss.shopping/_m/7GApt9cC",
+   "source": "toss",
+   "postedAt": 1794063840,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
+  {
+   "id": "145518039",
+   "name": "HWC 이너솔루션 질 유래 유산균, 2g, 30포, 4박스",
+   "price": 19700,
+   "originalPrice": 160000,
+   "discount": 87,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-07-25/fb40713a-2c82-4d72-8674-8f9d6cd1eeaa.jpeg",
+   "link": "https://toss.shopping/_m/BXeKSYoh",
+   "source": "toss",
+   "postedAt": 1794063829,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
   {
    "id": "1838035451",
    "name": "동의삼 6년근 홍삼녹용 원데이스틱, 30포, 3개",
