@@ -1,7 +1,49 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1794073081,
+ "updated": 1794073111,
  "deals": [
+  {
+   "id": "86973821",
+   "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
+   "price": 13290,
+   "originalPrice": 49900,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/ODYyOTZj/QUxGVTU4TjVlL0Q0SGlzT0grR0ZiTW1EQjNuendxTjQ0ZUtENy95eFZNZkQ.png",
+   "link": "https://toss.shopping/_m/xWw4Qw46",
+   "source": "toss",
+   "postedAt": 1794073111,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
+  {
+   "id": "146046775",
+   "name": "필터포유 구리 활성탄 차량용 에어컨 필터, 카본코퍼 CFCC009, 2개입, 1박스",
+   "price": 10200,
+   "originalPrice": 39900,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "자동차용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/YzA3NzRj/QVBtN2x6Tm1EOHlQOGMxeHg1M2o3eHRuc1BoN0V2RXNISTRVN2w3ZzhCV2g.png",
+   "link": "https://toss.shopping/_m/3oDnrFXg",
+   "source": "toss",
+   "postedAt": 1794073101,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
+  {
+   "id": "588847691",
+   "name": "앙쥬 노니 멀티 헤어에센스, 500ml, 1+1 구성, 총 2개",
+   "price": 11110,
+   "originalPrice": 44000,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "뷰티",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-01-13/ea590fa0-cc78-40b3-8bb8-da28f02d6be0.jpeg",
+   "link": "https://toss.shopping/_m/fPMiQO8A",
+   "source": "toss",
+   "postedAt": 1794073091,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
   {
    "id": "688982829",
    "name": "발이 편한 카바 밴딩 중목 양말, 여성용, 블랙, 20켤레",
