@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1794067564,
+ "updated": 1794069386,
  "deals": [
+  {
+   "id": "68103",
+   "name": "바이마르 히든쉐프 스테인레스 와이드 직사각팬, 1개",
+   "price": 29000,
+   "originalPrice": 130000,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/NGFlNDIw/WWNSbVl5OHNabTh6bVRadU5OTnBtSXlSUzJiUm5YTXMxdG1OSnE5WGFwRT0.png",
+   "link": "https://toss.shopping/_m/TBeDxu8d",
+   "source": "toss",
+   "postedAt": 1794069386,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
+  {
+   "id": "2602159733",
+   "name": "ACRO NE10pro 블루투스 무선 이어폰, 화이트, 1개",
+   "price": 7900,
+   "originalPrice": 34900,
+   "discount": 77,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-11/f0dc5414-28ce-45d7-87db-aa185bca66cb.png",
+   "link": "https://toss.shopping/_m/PRYXI8Iz",
+   "source": "toss",
+   "postedAt": 1794069376,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
   {
    "id": "350045511",
    "name": "비타그램 펄스킨 6in1 갈바닉 마사지기, VG-0618, 화이트, 1개",
@@ -1260,76 +1288,6 @@
    "link": "https://toss.shopping/_m/XgHgyAkn",
    "source": "toss",
    "postedAt": 1793810669,
-   "endAt": "2026-11-06T00:00:00+09:00"
-  },
-  {
-   "id": "2634970855",
-   "name": "외갓집 닭양 만두, 180g, 10팩",
-   "price": 17690,
-   "originalPrice": 80000,
-   "discount": 77,
-   "grade": "무지성급",
-   "category": "식품",
-   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-24/e10cf7ad-2878-4121-8077-7bf1d1e43024.jpeg",
-   "link": "https://toss.shopping/_m/Hm7Sgnkn",
-   "source": "toss",
-   "postedAt": 1793808857,
-   "endAt": "2026-11-06T00:00:00+09:00"
-  },
-  {
-   "id": "1287208901",
-   "name": "화이트벨라 마이크로 니들 패치, 12매입, 1박스",
-   "price": 9600,
-   "originalPrice": 44700,
-   "discount": 78,
-   "grade": "무지성급",
-   "category": "뷰티",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MDBiZmIy/QUk0R2RzWmNlS2ZBdVRaZ1J6LzQzd2ZWQXhCKzc4bmNSTUUvMy9DaXJTQ0o.png",
-   "link": "https://toss.shopping/_m/feXvJT52",
-   "source": "toss",
-   "postedAt": 1793808845,
-   "endAt": "2026-11-06T00:00:00+09:00"
-  },
-  {
-   "id": "128564525",
-   "name": "일감생활 인체공학 고탄력 슬개골 무릎보호대, FREE, 4개",
-   "price": 13050,
-   "originalPrice": 65800,
-   "discount": 80,
-   "grade": "무지성급",
-   "category": "스포츠/레져",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-07-15/ea37aed8-8e9e-45d8-8312-80f2bbb189f5.jpeg",
-   "link": "https://toss.shopping/_m/3ioSiMOz",
-   "source": "toss",
-   "postedAt": 1793808834,
-   "endAt": "2026-11-06T00:00:00+09:00"
-  },
-  {
-   "id": "186225503",
-   "name": "지노바 PureTune 블루투스 무선 이어폰, ANC+ENC 노이즈캔슬링, 베이지, 1개",
-   "price": 22260,
-   "originalPrice": 125900,
-   "discount": 82,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/temp/2025-09-07/8751ae38-a369-4e12-b2a2-918bdc59d6ed.jpeg",
-   "link": "https://toss.shopping/_m/rkhbJgeb",
-   "source": "toss",
-   "postedAt": 1793808823,
-   "endAt": "2026-11-06T00:00:00+09:00"
-  },
-  {
-   "id": "1361912359",
-   "name": "팬톤 ANC 노이즈캔슬링 터치스크린 오토 페어링 아이폰 호환 C타입 충전 무선 블루투스 이어폰 BT350A, 그레이, 1개",
-   "price": 17450,
-   "originalPrice": 99000,
-   "discount": 82,
-   "grade": "무지성급",
-   "category": "가전/디지털",
-   "thumbnail": "https://shopping.toss.im/live/taca/ai/ZmQxMjVi/QUxhMC9PWkxXV2NidEpQRDRVM2IvRHpwVDd3T05yNUYvSk8weDROclZIaDg.png",
-   "link": "https://toss.shopping/_m/50o6bEcl",
-   "source": "toss",
-   "postedAt": 1793808812,
    "endAt": "2026-11-06T00:00:00+09:00"
   }
  ]
