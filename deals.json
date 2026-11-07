@@ -1,7 +1,21 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1794073111,
+ "updated": 1794073122,
  "deals": [
+  {
+   "id": "2640753397",
+   "name": "물결라인 헤어핀 5종, 1세트",
+   "price": 6880,
+   "originalPrice": 25800,
+   "discount": 73,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-31/b542efcc-486f-4f84-9671-a43dd98428bf.jpeg",
+   "link": "https://toss.shopping/_m/VofExIro",
+   "source": "toss",
+   "postedAt": 1794073122,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
   {
    "id": "86973821",
    "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
