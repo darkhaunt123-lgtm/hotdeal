@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1794065683,
+ "updated": 1794065706,
  "deals": [
+  {
+   "id": "2472931967",
+   "name": "뉴클 N54 맥세이프용 양면 마그네틱 휴대폰 링 거치대, NCHD-MR-10-LW, 화이트, 1개",
+   "price": 7360,
+   "originalPrice": 39800,
+   "discount": 81,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/OTM2MWIx/VUMzVWgvZkJxL3dKZGh3NFZBN1FBK0tCcS9RcXZTdzgxVXJSUTFGWEwvdz0.png",
+   "link": "https://toss.shopping/_m/LvMlRic2",
+   "source": "toss",
+   "postedAt": 1794065706,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
+  {
+   "id": "2583716623",
+   "name": "오델르 프릴 리본 가디건 BK3GD013, 레드, FFF, 1개",
+   "price": 14580,
+   "originalPrice": 83000,
+   "discount": 82,
+   "grade": "무지성급",
+   "category": "패션의류잡화",
+   "thumbnail": "https://shopping.toss.im/live/temp/2026-08-06/96c40319-46e1-4a27-bea5-b26b768ce24d.jpeg",
+   "link": "https://toss.shopping/_m/XjOQFePy",
+   "source": "toss",
+   "postedAt": 1794065694,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
   {
    "id": "1112030149",
    "name": "행운샴푸 오리지널, 500ml, 1개",
