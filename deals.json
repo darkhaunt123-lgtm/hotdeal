@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1794067544,
+ "updated": 1794067564,
  "deals": [
+  {
+   "id": "350045511",
+   "name": "비타그램 펄스킨 6in1 갈바닉 마사지기, VG-0618, 화이트, 1개",
+   "price": 21330,
+   "originalPrice": 99000,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "가전/디지털",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-11-24/aa1fcd43-4483-414b-a4ba-f850ae04ce91.jpeg",
+   "link": "https://toss.shopping/_m/xCMYFBgc",
+   "source": "toss",
+   "postedAt": 1794067564,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
+  {
+   "id": "1514960829",
+   "name": "던킨블렌드 캡슐커피, 네스프레소 호환, 에스프레소, 20개입, 4개",
+   "price": 20000,
+   "originalPrice": 94367,
+   "discount": 78,
+   "grade": "무지성급",
+   "category": "식품",
+   "thumbnail": "https://shopping.toss.im/live/taca/ai/v2/MTg3Yzk0/TVoyWk0yT1pMbWRtbVN4elo1bDVKbVpOa3lUR2VkbU1tWjJSakpNWlpuTT0.png",
+   "link": "https://toss.shopping/_m/5CyPVoH4",
+   "source": "toss",
+   "postedAt": 1794067554,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
   {
    "id": "2368859981",
    "name": "동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 1세트",
