@@ -1,7 +1,35 @@
 {
  "site": "오늘의 핫딜 대첩",
- "updated": 1794071250,
+ "updated": 1794071268,
  "deals": [
+  {
+   "id": "149142397",
+   "name": "주방 후드 필터, 10m, 2개",
+   "price": 6372,
+   "originalPrice": 16200,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "주방용품",
+   "thumbnail": "https://shopping.toss.im/live/product/272069/c1e6d8da-a7f4-4157-b56b-068851ad24b4.png",
+   "link": "https://toss.shopping/_m/jSTXb8Cz",
+   "source": "toss",
+   "postedAt": 1794071268,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
+  {
+   "id": "156673689",
+   "name": "덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
+   "price": 7540,
+   "originalPrice": 29900,
+   "discount": 74,
+   "grade": "무지성급",
+   "category": "생활용품",
+   "thumbnail": "https://shopping.toss.im/live/temp/2025-06-12/0b12c7e3-ad55-434d-a5de-f5838943c99a.jpeg",
+   "link": "https://toss.shopping/_m/nX4iyU8q",
+   "source": "toss",
+   "postedAt": 1794071259,
+   "endAt": "2026-11-09T00:00:00+09:00"
+  },
   {
    "id": "688982821",
    "name": "발이 편한 카바 밴딩 중목 양말, 여성용, 화이트, 20켤레",
